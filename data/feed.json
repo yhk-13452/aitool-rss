@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T13:40:48.125Z",
+  "generatedAt": "2026-10-18T14:49:55.362Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-18T13:40:48.125Z",
+      "fetchedAt": "2026-10-18T14:49:54.935Z",
       "items": [
         {
           "id": "163786a036fb254228cd8c0c61e56b2e4fdb256e",
@@ -111,7 +111,7 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-18T13:40:47.116Z",
+      "fetchedAt": "2026-10-18T14:49:55.362Z",
       "items": [
         {
           "id": "537ceb3d2cbf44d63ea3803b4ffc8d607acecd5d",
@@ -318,7 +318,7 @@
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-18T13:40:46.295Z",
+      "fetchedAt": "2026-10-18T14:49:53.896Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
