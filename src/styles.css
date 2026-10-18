@@ -61,6 +61,7 @@ main { flex: 1; }
     display: flex; align-items: center; gap: .6rem; padding: .6rem .8rem; z-index: 1;
 }
 .sheet-bar a { color: var(--accent); text-decoration: none; font-size: .9rem; }
+.sheet-bar .nolink { color: var(--muted); font-size: .85rem; }
 article { padding: 1rem .9rem calc(env(safe-area-inset-bottom) + 3rem); max-width: 720px; margin: 0 auto; width: 100%; }
 article h2 { font-size: 1.2rem; line-height: 1.4; margin: .2rem 0 .4rem; }
 article .meta { color: var(--muted); font-size: .8rem; margin-bottom: 1rem; }

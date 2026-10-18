@@ -36,7 +36,10 @@ jobs:
           node-version: '24'
           cache: npm
       - run: npm ci
-      - run: node scripts/fetch-feeds.mjs
+      - name: Fetch feeds
+        env:
+          FEEDS_JSON: ${{ secrets.FEEDS_JSON }}
+        run: node scripts/fetch-feeds.mjs
       - name: Commit feed.json
         run: |
           git config user.name "aitool-dev"

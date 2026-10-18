@@ -127,7 +127,9 @@ export default function App() {
                         {open.readAt
                             ? <button onClick={() => markUnread(open.id).then(() => setOpen({ ...open, readAt: null }))}>标未读</button>
                             : <button onClick={() => markRead(open.id).then(() => setOpen({ ...open, readAt: Date.now() }))}>标已读</button>}
-                        <a href={open.link} target="_blank" rel="noreferrer">原文 ↗</a>
+                        {open.link
+                            ? <a href={open.link} target="_blank" rel="noreferrer">原文 ↗</a>
+                            : <span className="nolink">已隐藏原文</span>}
                     </div>
                     <article>
                         <h2>{open.title}</h2>
