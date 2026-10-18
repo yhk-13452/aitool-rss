@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { articlesTable, markRead, markUnread, markAllRead, toggleStar } from './lib/db.js'
+import { articlesTable, feedsTable, markRead, markUnread, markAllRead, toggleStar, getMeta } from './lib/db.js'
 import { syncFeed, checkStorageIntegrity } from './lib/feed.js'
 import { exportBackup, importBackup } from './lib/backup.js'
 import { subscribe, applyUpdate, checkNow } from './lib/update.js'
@@ -35,6 +35,9 @@ export default function App() {
     const [busy, setBusy] = useState(false)
     const [loadError, setLoadError] = useState('')
     const [toast, setToast] = useState('')
+    const [showFeeds, setShowFeeds] = useState(false)
+    const [feedRows, setFeedRows] = useState([])
+    const [lastSyncMeta, setLastSyncMeta] = useState(null)
     const fileRef = useRef(null)
     const updateReady = useUpdateBanner()
 
@@ -118,6 +121,12 @@ export default function App() {
         }
     }
 
+    const openFeeds = async () => {
+        setFeedRows(await feedsTable.toArray())
+        setLastSyncMeta(await getMeta('lastSync'))
+        setShowFeeds(true)
+    }
+
     return (
         <div className="app">
             <header>
@@ -197,7 +206,45 @@ export default function App() {
                 </div>
             )}
 
+            {showFeeds && (
+                <div className="sheet">
+                    <div className="sheet-bar">
+                        <button onClick={() => setShowFeeds(false)}>← 返回</button>
+                        <span className="grow" />
+                        <strong>订阅状态</strong>
+                    </div>
+                    <div className="feeds-panel">
+                        <h3>订阅源</h3>
+                        <ul className="feed-list">
+                            {feedRows.map(f => (
+                                <li key={f.id}>
+                                    <div className="title">{f.title}</div>
+                                    <div className="meta">
+                                        {articles.filter(a => a.feedId === f.id).length} 篇 ·
+                                        抓取于 {f.fetchedAt ? fmtTime(f.fetchedAt) : '未知'}
+                                    </div>
+                                </li>
+                            ))}
+                        </ul>
+                        {lastSyncMeta?.errors?.length > 0 && (
+                            <>
+                                <h3>上次抓取失败</h3>
+                                <ul className="feed-list errors">
+                                    {lastSyncMeta.errors.map(e => (
+                                        <li key={e.id}>
+                                            <div className="title">{feedRows.find(f => f.id === e.id)?.title ?? e.id}</div>
+                                            <div className="meta">{e.error}</div>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </>
+                        )}
+                    </div>
+                </div>
+            )}
+
             <footer>
+                <button onClick={openFeeds}>订阅</button>
                 <button onClick={onExport}>备份</button>
                 <button onClick={() => fileRef.current?.click()}>恢复</button>
                 <input ref={fileRef} type="file" accept="application/json,.json" style={{ display: 'none' }} onChange={onImport} />

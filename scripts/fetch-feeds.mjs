@@ -5,15 +5,16 @@ import Parser from 'rss-parser';
 
 const root = path.resolve(import.meta.dirname, '..');
 
-// 订阅清单优先读 Actions Secret FEEDS_JSON（公开仓库的 Actions 日志人人可见，
-// 所以错误信息也要脱敏：URL 与主机名一律不回显）。仓库文件仅作本地开发 fallback。
+// 订阅清单优先从环境变量 FEEDS_JSON 读取（由 CI 注入）；
+// 公开仓库的 Actions 日志人人可见，所以错误信息也要脱敏：URL 与主机名一律不回显。
+// 仓库文件 feeds.config.json 仅作本地开发 fallback。
 let config;
 const rawEnv = process.env.FEEDS_JSON?.trim();
 if (rawEnv) {
   try {
     config = JSON.parse(rawEnv);
   } catch {
-    // 不回显解析错误细节，避免 secret 片段进公开 Actions 日志
+    // 不回显解析错误细节，避免环境变量内容片段进公开 Actions 日志
     console.error('FEEDS_JSON 不是合法 JSON（请检查格式，勿带多余引号/换行转义问题）');
     process.exit(1);
   }
@@ -24,7 +25,7 @@ if (rawEnv) {
     text = await readFile(configPath, 'utf8');
   } catch (e) {
     console.error(e.code === 'ENOENT'
-      ? '缺少订阅配置：未设置 FEEDS_JSON，也读不到 feeds.config.json（GitHub 上请到 Settings→Secrets→Actions 新建 FEEDS_JSON）'
+      ? '缺少订阅配置：FEEDS_JSON 未设置且 feeds.config.json 不存在'
       : `读取 ${configPath} 失败: ${e.message}`);
     process.exit(1);
   }

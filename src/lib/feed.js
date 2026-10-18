@@ -25,7 +25,7 @@ export async function syncFeed() {
     const toAdd = newArticles.filter(a => !existingIds.has(a.id))
     if (toAdd.length) await articlesTable.bulkAdd(toAdd)
 
-    await feedsTable.bulkPut(data.feeds.map(f => ({ id: f.id, title: f.title })))
+    await feedsTable.bulkPut(data.feeds.map(f => ({ id: f.id, title: f.title, fetchedAt: f.fetchedAt })))
 
     const before = await articlesTable.count()
     await setMeta('lastSync', {
