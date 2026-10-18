@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-18T07:59:00.662Z",
+  "generatedAt": "2026-10-18T12:36:03.109Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-18T07:59:00.506Z",
+      "fetchedAt": "2026-10-18T12:36:03.061Z",
       "items": [
+        {
+          "id": "163786a036fb254228cd8c0c61e56b2e4fdb256e",
+          "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
+          "link": "https://sspai.com/post/115241",
+          "pubDate": "2026-10-18T07:01:02.000Z",
+          "author": "leonmin",
+          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115241\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "9452e947c800545cbd4ae3c53eb82a51371f39e7",
           "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
@@ -95,24 +105,24 @@
           "contentSnippet": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...查看全文",
           "content": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "ec7540859b8aa5d7920604c5cc1849c847a0fea0",
-          "title": "App+1｜Mangata：把每次散步当作一次探索旅行",
-          "link": "https://sspai.com/post/115238",
-          "pubDate": "2026-10-15T03:00:00.000Z",
-          "author": "zac",
-          "contentSnippet": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。查看全文",
-          "content": "不一定要拍满，也不一定要发。走完看看留下了什么，就够了。<a href=\"https://sspai.com/post/115238\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-18T07:59:00.662Z",
+      "fetchedAt": "2026-10-18T12:36:03.109Z",
       "items": [
+        {
+          "id": "537ceb3d2cbf44d63ea3803b4ffc8d607acecd5d",
+          "title": "消费电子太无聊，连设计大师都想逃",
+          "link": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-18T09:10:58.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "好设计的坏时代\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "好设计的坏时代<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "a1c592b1ecf49a4cd7851ff9661493d5475a2009",
           "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
@@ -302,23 +312,13 @@
           "contentSnippet": "以 AI 发展速度，一年后我们又该弃用 Scion\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "以 AI 发展速度，一年后我们又该弃用 Scion<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "0a9b54357918d4441aaae9d6b6c93cabd7e9d8e7",
-          "title": "‌​‌⁤‌⁢​​​​​‬⁣⁣⁢⁢⁡⁡⁢​⁡‌​‬‍⁤⁢‌﻿⁡⁤⁡⁣⁡⁤﻿​‌​⁢​⁤⁤‌⁢​‬⁣⁡刚刚，Gemini 4 发布！性价比「斩杀」GPT-6 和 Opus 5.5，重回御三家",
-          "link": "https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-14T02:56:48.000Z",
-          "author": "莫崇宇",
-          "contentSnippet": "哈基米终于支棱起来了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "哈基米终于支棱起来了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-18T07:58:59.835Z",
+      "fetchedAt": "2026-10-18T12:36:01.745Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
