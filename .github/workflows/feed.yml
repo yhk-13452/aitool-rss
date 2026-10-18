@@ -1,0 +1,61 @@
+name: Fetch feeds
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - 'feeds.config.json'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'data/index.html'
+      - '.github/workflows/feed.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: feed
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: node scripts/fetch-feeds.mjs
+      - name: Commit feed.json
+        run: |
+          git config user.name "aitool-dev"
+          git config user.email "aitool-dev@users.noreply.github.com"
+          git add data/feed.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: scheduled feed update [skip ci]"
+            git push
+          else
+            echo "feed unchanged, nothing to commit"
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: data
+
+  deploy:
+    needs: fetch
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

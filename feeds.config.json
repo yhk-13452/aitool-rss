@@ -1,0 +1,9 @@
+{
+  "feeds": [
+    { "id": "sspai", "url": "https://sspai.com/feed" },
+    { "id": "ifanr", "url": "https://www.ifanr.com/feed" },
+    { "id": "ruanyifeng", "url": "https://www.ruanyifeng.com/blog/atom.xml" }
+  ],
+  "maxItemsPerFeed": 30,
+  "timeoutMs": 20000
+}

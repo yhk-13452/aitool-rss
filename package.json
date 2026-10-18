@@ -1,0 +1,13 @@
+{
+  "name": "aitool-rss-pipeline",
+  "private": true,
+  "type": "module",
+  "version": "0.0.1",
+  "description": "PoC: GitHub Actions scheduled RSS fetch -> static feed.json",
+  "scripts": {
+    "fetch": "node scripts/fetch-feeds.mjs"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
