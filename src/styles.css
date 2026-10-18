@@ -34,6 +34,7 @@ button {
 .bar button { background: rgba(255,255,255,.15); color: #fff; border-color: transparent; }
 
 .banner { padding: .5rem .8rem; font-size: .85rem; border-bottom: 1px solid var(--line); }
+.banner.info { background: #e8f7ee; }
 .banner.warn { background: #fff6e5; }
 .banner.danger { background: #ffe9e9; }
 .banner.update { background: #e6f0ff; display: flex; align-items: center; gap: .6rem; }

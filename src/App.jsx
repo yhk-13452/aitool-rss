@@ -1,6 +1,7 @@
-import { useEffect, useMemo, useState } from 'react'
-import { articlesTable, markRead, markUnread, getMeta } from './lib/db.js'
+import { useEffect, useMemo, useRef, useState } from 'react'
+import { articlesTable, markRead, markUnread, markAllRead, toggleStar } from './lib/db.js'
 import { syncFeed, checkStorageIntegrity } from './lib/feed.js'
+import { exportBackup, importBackup } from './lib/backup.js'
 import { subscribe, applyUpdate, checkNow } from './lib/update.js'
 
 const build = __APP_BUILD__
@@ -33,7 +34,14 @@ export default function App() {
     const [wiped, setWiped] = useState(false)
     const [busy, setBusy] = useState(false)
     const [loadError, setLoadError] = useState('')
+    const [toast, setToast] = useState('')
+    const fileRef = useRef(null)
     const updateReady = useUpdateBanner()
+
+    const notify = (msg) => {
+        setToast(msg)
+        setTimeout(() => setToast(''), 4000)
+    }
 
     const reload = async () => {
         setBusy(true)
@@ -56,7 +64,9 @@ export default function App() {
     }, [])
 
     useEffect(() => {
-        if (openId) markRead(openId).then(() => articlesTable.get(openId).then(setOpen))
+        if (openId) {
+            markRead(openId).then(() => articlesTable.get(openId).then(setOpen))
+        }
     }, [openId])
 
     const feeds = useMemo(() => {
@@ -64,7 +74,49 @@ export default function App() {
         for (const a of articles) m.set(a.feedId, a.feedTitle)
         return [...m.entries()]
     }, [articles])
-    const shown = filter === 'all' ? articles : articles.filter(a => a.feedId === filter)
+
+    const shown = useMemo(() => {
+        if (filter === 'all') return articles
+        if (filter === 'unread') return articles.filter(a => a.readAt == null)
+        if (filter === 'starred') return articles.filter(a => a.starredAt != null)
+        return articles.filter(a => a.feedId === filter)
+    }, [articles, filter])
+
+    const filterFeedId = feeds.some(([id]) => id === filter) ? filter : null
+
+    const onMarkAllRead = async () => {
+        const scope = filterFeedId ? articles.find(a => a.feedId === filterFeedId)?.feedTitle : '全部'
+        if (!window.confirm(`把「${scope}」的未读文章全部标为已读？`)) return
+        const n = await markAllRead(filterFeedId)
+        notify(`已标已读 ${n} 篇`)
+        reload()
+    }
+
+    const onToggleStar = async () => {
+        const starredAt = await toggleStar(open.id)
+        setOpen({ ...open, starredAt })
+        setArticles(prev => prev.map(a => a.id === open.id ? { ...a, starredAt } : a))
+    }
+
+    const onExport = async () => {
+        const r = await exportBackup()
+        if (r.method === 'share') notify(`已分享备份（${r.states} 条状态）`)
+        else if (r.method === 'download') notify(`已下载备份（${r.states} 条状态）`)
+        else if (r.method === 'cancelled') notify('已取消分享')
+    }
+
+    const onImport = async (e) => {
+        const file = e.target.files?.[0]
+        e.target.value = ''
+        if (!file) return
+        try {
+            const r = await importBackup(file)
+            notify(`恢复完成：命中 ${r.applied} 条${r.missing ? `，${r.missing} 条文章暂不在本地（同步后再恢复一次）` : ''}`)
+            reload()
+        } catch (err) {
+            notify(`恢复失败：${err.message}`)
+        }
+    }
 
     return (
         <div className="app">
@@ -72,8 +124,10 @@ export default function App() {
                 <div className="bar">
                     <strong>RSS</strong>
                     <span className="grow" />
+                    <button onClick={onMarkAllRead}>标已读</button>
                     <button disabled={busy} onClick={reload}>{busy ? '刷新中…' : '刷新'}</button>
                 </div>
+                {toast && <div className="banner info">{toast}</div>}
                 {updateReady && (
                     <div className="banner update">
                         新版本已就绪
@@ -100,6 +154,8 @@ export default function App() {
 
             <nav className="chips">
                 <button className={filter === 'all' ? 'on' : ''} onClick={() => setFilter('all')}>全部</button>
+                <button className={filter === 'unread' ? 'on' : ''} onClick={() => setFilter('unread')}>未读</button>
+                <button className={filter === 'starred' ? 'on' : ''} onClick={() => setFilter('starred')}>收藏</button>
                 {feeds.map(([id, title]) => (
                     <button key={id} className={filter === id ? 'on' : ''} onClick={() => setFilter(id)}>{title}</button>
                 ))}
@@ -107,12 +163,12 @@ export default function App() {
 
             <main>
                 {shown.length === 0 && !busy && (
-                    <p className="empty">没有文章。若刚清除过数据，点上方「刷新」重建缓存。</p>
+                    <p className="empty">{filter === 'starred' ? '还没有收藏。打开文章后点 ☆ 收藏。' : filter === 'unread' ? '没有未读文章。' : '没有文章。若刚清除过数据，点上方「刷新」重建缓存。'}</p>
                 )}
                 <ul className="list">
                     {shown.map(a => (
                         <li key={a.id} className={a.readAt ? 'read' : 'unread'} onClick={() => setOpenId(a.id)}>
-                            <div className="title">{a.title}</div>
+                            <div className="title">{a.starredAt ? '★ ' : ''}{a.title}</div>
                             <div className="meta">{a.feedTitle} · {fmtTime(a.pubDate)}</div>
                         </li>
                     ))}
@@ -124,9 +180,11 @@ export default function App() {
                     <div className="sheet-bar">
                         <button onClick={() => { setOpen(null); setOpenId(null); reload() }}>← 返回</button>
                         <span className="grow" />
-                        {open.readAt
-                            ? <button onClick={() => markUnread(open.id).then(() => setOpen({ ...open, readAt: null }))}>标未读</button>
-                            : <button onClick={() => markRead(open.id).then(() => setOpen({ ...open, readAt: Date.now() }))}>标已读</button>}
+                        <button onClick={onToggleStar} title="收藏">{open.starredAt ? '★' : '☆'}</button>
+                        <button onClick={async () => {
+                            const s = await (open.readAt ? markUnread(open.id).then(() => null) : markRead(open.id))
+                            setOpen({ ...open, readAt: s ?? null })
+                        }}>{open.readAt ? '标未读' : '标已读'}</button>
                         {open.link
                             ? <a href={open.link} target="_blank" rel="noreferrer">原文 ↗</a>
                             : <span className="nolink">已隐藏原文</span>}
@@ -140,8 +198,11 @@ export default function App() {
             )}
 
             <footer>
-                <span>build {build.id}{build.dirty ? '*' : ''} @ {build.at?.slice(0, 16).replace('T', ' ')}</span>
+                <button onClick={onExport}>备份</button>
+                <button onClick={() => fileRef.current?.click()}>恢复</button>
+                <input ref={fileRef} type="file" accept="application/json,.json" style={{ display: 'none' }} onChange={onImport} />
                 <span className="grow" />
+                <span>build {build.id}{build.dirty ? '*' : ''} @ {build.at?.slice(0, 16).replace('T', ' ')}</span>
                 <button onClick={async () => {
                     const r = await checkNow()
                     alert(r.checked ? (r.updated ? '有新版本，点「重启更新」生效' : '已是最新版本') : `检查失败：${r.reason}`)

@@ -11,6 +11,11 @@ db.version(1).stores({
     meta: '&key',
 })
 
+// v2：starredAt 索引（收藏）。老记录没有该属性，不进索引也无需回填——查询走 filter。
+db.version(2).stores({
+    articles: '&id, feedId, pubDate, readAt, starredAt, [feedId+pubDate]',
+})
+
 export const articlesTable = db.table('articles')
 export const feedsTable = db.table('feeds')
 export const metaTable = db.table('meta')
@@ -23,6 +28,21 @@ export async function markRead(id) {
 
 export async function markUnread(id) {
     await articlesTable.update(id, { readAt: null })
+}
+
+export async function toggleStar(id) {
+    const art = await articlesTable.get(id)
+    const starredAt = art?.starredAt ? null : Date.now()
+    await articlesTable.update(id, { starredAt })
+    return starredAt
+}
+
+// 整源（feedId）或全部（null）把未读标为已读，返回改动条数
+export async function markAllRead(feedId) {
+    const now = Date.now()
+    return articlesTable
+        .filter(a => a.readAt == null && (!feedId || a.feedId === feedId))
+        .modify({ readAt: now })
 }
 
 export async function getMeta(key) {

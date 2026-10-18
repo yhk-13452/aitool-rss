@@ -53,6 +53,7 @@ jobs:
           fi
       - name: Generate placeholder icons
         run: node build/make-icons.mjs
+      - run: npm run lint
       - name: Build PWA
         run: npm run build
       - uses: actions/configure-pages@v5
