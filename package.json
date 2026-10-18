@@ -1,13 +1,23 @@
 {
-  "name": "aitool-rss-pipeline",
+  "name": "aitool-rss",
   "private": true,
   "type": "module",
   "version": "0.0.1",
-  "description": "PoC: GitHub Actions scheduled RSS fetch -> static feed.json",
   "scripts": {
-    "fetch": "node scripts/fetch-feeds.mjs"
+    "fetch": "node scripts/fetch-feeds.mjs",
+    "dev": "node build/copy-feed.mjs && vite",
+    "build": "node build/copy-feed.mjs && vite build",
+    "preview": "vite preview"
   },
   "dependencies": {
+    "dexie": "^4.0.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "vite": "^8.3.4",
+    "vite-plugin-pwa": "^2.0.0"
   }
 }

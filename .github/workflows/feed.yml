@@ -8,10 +8,13 @@ on:
     branches: [main]
     paths:
       - 'scripts/**'
+      - 'build/**'
+      - 'src/**'
+      - 'index.html'
+      - 'vite.config.js'
       - 'feeds.config.json'
       - 'package.json'
       - 'package-lock.json'
-      - 'data/index.html'
       - '.github/workflows/feed.yml'
 
 permissions:
@@ -45,10 +48,14 @@ jobs:
           else
             echo "feed unchanged, nothing to commit"
           fi
+      - name: Generate placeholder icons
+        run: node build/make-icons.mjs
+      - name: Build PWA
+        run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: data
+          path: dist
 
   deploy:
     needs: fetch
