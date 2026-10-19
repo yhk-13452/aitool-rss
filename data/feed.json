@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-18T22:24:51.260Z",
+  "generatedAt": "2026-10-19T01:13:56.518Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-18T22:24:51.229Z",
+      "fetchedAt": "2026-10-19T01:13:56.376Z",
       "items": [
+        {
+          "id": "6d8ef7dcdd2ea2dd1bb1d65fe53f26dce868fce7",
+          "title": "派早报：三季度全球手机出货量继续两位数下降",
+          "link": "https://sspai.com/post/116641",
+          "pubDate": "2026-10-18T23:13:24.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "三季度全球手机出货量继续两位数下降\nRoadster 发布会留下诸多疑问\n闰时将取代闰秒\n微软声称 Windows 11 响应提速 20%，为 8GB 优化\nE Ink 发布 Kaleido 4\n全国铁路列车车次编排更新\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "content": "<p>三季度全球手机出货量继续两位数下降</p><p>Roadster 发布会留下诸多疑问</p><p>闰时将取代闰秒</p><p>微软声称 Windows 11 响应提速 20%，为 8GB 优化</p><p>E Ink 发布 Kaleido 4</p><p>全国铁路列车车次编排更新</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/116641\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "163786a036fb254228cd8c0c61e56b2e4fdb256e",
           "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
@@ -95,24 +105,24 @@
           "contentSnippet": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...查看全文",
           "content": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...<a href=\"https://sspai.com/post/116181\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "a3e2753db595bf8fa003f984c2ada22cb869a0db",
-          "title": "学得会的快捷指令，零基础入门苹果效率魔法",
-          "link": "https://sspai.com/post/116182",
-          "pubDate": "2026-10-15T06:30:00.000Z",
-          "author": "Tp",
-          "contentSnippet": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...查看全文",
-          "content": "快捷指令一直被视为苹果用户必备的效率利器。不仅网络上已有大量的指令可供下载，如果能根据自己的需求，从零开始构建一条快捷指令，就不用在iPhone/Mac上频繁手动操作，可以节省大量时间。然而想要熟练掌 ...<a href=\"https://sspai.com/post/116182\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-18T22:24:51.259Z",
+      "fetchedAt": "2026-10-19T01:13:56.518Z",
       "items": [
+        {
+          "id": "e3f12232581bad4543ad4452f7e69a4ec71f961d",
+          "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产",
+          "link": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-19T00:00:42.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\r\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\r\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\r\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\r\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "537ceb3d2cbf44d63ea3803b4ffc8d607acecd5d",
           "title": "消费电子太无聊，连设计大师都想逃",
@@ -302,23 +312,13 @@
           "contentSnippet": "王朝网再次冲高。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "王朝网再次冲高。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "7b1274b5d3c07e56422071f1aec757ac72388828",
-          "title": "刚刚，Anthropic 宣布弃用Git，统治编程20年的工具顶不住AI了",
-          "link": "https://www.ifanr.com/1684269?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-14T06:10:14.000Z",
-          "author": "张子豪",
-          "contentSnippet": "以 AI 发展速度，一年后我们又该弃用 Scion\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "以 AI 发展速度，一年后我们又该弃用 Scion<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-18T22:24:50.382Z",
+      "fetchedAt": "2026-10-19T01:13:55.509Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
