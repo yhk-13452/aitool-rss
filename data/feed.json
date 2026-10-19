@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-10-19T06:12:53.181Z",
+  "generatedAt": "2026-10-19T13:10:19.423Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-19T06:12:53.078Z",
+      "fetchedAt": "2026-10-19T13:10:19.376Z",
       "items": [
+        {
+          "id": "98eb7bc09db3d937bc60fbe42739ff8029154e59",
+          "title": "派评 | 近期值得关注的 App",
+          "link": "https://sspai.com/post/116705",
+          "pubDate": "2026-10-19T09:39:45.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/116705\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "d6978d35f60c5c6e182936c52c1261080325a310",
+          "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
+          "link": "https://sspai.com/post/116585",
+          "pubDate": "2026-10-19T08:35:40.000Z",
+          "author": "waychane",
+          "contentSnippet": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文",
+          "content": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...<a href=\"https://sspai.com/post/116585\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "43f0843af9a8accce948bd77f9e6c0162d459d54",
+          "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
+          "link": "https://sspai.com/post/116699",
+          "pubDate": "2026-10-19T08:00:19.000Z",
+          "author": "麻乐",
+          "contentSnippet": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
+          "content": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/116699\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "6e7b200dd09e51758c6d2d69143ad64fe5f08ca9",
           "title": "开源掌机的文化线索",
@@ -75,44 +105,54 @@
           "contentSnippet": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。查看全文",
           "content": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。<a href=\"https://sspai.com/post/115679\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "3afaf9e2144580af74c040f31a7102fc3fc37ca4",
-          "title": "让读书笔记不再吃灰：我做了一款跨平台书摘管理工具",
-          "link": "https://sspai.com/post/115688",
-          "pubDate": "2026-10-16T02:18:38.000Z",
-          "author": "jiayifun",
-          "contentSnippet": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。查看全文",
-          "content": "从微信读书的 3 万条划线出发，我做了一个让阅读笔记重新回到日常的 App。<a href=\"https://sspai.com/post/115688\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "237770bb8865da144ee14efc8fd35a086a32fa40",
-          "title": "派早报：Apple 智能国行 Beta 版本将于本月晚些时候上线测试版本",
-          "link": "https://sspai.com/post/116355",
-          "pubDate": "2026-10-16T00:23:12.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。查看全文",
-          "content": "SpaceXAI 发布 Grok Voice 3.0 语音模型、微软发布 XBOX Nano 口袋手柄等。<a href=\"https://sspai.com/post/116355\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "d929c19a03671dd57b734bc7f46da3666d44d33b",
-          "title": "新玩意 253｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/116246",
-          "pubDate": "2026-10-15T09:10:14.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/116246\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-19T06:12:53.181Z",
+      "fetchedAt": "2026-10-19T13:10:19.423Z",
       "items": [
+        {
+          "id": "0d1df29bd01c9cca42d3ad83a063819e0eb3496f",
+          "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
+          "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-19T10:09:25.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "给屏幕装上脖子\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "给屏幕装上脖子<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "e2db634ca3aa5a64a5e6cdb2fde238a7385ddb65",
+          "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
+          "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-19T09:21:16.000Z",
+          "author": "张子豪",
+          "contentSnippet": "好用到原地「起飞」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "好用到原地「起飞」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "ae50edeb08faabb5e94969c24d5815ad14cae805",
+          "title": "‌‍⁢⁡⁤⁢⁣‬⁢⁤微信鸿蒙版两周年小记：两群人，一件难事，从陌生到并肩的700天‌⁣‌﻿‬⁡⁢​⁢⁢‍‬​​⁡‍⁤​​⁤‍⁣‬⁡​​⁣​‬⁣⁣‍‍⁤​‌​⁢⁢‌",
+          "link": "https://www.ifanr.com/1684608?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-19T08:05:24.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "平台与伙伴并肩作战、克服困难，其中辛酸故事不为人知\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "平台与伙伴并肩作战、克服困难，其中辛酸故事不为人知<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "0bb24aa3ab87ef37ccf78af6a60a5b643b15661b",
+          "title": "微信鸿蒙版两周年背后，你不知道的故事",
+          "link": "https://www.ifanr.com/1684869?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-19T07:46:24.000Z",
+          "author": "爱范儿视频",
+          "contentSnippet": "从零重写，两年从 1.0 追到 8.0。这是微信鸿蒙版，和它背后那群人的故事。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "从零重写，两年从 1.0 追到 8.0。这是微信鸿蒙版，和它背后那群人的故事。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "50a5bdd10a1bfa86d20b5e754504c7b60d69d56f",
           "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
@@ -272,53 +312,13 @@
           "contentSnippet": "终于来了！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "终于来了！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "aaba84e245b27fecc71730f70feaf3b5c7a22a9f",
-          "title": "一台车出厂前，要过多少道关？我们在一汽-大众工厂找到了答案",
-          "link": "https://www.ifanr.com/1684409?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T05:37:16.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "中国用户出题，大众本土作答。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "中国用户出题，大众本土作答。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "90a5a8d0bae894fb7f5abdc8f5cca40fb67e310d",
-          "title": "早报｜iPhone Duo完成大模型备案，有望12月上线/企业微信与WorkBuddy打通/OPPO与Manus官宣合作",
-          "link": "https://www.ifanr.com/1684374?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T00:13:28.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元\r\n· ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求\r\n· 9 月消费电子价格普涨，存储设备同比上涨 46.7%\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 苹果公布 HomeView 维修费：保修外服务预估 279 美元\r\n· ASML 第三季度营收 116.62 亿欧元，计划扩产应对 AI 需求\r\n· 9 月消费电子价格普涨，存储设备同比上涨 46.7%<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "6133c043a194443c3d58d15956a458998b938795",
-          "title": "苹果 HomeView 上手汇总：「果家」首秀小惊艳，SiriAI 很聪明",
-          "link": "https://www.ifanr.com/1684341?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-14T12:35:44.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "苹果 AI 终于有「家」了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "苹果 AI 终于有「家」了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "bd9a5658acfc59524f5e2a12070175cf93746a43",
-          "title": "Nothing Headphone (1) Pro 体验：全面晋级，当旗舰头戴也开始玩多单元",
-          "link": "https://www.ifanr.com/1683906?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-14T10:14:04.000Z",
-          "author": "梁梦麟",
-          "contentSnippet": "面向未来，用于当代\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "面向未来，用于当代<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-19T06:12:52.013Z",
+      "fetchedAt": "2026-10-19T13:10:18.093Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
