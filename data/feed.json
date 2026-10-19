@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-19T01:13:56.518Z",
+  "generatedAt": "2026-10-19T06:12:53.181Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-19T01:13:56.376Z",
+      "fetchedAt": "2026-10-19T06:12:53.078Z",
       "items": [
+        {
+          "id": "6e7b200dd09e51758c6d2d69143ad64fe5f08ca9",
+          "title": "开源掌机的文化线索",
+          "link": "https://sspai.com/post/115125",
+          "pubDate": "2026-10-19T02:49:51.000Z",
+          "author": "蓬岸",
+          "contentSnippet": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文",
+          "content": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？<a href=\"https://sspai.com/post/115125\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "6d8ef7dcdd2ea2dd1bb1d65fe53f26dce868fce7",
           "title": "派早报：三季度全球手机出货量继续两位数下降",
@@ -95,24 +105,24 @@
           "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
           "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/116246\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "4034bdf32e8e236b86f31894402d6f5dc1a62821",
-          "title": "顺应变化，重申标准：《少数派创作手册》修订说明",
-          "link": "https://sspai.com/post/116181",
-          "pubDate": "2026-10-15T08:09:12.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...查看全文",
-          "content": "四年前，我们发布了《少数派创作手册》（manual.sspai.com），旨在让作者更快捷地获得创作过程中所需的信息，以及更一致地传达对于内容选编的标准和主张。四年来，《创作手册》获得了作者们的广泛查 ...<a href=\"https://sspai.com/post/116181\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-19T01:13:56.518Z",
+      "fetchedAt": "2026-10-19T06:12:53.181Z",
       "items": [
+        {
+          "id": "50a5bdd10a1bfa86d20b5e754504c7b60d69d56f",
+          "title": "实测 Lovart 2.0 ，设计 AI 进入个人助理时代",
+          "link": "https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-19T02:53:15.000Z",
+          "author": "樊 尔",
+          "contentSnippet": "你下班了，Arti 还能继续工作\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "你下班了，Arti 还能继续工作<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "e3f12232581bad4543ad4452f7e69a4ec71f961d",
           "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产",
@@ -302,23 +312,13 @@
           "contentSnippet": "面向未来，用于当代\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "面向未来，用于当代<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "8d894c65750973eb22f67c6f1fdce0711325918e",
-          "title": "纯电续航破千！比亚迪大汉 23.59 万元起，看齐全尺寸行政旗舰",
-          "link": "https://www.ifanr.com/1684288?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-14T06:52:43.000Z",
-          "author": "李华",
-          "contentSnippet": "王朝网再次冲高。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "王朝网再次冲高。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-19T01:13:55.509Z",
+      "fetchedAt": "2026-10-19T06:12:52.013Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
