@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-19T23:37:38.404Z",
+  "generatedAt": "2026-10-20T04:45:45.032Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-19T23:37:38.404Z",
+      "fetchedAt": "2026-10-20T04:45:45.032Z",
       "items": [
+        {
+          "id": "c17a06410d38d3bf3f81e38b7881bf6bcbb60dfe",
+          "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
+          "link": "https://sspai.com/post/116430",
+          "pubDate": "2026-10-20T02:34:39.000Z",
+          "author": "Hare",
+          "contentSnippet": "简单干净、支持双拼纠错的 iOS 输入法。查看全文",
+          "content": "简单干净、支持双拼纠错的 iOS 输入法。<a href=\"https://sspai.com/post/116430\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "a3064b3b9d14742530bd2435232f9034009a5adc",
+          "title": "派早报：MiniMax 发布 M3.1 Flash 模型等",
+          "link": "https://sspai.com/post/116758",
+          "pubDate": "2026-10-20T00:39:33.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。查看全文",
+          "content": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。<a href=\"https://sspai.com/post/116758\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "98eb7bc09db3d937bc60fbe42739ff8029154e59",
           "title": "派评 | 近期值得关注的 App",
@@ -85,34 +105,54 @@
           "contentSnippet": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...查看全文",
           "content": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...<a href=\"https://sspai.com/post/116423\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "066ea5562266bf2743b92f142ddbc7102270701e",
-          "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
-          "link": "https://sspai.com/post/114836",
-          "pubDate": "2026-10-16T06:24:47.000Z",
-          "author": "一群小羊说",
-          "contentSnippet": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。查看全文",
-          "content": "当你下次在屏幕前看到两台赛车撞得粉身碎骨、而车手淡定地推开残骸向看台挥手致意时，希望你能想起今天的故事。<a href=\"https://sspai.com/post/114836\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "65658ca816e5638c2d440b5def6c58177e0b50b2",
-          "title": "一面专注体验，一面表达个性：麦金獭钢化膜与极稚墨水屏手机壳体验",
-          "link": "https://sspai.com/post/115679",
-          "pubDate": "2026-10-16T04:41:05.000Z",
-          "author": "什么陈",
-          "contentSnippet": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。查看全文",
-          "content": "从正面的手感与显示聊起，再翻到背面看看换图的玩法。<a href=\"https://sspai.com/post/115679\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-19T23:37:38.401Z",
+      "fetchedAt": "2026-10-20T04:45:44.865Z",
       "items": [
+        {
+          "id": "2508c5b703be095b2be848325f72a71aef5472e1",
+          "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
+          "link": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-20T03:57:44.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "MemT 1.0 开源，给出「记忆原生」新解法\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "MemT 1.0 开源，给出「记忆原生」新解法<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "f65a571105281555bded523e56b4d78b92686876",
+          "title": "特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
+          "link": "https://www.ifanr.com/1684938?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-20T02:18:01.000Z",
+          "author": "李华",
+          "contentSnippet": "马斯克：我朝你放个屁。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "马斯克：我朝你放个屁。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "c60c4043411675d6f9920c1d032b493ea1f4ea20",
+          "title": "苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
+          "link": "https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-20T01:00:07.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "真·高端局\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "真·高端局<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "b2d0b8d640696c87bad1d22c4897fb351ca14d28",
+          "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
+          "link": "https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-20T00:07:06.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\r\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\r\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\r\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\r\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "0d1df29bd01c9cca42d3ad83a063819e0eb3496f",
           "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
@@ -272,53 +312,13 @@
           "contentSnippet": "大圆柱电池是个好东西。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "大圆柱电池是个好东西。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "8ffb9e89bcb7e148e7aabfa27d73f83e0065b3c7",
-          "title": "给现实世界按下复制键，禾赛做了一台「AI 空间相机」",
-          "link": "https://www.ifanr.com/1684538?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T14:20:44.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "复刻一个「虚拟现实」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "复刻一个「虚拟现实」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "2190422815f70cc7f4753a900c4afc466cd053e0",
-          "title": "技术没有捷径：十年 1.3 万亿研发投入，华为选择走自己的路",
-          "link": "https://www.ifanr.com/1684477?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T12:00:10.000Z",
-          "author": "艾 梵",
-          "contentSnippet": "一片树林里分出两条路，而我选了人迹更少的一条，因此走出了这迥异的旅途。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "一片树林里分出两条路，而我选了人迹更少的一条，因此走出了这迥异的旅途。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "722ba3a989379eb1e470c6f3395a75151eb3246b",
-          "title": "Surface Laptop Ultra 首发体验：是最强 Windows 笔记本，也是 AI 时代的全能本",
-          "link": "https://www.ifanr.com/1684442?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T12:00:02.000Z",
-          "author": "肖钦鹏",
-          "contentSnippet": "纳德拉和老黄，能盘活 Windows on Arm 吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "纳德拉和老黄，能盘活 Windows on Arm 吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "97984e535b1a5ce249cdfce7471a15c591899848",
-          "title": "独家｜库克确认苹果国行 AI，10 月底上线测试版！",
-          "link": "https://www.ifanr.com/1684431?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T09:09:38.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "终于来了！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "终于来了！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-19T23:37:37.515Z",
+      "fetchedAt": "2026-10-20T04:45:43.978Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
