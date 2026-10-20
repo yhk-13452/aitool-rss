@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-20T04:45:45.032Z",
+  "generatedAt": "2026-10-20T10:01:28.604Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-20T04:45:45.032Z",
+      "fetchedAt": "2026-10-20T10:01:28.603Z",
       "items": [
+        {
+          "id": "bdfbd7fa1fbc415959dd17b72195c9154fd7580e",
+          "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
+          "link": "https://sspai.com/post/116661",
+          "pubDate": "2026-10-20T07:07:54.000Z",
+          "author": "Microhoo",
+          "contentSnippet": "原厂屏幕之外最省心的搭档。查看全文",
+          "content": "原厂屏幕之外最省心的搭档。<a href=\"https://sspai.com/post/116661\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "c17a06410d38d3bf3f81e38b7881bf6bcbb60dfe",
           "title": "App+1 | 紫毫：基于 Rime 引擎、支持双拼纠错的 iOS 输入法",
@@ -95,23 +105,13 @@
           "contentSnippet": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。查看全文",
           "content": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。<a href=\"https://sspai.com/post/104231\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "e04195ed6379680931147810d422bfaaa709341f",
-          "title": "本周看什么 | 最近值得一看的 13 部作品",
-          "link": "https://sspai.com/post/116423",
-          "pubDate": "2026-10-16T10:21:07.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...查看全文",
-          "content": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执导、编剧，神木隆之 ...<a href=\"https://sspai.com/post/116423\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-20T04:45:44.865Z",
+      "fetchedAt": "2026-10-20T10:01:23.112Z",
       "items": [
         {
           "id": "2508c5b703be095b2be848325f72a71aef5472e1",
@@ -318,7 +318,7 @@
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-20T04:45:43.978Z",
+      "fetchedAt": "2026-10-20T10:01:22.803Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
