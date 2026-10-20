@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-20T10:01:28.604Z",
+  "generatedAt": "2026-10-20T15:02:59.781Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-20T10:01:28.603Z",
+      "fetchedAt": "2026-10-20T15:02:59.780Z",
       "items": [
+        {
+          "id": "75ee53063d562a829849879373d9e61a8d8a1e1a",
+          "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
+          "link": "https://sspai.com/prime/story/inside-release-notes-261020",
+          "pubDate": "2026-10-20T10:01:54.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "content": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...<a href=\"https://sspai.com/prime/story/inside-release-notes-261020\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+          "image": ""
+        },
+        {
+          "id": "6e66214d08079d8f9385c0b2e037d76b6a692cf3",
+          "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
+          "link": "https://sspai.com/post/115475",
+          "pubDate": "2026-10-20T09:30:00.000Z",
+          "author": "KingTsui",
+          "contentSnippet": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文",
+          "content": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？<a href=\"https://sspai.com/post/115475\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "bdfbd7fa1fbc415959dd17b72195c9154fd7580e",
           "title": "从「空间扩展」到「等比放大」：我如何为 MacBook Pro 搭建双屏桌面",
@@ -85,34 +105,24 @@
           "contentSnippet": "三季度全球手机出货量继续两位数下降\nRoadster 发布会留下诸多疑问\n闰时将取代闰秒\n微软声称 Windows 11 响应提速 20%，为 8GB 优化\nE Ink 发布 Kaleido 4\n全国铁路列车车次编排更新\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
           "content": "<p>三季度全球手机出货量继续两位数下降</p><p>Roadster 发布会留下诸多疑问</p><p>闰时将取代闰秒</p><p>微软声称 Windows 11 响应提速 20%，为 8GB 优化</p><p>E Ink 发布 Kaleido 4</p><p>全国铁路列车车次编排更新</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/116641\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "163786a036fb254228cd8c0c61e56b2e4fdb256e",
-          "title": "Quote/0 妙用 +1，把墨水屏变成点餐助手",
-          "link": "https://sspai.com/post/115241",
-          "pubDate": "2026-10-18T07:01:02.000Z",
-          "author": "leonmin",
-          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115241\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "9452e947c800545cbd4ae3c53eb82a51371f39e7",
-          "title": "被量化的心跳：HRV 是身体的晴雨表，还是制造焦虑的数字游戏？",
-          "link": "https://sspai.com/post/104231",
-          "pubDate": "2026-10-17T06:58:04.000Z",
-          "author": "叁思Santh",
-          "contentSnippet": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。查看全文",
-          "content": "这些设备最好的用途，不是让你更依赖它们，而是帮助你重新学会倾听自己。然后，在某个清晨，你不再需要看任何数字，就知道今天会是美好的一天。<a href=\"https://sspai.com/post/104231\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-20T10:01:23.112Z",
+      "fetchedAt": "2026-10-20T15:02:59.779Z",
       "items": [
+        {
+          "id": "fa4ab8591fd21ac0ac7a690fc03b41d563fd5d2f",
+          "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
+          "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-20T14:13:34.000Z",
+          "author": "Selina",
+          "contentSnippet": "规则归交互系统，画面归模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "规则归交互系统，画面归模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "2508c5b703be095b2be848325f72a71aef5472e1",
           "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
@@ -302,23 +312,13 @@
           "contentSnippet": "Mission S is all you need.\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "Mission S is all you need.<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "7d11f05986d2896634176fb016ec2440e00d612c",
-          "title": "大电池+低能耗！宝马新世代 i3 跑了 1213 公里，百公里能耗只有 8.8 度？",
-          "link": "https://www.ifanr.com/1684510?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T16:17:25.000Z",
-          "author": "李华",
-          "contentSnippet": "大圆柱电池是个好东西。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "大圆柱电池是个好东西。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-20T10:01:22.803Z",
+      "fetchedAt": "2026-10-20T15:02:57.917Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
