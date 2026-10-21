@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-21T01:33:26.799Z",
+  "generatedAt": "2026-10-21T07:35:36.760Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-21T01:33:26.799Z",
+      "fetchedAt": "2026-10-21T07:35:36.760Z",
       "items": [
+        {
+          "id": "246f0cd6b42ee31804e3ec6d11f182b6662fabab",
+          "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+          "link": "https://sspai.com/post/115107",
+          "pubDate": "2026-10-21T02:23:21.000Z",
+          "author": "随便好啦",
+          "contentSnippet": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文",
+          "content": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。<a href=\"https://sspai.com/post/115107\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "4d1c9cb6b5225e9204775c22f455a52a119f9227",
           "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
@@ -95,24 +105,34 @@
           "contentSnippet": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
           "content": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/116699\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "6e7b200dd09e51758c6d2d69143ad64fe5f08ca9",
-          "title": "开源掌机的文化线索",
-          "link": "https://sspai.com/post/115125",
-          "pubDate": "2026-10-19T02:49:51.000Z",
-          "author": "蓬岸",
-          "contentSnippet": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文",
-          "content": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？<a href=\"https://sspai.com/post/115125\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-21T01:33:26.708Z",
+      "fetchedAt": "2026-10-21T07:35:36.746Z",
       "items": [
+        {
+          "id": "08567c39130aa6386faaf709ab90fbf59c8734a9",
+          "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
+          "link": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-21T06:56:32.000Z",
+          "author": "李华",
+          "contentSnippet": "小米汽车的新尝试。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "小米汽车的新尝试。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "bff6f8bdfa63ede4632f80369e555fb037d2cc90",
+          "title": "当回音壁学会了「通吃」｜Sonos Beam Ultra 体验",
+          "link": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-21T03:50:42.000Z",
+          "author": "何宗丞",
+          "contentSnippet": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "27f8df08b8549d302790afe0201c407efc225ff0",
           "title": "三十而立，奇瑞不想只做一家汽车公司",
@@ -292,33 +312,13 @@
           "contentSnippet": "8 年磨一座 Vice City\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "8 年磨一座 Vice City<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "a1d1468e15977cbbbec9174d377f61863637f38d",
-          "title": "苹果为「家」开场，果然家庭 AI 还是绕不开「语音+屏幕」",
-          "link": "https://www.ifanr.com/1684640?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-16T09:00:24.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "家庭正在重新变成科技公司寻找下一个 AI 落点的地方\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "家庭正在重新变成科技公司寻找下一个 AI 落点的地方<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "d4dd48dbd2b3dcd4733f9b6b52b7e61fe18587de",
-          "title": "特斯拉发布全新 Roadster！不开玩笑，它真的会飞",
-          "link": "https://www.ifanr.com/1684619?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-16T05:33:11.000Z",
-          "author": "李华",
-          "contentSnippet": "最后一辆给人开的特斯拉，起飞。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "最后一辆给人开的特斯拉，起飞。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-21T01:33:25.854Z",
+      "fetchedAt": "2026-10-21T07:35:35.401Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
