@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-21T07:35:36.760Z",
+  "generatedAt": "2026-10-21T13:45:32.621Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-21T07:35:36.760Z",
+      "fetchedAt": "2026-10-21T13:45:32.281Z",
       "items": [
+        {
+          "id": "f02ae8c2ec6771197f9ecd1cedd5ae871d816cad",
+          "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+          "link": "https://sspai.com/post/116820",
+          "pubDate": "2026-10-21T09:00:00.000Z",
+          "author": "Matrix机器人",
+          "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116820\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "5fcb9f08422fc958fd416ef21b066654a3f549ac",
+          "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+          "link": "https://sspai.com/post/116445",
+          "pubDate": "2026-10-21T07:00:00.000Z",
+          "author": "ElijahLee",
+          "contentSnippet": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文",
+          "content": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。<a href=\"https://sspai.com/post/116445\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "246f0cd6b42ee31804e3ec6d11f182b6662fabab",
           "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
@@ -67,16 +87,6 @@
           "image": ""
         },
         {
-          "id": "a3064b3b9d14742530bd2435232f9034009a5adc",
-          "title": "派早报：MiniMax 发布 M3.1 Flash 模型等",
-          "link": "https://sspai.com/post/116758",
-          "pubDate": "2026-10-20T00:39:33.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。查看全文",
-          "content": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。<a href=\"https://sspai.com/post/116758\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
           "id": "98eb7bc09db3d937bc60fbe42739ff8029154e59",
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/116705",
@@ -95,24 +105,24 @@
           "contentSnippet": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文",
           "content": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...<a href=\"https://sspai.com/post/116585\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "43f0843af9a8accce948bd77f9e6c0162d459d54",
-          "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
-          "link": "https://sspai.com/post/116699",
-          "pubDate": "2026-10-19T08:00:19.000Z",
-          "author": "麻乐",
-          "contentSnippet": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
-          "content": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/116699\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-21T07:35:36.746Z",
+      "fetchedAt": "2026-10-21T13:45:32.621Z",
       "items": [
+        {
+          "id": "3681883358786ff6d9f32461bb10602e914f7a60",
+          "title": "首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
+          "link": "https://www.ifanr.com/1685170?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-21T12:08:10.000Z",
+          "author": "张子豪",
+          "contentSnippet": "只能说真的很爽\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "只能说真的很爽<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "08567c39130aa6386faaf709ab90fbf59c8734a9",
           "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
@@ -302,23 +312,13 @@
           "contentSnippet": "给了我们一个换电脑的理由\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "给了我们一个换电脑的理由<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "463383ca4950e030267476fd3fefd8071861cedf",
-          "title": "8 年 10 亿美金，为什么《GTA VI》是今年最值得期待的游戏？",
-          "link": "https://www.ifanr.com/1684660?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-16T11:10:58.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "8 年磨一座 Vice City\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "8 年磨一座 Vice City<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-21T07:35:35.401Z",
+      "fetchedAt": "2026-10-21T13:45:31.455Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
