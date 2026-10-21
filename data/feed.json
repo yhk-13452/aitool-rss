@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-20T22:18:03.027Z",
+  "generatedAt": "2026-10-21T01:33:26.799Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-20T22:18:02.973Z",
+      "fetchedAt": "2026-10-21T01:33:26.799Z",
       "items": [
+        {
+          "id": "4d1c9cb6b5225e9204775c22f455a52a119f9227",
+          "title": "派早报：美国政府指示各机构停用 DeepSeek、理想发布「连山」自研三电体系等",
+          "link": "https://sspai.com/post/116887",
+          "pubDate": "2026-10-21T00:07:07.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。查看全文",
+          "content": "工信部就自动泊车等五项强制性国标征求意见，万事达卡 Apple Pay 新增 3 家合作银行等。<a href=\"https://sspai.com/post/116887\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "75ee53063d562a829849879373d9e61a8d8a1e1a",
           "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
@@ -95,24 +105,34 @@
           "contentSnippet": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文",
           "content": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？<a href=\"https://sspai.com/post/115125\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "6d8ef7dcdd2ea2dd1bb1d65fe53f26dce868fce7",
-          "title": "派早报：三季度全球手机出货量继续两位数下降",
-          "link": "https://sspai.com/post/116641",
-          "pubDate": "2026-10-18T23:13:24.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "三季度全球手机出货量继续两位数下降\nRoadster 发布会留下诸多疑问\n闰时将取代闰秒\n微软声称 Windows 11 响应提速 20%，为 8GB 优化\nE Ink 发布 Kaleido 4\n全国铁路列车车次编排更新\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "content": "<p>三季度全球手机出货量继续两位数下降</p><p>Roadster 发布会留下诸多疑问</p><p>闰时将取代闰秒</p><p>微软声称 Windows 11 响应提速 20%，为 8GB 优化</p><p>E Ink 发布 Kaleido 4</p><p>全国铁路列车车次编排更新</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/116641\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-20T22:18:03.026Z",
+      "fetchedAt": "2026-10-21T01:33:26.708Z",
       "items": [
+        {
+          "id": "27f8df08b8549d302790afe0201c407efc225ff0",
+          "title": "三十而立，奇瑞不想只做一家汽车公司",
+          "link": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-21T01:31:11.000Z",
+          "author": "刘学文",
+          "contentSnippet": "奇瑞想做一家创新技术企业。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "奇瑞想做一家创新技术企业。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "6f6ae4001be9f30303b91ee6e1fb0568be4cf5e8",
+          "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
+          "link": "https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-21T00:21:51.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯\r\n· Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提\r\n· 9 月 BBA 主力车型无一零售破万\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯\r\n· Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提\r\n· 9 月 BBA 主力车型无一零售破万<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "fa4ab8591fd21ac0ac7a690fc03b41d563fd5d2f",
           "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
@@ -292,33 +312,13 @@
           "contentSnippet": "最后一辆给人开的特斯拉，起飞。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "最后一辆给人开的特斯拉，起飞。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "e41bbd35368e288a443902e445b811b3392f7caf",
-          "title": "早报｜库克确认苹果AI国行本月推出/《GTA6》全新宣传片发布/特努斯：AI不会让iPhone消失",
-          "link": "https://www.ifanr.com/1684579?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-16T00:07:20.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元\r\n· 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明\r\n· Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· iPhone Duo 维修价格公布，内屏损坏预估 7998 元\r\n· 蚂蚁阿福与支付宝 AI 支付入选《时代》年度最佳发明\r\n· Anthropic IPO 估值预期降温，部分投资者讨论 1.5 万亿美元<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": "https://s3.ifanr.com/wp-content/uploads/2026/10/gta.mp4"
-        },
-        {
-          "id": "db7141e7d2a467d9767fae3b6a94afb8276d5477",
-          "title": "Mission S 正式发布，保时捷向世人展示了一台超级跑车应该有的模样",
-          "link": "https://www.ifanr.com/1684559?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-15T23:23:17.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "Mission S is all you need.\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "Mission S is all you need.<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-20T22:18:02.140Z",
+      "fetchedAt": "2026-10-21T01:33:25.854Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
