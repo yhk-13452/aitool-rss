@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T13:45:32.621Z",
+  "generatedAt": "2026-10-21T18:36:09.754Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-21T13:45:32.281Z",
+      "fetchedAt": "2026-10-21T18:36:09.720Z",
       "items": [
         {
           "id": "f02ae8c2ec6771197f9ecd1cedd5ae871d816cad",
@@ -111,8 +111,28 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-21T13:45:32.621Z",
+      "fetchedAt": "2026-10-21T18:36:09.754Z",
       "items": [
+        {
+          "id": "aa9b84f9207f859e74171b22084c113bcac2cdf8",
+          "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
+          "link": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-21T15:22:35.000Z",
+          "author": "李华",
+          "contentSnippet": "这还是海鸥吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "这还是海鸥吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "f3f4fad5a47c28936d023681501aa7024fd30090",
+          "title": "电池自燃直接赔新车？理想发布自研电池「连山」，理想 i6 首发搭载",
+          "link": "https://www.ifanr.com/1685205?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-21T15:20:40.000Z",
+          "author": "李华",
+          "contentSnippet": "电池只是理想掏出来的其中一块拼图。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "电池只是理想掏出来的其中一块拼图。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "3681883358786ff6d9f32461bb10602e914f7a60",
           "title": "首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
@@ -292,33 +312,13 @@
           "contentSnippet": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\r\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\r\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\r\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\r\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "50ec72b5c581f557c8e030dd35ad2f3c4303b861",
-          "title": "预售 16.98 万元起，MONA L05 攻入小鹏主品牌腹地",
-          "link": "https://www.ifanr.com/1684729?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-16T13:42:53.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "倒反天罡了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "倒反天罡了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "08fdba592d625a3c5eb558b8ba00672731988f85",
-          "title": "英伟达RTX Spark笔记本首发实测，我实现了WorkBuddy额度自由",
-          "link": "https://www.ifanr.com/1684682?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-16T12:08:15.000Z",
-          "author": "张子豪",
-          "contentSnippet": "给了我们一个换电脑的理由\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "给了我们一个换电脑的理由<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-21T13:45:31.455Z",
+      "fetchedAt": "2026-10-21T18:36:09.533Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
