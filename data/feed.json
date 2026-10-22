@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-22T01:29:11.967Z",
+  "generatedAt": "2026-10-22T07:36:48.933Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-22T01:29:11.917Z",
+      "fetchedAt": "2026-10-22T07:36:48.933Z",
       "items": [
+        {
+          "id": "d77a2b2615c0c040ddd4e6d48e06ca14c389465a",
+          "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
+          "link": "https://sspai.com/post/115090",
+          "pubDate": "2026-10-22T03:36:57.000Z",
+          "author": "LOSSES",
+          "contentSnippet": "药物不能解决所有问题，这是是我学到的重要一课。查看全文",
+          "content": "药物不能解决所有问题，这是是我学到的重要一课。<a href=\"https://sspai.com/post/115090\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "0a27b757fc5afcff9bb9d5a615af618ed8f7894c",
           "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
@@ -95,30 +105,30 @@
           "contentSnippet": "简单干净、支持双拼纠错的 iOS 输入法。查看全文",
           "content": "简单干净、支持双拼纠错的 iOS 输入法。<a href=\"https://sspai.com/post/116430\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "98eb7bc09db3d937bc60fbe42739ff8029154e59",
-          "title": "派评 | 近期值得关注的 App",
-          "link": "https://sspai.com/post/116705",
-          "pubDate": "2026-10-19T09:39:45.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/116705\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-22T01:29:11.967Z",
+      "fetchedAt": "2026-10-22T07:36:48.882Z",
       "items": [
+        {
+          "id": "67b018d06a9cefab85e0424d7c486bc80c50a985",
+          "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
+          "link": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-22T05:58:07.000Z",
+          "author": "张子豪",
+          "contentSnippet": "网站被攻破后，数据、密码和令牌都可能受到影响\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "网站被攻破后，数据、密码和令牌都可能受到影响<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "f6a7b0dfdeb2eb190a1803df1c05024ed2ad61bc",
           "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
           "link": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
           "pubDate": "2026-10-22T00:45:50.000Z",
-          "author": "爱范儿",
+          "author": "马扶摇",
           "contentSnippet": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
@@ -302,23 +312,13 @@
           "contentSnippet": "你下班了，Arti 还能继续工作\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "你下班了，Arti 还能继续工作<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "e3f12232581bad4543ad4452f7e69a4ec71f961d",
-          "title": "早报｜曝苹果机械臂版HomeView正在开发/蔚来三季度销量首次超BBA/英伟达否认RTX 5090停产",
-          "link": "https://www.ifanr.com/1684815?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-19T00:00:42.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\r\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\r\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\r\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\r\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-22T01:29:11.112Z",
+      "fetchedAt": "2026-10-22T07:36:47.688Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
