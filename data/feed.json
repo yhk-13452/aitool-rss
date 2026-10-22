@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-21T22:19:01.232Z",
+  "generatedAt": "2026-10-22T01:29:11.967Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-21T22:19:01.088Z",
+      "fetchedAt": "2026-10-22T01:29:11.917Z",
       "items": [
+        {
+          "id": "0a27b757fc5afcff9bb9d5a615af618ed8f7894c",
+          "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+          "link": "https://sspai.com/post/116953",
+          "pubDate": "2026-10-22T00:29:05.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
+          "content": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。<a href=\"https://sspai.com/post/116953\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "f02ae8c2ec6771197f9ecd1cedd5ae871d816cad",
           "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
@@ -95,24 +105,34 @@
           "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/116705\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "d6978d35f60c5c6e182936c52c1261080325a310",
-          "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
-          "link": "https://sspai.com/post/116585",
-          "pubDate": "2026-10-19T08:35:40.000Z",
-          "author": "waychane",
-          "contentSnippet": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文",
-          "content": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...<a href=\"https://sspai.com/post/116585\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-21T22:19:01.231Z",
+      "fetchedAt": "2026-10-22T01:29:11.967Z",
       "items": [
+        {
+          "id": "f6a7b0dfdeb2eb190a1803df1c05024ed2ad61bc",
+          "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
+          "link": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-22T00:45:50.000Z",
+          "author": "爱范儿",
+          "contentSnippet": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "8b794b828b10d0956b28b7345f768d2ce6125ffe",
+          "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
+          "link": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-22T00:21:11.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\r\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\r\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\r\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\r\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "aa9b84f9207f859e74171b22084c113bcac2cdf8",
           "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
@@ -292,33 +312,13 @@
           "contentSnippet": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\r\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\r\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 曝三星拟采用台积电 3nm 工艺，为英伟达定制 HBM\r\n· 智界拟取得独立造车资质，内部人士确认独立上市计划\r\n· Tibo 回应 Codex 用户许愿：五项建议中有两项正在做<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "537ceb3d2cbf44d63ea3803b4ffc8d607acecd5d",
-          "title": "消费电子太无聊，连设计大师都想逃",
-          "link": "https://www.ifanr.com/1683441?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-18T09:10:58.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "好设计的坏时代\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "好设计的坏时代<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "a1c592b1ecf49a4cd7851ff9661493d5475a2009",
-          "title": "早报｜iPhone Duo开启预购，发货排到明年/特斯拉超跑发布会现场飞了/华为阔直板出货量超71万台",
-          "link": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-17T00:26:38.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\r\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\r\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 华为云下月调整 AI 专业服务价格，原型开发基础版升至 85.12 万元\r\n· 17 岁研究员陈广宇离开 Kimi，否认将加入 Anthropic\r\n· 四部门要求车企规范产品宣传，不得诱导驾驶人忽视安全责任<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-21T22:19:00.223Z",
+      "fetchedAt": "2026-10-22T01:29:11.112Z",
       "items": [
         {
           "id": "0991bbba7dde9c98bd3717803eb5ba97c4111bc6",
