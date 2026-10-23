@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-23T07:28:21.339Z",
+  "generatedAt": "2026-10-23T13:23:18.068Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-23T07:28:20.990Z",
+      "fetchedAt": "2026-10-23T13:23:17.648Z",
       "items": [
+        {
+          "id": "af7794e4540d71fd69fb330951af691885413fdf",
+          "title": "本周看什么 | 最近值得一看的 12 部作品",
+          "link": "https://sspai.com/post/117169",
+          "pubDate": "2026-10-23T10:09:01.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文",
+          "content": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...<a href=\"https://sspai.com/post/117169\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "351de9732384193142aabc889913d38240cb89d5",
+          "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+          "link": "https://sspai.com/post/116398",
+          "pubDate": "2026-10-23T07:00:00.000Z",
+          "author": "KingTsui",
+          "contentSnippet": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文",
+          "content": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……<a href=\"https://sspai.com/post/116398\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "4d7be9fa85896214be67f33660ae29fff5d02734",
           "title": "破与立：设计视角下的 iPhone Duo",
@@ -85,34 +105,24 @@
           "contentSnippet": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文",
           "content": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。<a href=\"https://sspai.com/post/116445\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "246f0cd6b42ee31804e3ec6d11f182b6662fabab",
-          "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
-          "link": "https://sspai.com/post/115107",
-          "pubDate": "2026-10-21T02:23:21.000Z",
-          "author": "随便好啦",
-          "contentSnippet": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文",
-          "content": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。<a href=\"https://sspai.com/post/115107\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "75ee53063d562a829849879373d9e61a8d8a1e1a",
-          "title": "具透 Plus：Firefox 被「中途喝止」的界面现代化改造；Pixel 不再为 VoLTE 发愁",
-          "link": "https://sspai.com/prime/story/inside-release-notes-261020",
-          "pubDate": "2026-10-20T10:01:54.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "content": "FirefoxNova：被「中途喝止」的界面现代化改造@PlatyHsu:9月29日，Mozilla随Firefox157推出了代号为Nova的全新设计。这是继2021年Proton改版以来，Fire ...<a href=\"https://sspai.com/prime/story/inside-release-notes-261020\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-23T07:28:21.338Z",
+      "fetchedAt": "2026-10-23T13:23:18.067Z",
       "items": [
+        {
+          "id": "0916ad11e76b336b65ef7ad18e73a402c76d4614",
+          "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
+          "link": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-23T09:52:47.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "微信终于适配 iPhone Duo ！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "微信终于适配 iPhone Duo ！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "c0d58a2b38cbfbc914b8d9a0ec78b56aee13a4c0",
           "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
@@ -302,23 +312,13 @@
           "contentSnippet": "给屏幕装上脖子\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "给屏幕装上脖子<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "e2db634ca3aa5a64a5e6cdb2fde238a7385ddb65",
-          "title": "我向新版 DeepSeek 许了个愿，4 块钱让特斯拉飞起来",
-          "link": "https://www.ifanr.com/1684880?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-19T09:21:16.000Z",
-          "author": "张子豪",
-          "contentSnippet": "好用到原地「起飞」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "好用到原地「起飞」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-23T07:28:19.922Z",
+      "fetchedAt": "2026-10-23T13:23:16.729Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
