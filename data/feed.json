@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-23T22:07:40.908Z",
+  "generatedAt": "2026-10-24T00:39:21.669Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-23T22:07:40.806Z",
+      "fetchedAt": "2026-10-24T00:39:21.669Z",
       "items": [
         {
           "id": "af7794e4540d71fd69fb330951af691885413fdf",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-23T22:07:40.908Z",
+      "fetchedAt": "2026-10-24T00:39:21.666Z",
       "items": [
+        {
+          "id": "48b58379b159add8198006c0b5a470162f5fb56f",
+          "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+          "link": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-24T00:26:49.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩\r\n· 沃尔沃汽车拟全球裁减约 2500 个岗位\r\n· 华为 Pura90 Plus 开启预订\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩\r\n· 沃尔沃汽车拟全球裁减约 2500 个岗位\r\n· 华为 Pura90 Plus 开启预订<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "0916ad11e76b336b65ef7ad18e73a402c76d4614",
           "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
@@ -302,23 +312,13 @@
           "contentSnippet": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\r\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\r\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\r\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\r\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "0d1df29bd01c9cca42d3ad83a063819e0eb3496f",
-          "title": "苹果第一个 AI 机器人，可能是个能动的 HomeView",
-          "link": "https://www.ifanr.com/1684921?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-19T10:09:25.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "给屏幕装上脖子\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "给屏幕装上脖子<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-23T22:07:39.556Z",
+      "fetchedAt": "2026-10-24T00:39:20.398Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
