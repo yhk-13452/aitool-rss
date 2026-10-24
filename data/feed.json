@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T00:39:21.669Z",
+  "generatedAt": "2026-10-24T05:49:10.701Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-24T00:39:21.669Z",
+      "fetchedAt": "2026-10-24T05:49:10.701Z",
       "items": [
         {
           "id": "af7794e4540d71fd69fb330951af691885413fdf",
@@ -111,8 +111,38 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-24T00:39:21.666Z",
+      "fetchedAt": "2026-10-24T05:49:10.461Z",
       "items": [
+        {
+          "id": "5ff7ba71e7dd04573a8fcc501f2a91045a9bae1a",
+          "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮都要回来了？",
+          "link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-24T04:10:44.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "还没捂热呢\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "还没捂热呢<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "166858b29327b668885f3d2a32a406a92be332c2",
+          "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
+          "link": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-24T03:25:33.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "来了来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "来了来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "b20b7dab72f7ad9371b47d0b893a93be91edea4a",
+          "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+          "link": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-24T02:07:19.000Z",
+          "author": "张子豪",
+          "contentSnippet": "大而美的 Kimi 回来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "大而美的 Kimi 回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "48b58379b159add8198006c0b5a470162f5fb56f",
           "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
@@ -282,43 +312,13 @@
           "contentSnippet": "MemT 1.0 开源，给出「记忆原生」新解法\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "MemT 1.0 开源，给出「记忆原生」新解法<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "f65a571105281555bded523e56b4d78b92686876",
-          "title": "特斯拉只能飞 5 秒？科学家称其为「放屁车」，联邦航空局：不符合航空器定义",
-          "link": "https://www.ifanr.com/1684938?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-20T02:18:01.000Z",
-          "author": "李华",
-          "contentSnippet": "马斯克：我朝你放个屁。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "马斯克：我朝你放个屁。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "c60c4043411675d6f9920c1d032b493ea1f4ea20",
-          "title": "苹果新发布会官宣：iPad mini 终于配「高刷」，MacBook 要能「上手」了",
-          "link": "https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-20T01:00:07.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "真·高端局\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "真·高端局<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "b2d0b8d640696c87bad1d22c4897fb351ca14d28",
-          "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
-          "link": "https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-20T00:07:06.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\r\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\r\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度\r\n· 王腾宣布今日宜休将于 10 月 29 日举办首场发布会\r\n· 引望与宁德时代签署换电合作协议，覆盖电池与换电网络<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-24T00:39:20.398Z",
+      "fetchedAt": "2026-10-24T05:49:09.739Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
