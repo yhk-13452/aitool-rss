@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-24T05:49:10.701Z",
+  "generatedAt": "2026-10-24T10:54:52.588Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-24T05:49:10.701Z",
+      "fetchedAt": "2026-10-24T10:54:52.358Z",
       "items": [
+        {
+          "id": "3088aae6bedda0b97c4f45a046bfacdba576c953",
+          "title": "在硅谷，遇见个人计算机历史",
+          "link": "https://sspai.com/post/116128",
+          "pubDate": "2026-10-24T08:26:02.000Z",
+          "author": "StephenFang",
+          "contentSnippet": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文",
+          "content": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=\"https://sspai.com/post/116128\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "af7794e4540d71fd69fb330951af691885413fdf",
           "title": "本周看什么 | 最近值得一看的 12 部作品",
@@ -95,32 +105,22 @@
           "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
           "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/116820\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "5fcb9f08422fc958fd416ef21b066654a3f549ac",
-          "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
-          "link": "https://sspai.com/post/116445",
-          "pubDate": "2026-10-21T07:00:00.000Z",
-          "author": "ElijahLee",
-          "contentSnippet": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文",
-          "content": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。<a href=\"https://sspai.com/post/116445\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-24T05:49:10.461Z",
+      "fetchedAt": "2026-10-24T10:54:52.588Z",
       "items": [
         {
-          "id": "5ff7ba71e7dd04573a8fcc501f2a91045a9bae1a",
-          "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮都要回来了？",
-          "link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-24T04:10:44.000Z",
+          "id": "504295e9f6dcb02b57a6a3358bd74f2b95ca8073",
+          "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
+          "link": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-24T10:10:44.000Z",
           "author": "郑廷旭",
-          "contentSnippet": "还没捂热呢\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "还没捂热呢<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "contentSnippet": "欢迎来到「大逆向时代」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "欢迎来到「大逆向时代」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
         },
         {
@@ -318,7 +318,7 @@
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-24T05:49:09.739Z",
+      "fetchedAt": "2026-10-24T10:54:51.632Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
