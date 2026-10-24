@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T14:30:30.413Z",
+  "generatedAt": "2026-10-24T18:07:11.002Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-24T14:30:30.412Z",
+      "fetchedAt": "2026-10-24T18:07:11.002Z",
       "items": [
         {
           "id": "3088aae6bedda0b97c4f45a046bfacdba576c953",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-24T14:30:30.246Z",
+      "fetchedAt": "2026-10-24T18:07:10.793Z",
       "items": [
+        {
+          "id": "11808b8491fabfaf1cf04351bb1748f7b1271482",
+          "title": "史上最快宾利！竟然是一辆 SUV？",
+          "link": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-24T14:35:59.000Z",
+          "author": "李华",
+          "contentSnippet": "不愧是精装版纯电卡宴。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "不愧是精装版纯电卡宴。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "504295e9f6dcb02b57a6a3358bd74f2b95ca8073",
           "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
@@ -302,23 +312,13 @@
           "contentSnippet": "规则归交互系统，画面归模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "规则归交互系统，画面归模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "2508c5b703be095b2be848325f72a71aef5472e1",
-          "title": "押注记忆原生，MemT 1.0 破局养成系 AI 下半场",
-          "link": "https://www.ifanr.com/1684997?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-20T03:57:44.000Z",
-          "author": "莫崇宇",
-          "contentSnippet": "MemT 1.0 开源，给出「记忆原生」新解法\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "MemT 1.0 开源，给出「记忆原生」新解法<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-24T14:30:29.365Z",
+      "fetchedAt": "2026-10-24T18:07:09.885Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
