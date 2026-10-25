@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T01:07:59.490Z",
+  "generatedAt": "2026-10-25T06:05:02.096Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-25T01:07:59.233Z",
+      "fetchedAt": "2026-10-25T06:05:02.096Z",
       "items": [
         {
           "id": "3088aae6bedda0b97c4f45a046bfacdba576c953",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-25T01:07:59.490Z",
+      "fetchedAt": "2026-10-25T06:05:01.828Z",
       "items": [
+        {
+          "id": "5ff7ba71e7dd04573a8fcc501f2a91045a9bae1a",
+          "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
+          "link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-25T04:10:44.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "还没捂热呢\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "还没捂热呢<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "11808b8491fabfaf1cf04351bb1748f7b1271482",
           "title": "史上最快宾利！竟然是一辆 SUV？",
@@ -302,23 +312,13 @@
           "contentSnippet": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯\r\n· Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提\r\n· 9 月 BBA 主力车型无一零售破万\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯\r\n· Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提\r\n· 9 月 BBA 主力车型无一零售破万<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "fa4ab8591fd21ac0ac7a690fc03b41d563fd5d2f",
-          "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
-          "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-20T14:13:34.000Z",
-          "author": "Selina",
-          "contentSnippet": "规则归交互系统，画面归模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "规则归交互系统，画面归模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-25T01:07:58.323Z",
+      "fetchedAt": "2026-10-25T06:05:01.259Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
