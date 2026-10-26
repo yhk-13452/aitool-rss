@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-26T06:09:51.400Z",
+  "generatedAt": "2026-10-26T12:56:05.981Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-26T06:09:51.400Z",
+      "fetchedAt": "2026-10-26T12:56:05.760Z",
       "items": [
+        {
+          "id": "3c6d706be6d535520d3ccd1d2cf4b52e8499ab48",
+          "title": "派评 | 近期值得关注的 App",
+          "link": "https://sspai.com/post/117529",
+          "pubDate": "2026-10-26T10:17:46.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/117529\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "10d97efd2eb6f349c3e539c3e20d684bc3d5db32",
+          "title": "秋冬换季护肤买什么，双 11 选购推荐",
+          "link": "https://sspai.com/post/117414",
+          "pubDate": "2026-10-26T07:00:00.000Z",
+          "author": "程天冲",
+          "contentSnippet": "双 11 到来之际的秋冬护肤选购与搭配建议。查看全文",
+          "content": "双 11 到来之际的秋冬护肤选购与搭配建议。<a href=\"https://sspai.com/post/117414\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "7bfdc5581db16caa74cbfb86081c1c15fdc4ece8",
           "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
@@ -85,34 +105,54 @@
           "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/116979\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "4e958d668feb452d4a45bd056b92541ce8fc5e51",
-          "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
-          "link": "https://sspai.com/post/117104",
-          "pubDate": "2026-10-23T00:20:32.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文",
-          "content": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...<a href=\"https://sspai.com/post/117104\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "360087aa9b5d6f39cbacc7e1626059df940bfc03",
-          "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
-          "link": "https://sspai.com/post/115437",
-          "pubDate": "2026-10-22T09:10:03.000Z",
-          "author": "log",
-          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115437\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-26T06:09:49.590Z",
+      "fetchedAt": "2026-10-26T12:56:05.981Z",
       "items": [
+        {
+          "id": "4812196a7ce1c07b54d9f01d88d518776793ef11",
+          "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
+          "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-26T10:10:19.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "魏牌高山想在细分市场进一步发力。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "魏牌高山想在细分市场进一步发力。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "af25d6604cc9eb00338bbdbbb7c77fb25c71f694",
+          "title": "最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人",
+          "link": "https://www.ifanr.com/1685866?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-26T10:07:42.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "一台最舒适的猛士。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "一台最舒适的猛士。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "84efbbb69f76c7d9371537439c25031fc3992cc5",
+          "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
+          "link": "https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-26T07:42:44.000Z",
+          "author": "彭海星",
+          "contentSnippet": "唯有诚意与创意不可辜负\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "唯有诚意与创意不可辜负<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "fbda9eed682b31a87e142e81b9e6e9cbf70c4cca",
+          "title": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
+          "link": "https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-26T07:36:42.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "国产 3A，再一次震撼世界\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "国产 3A，再一次震撼世界<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "16d568033ed0b5af38c46d85a980cc01f2f857be",
           "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
@@ -272,53 +312,13 @@
           "contentSnippet": "电池只是理想掏出来的其中一块拼图。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "电池只是理想掏出来的其中一块拼图。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "3681883358786ff6d9f32461bb10602e914f7a60",
-          "title": "首发 | 我用 2 万的 iPhone Duo，指挥 8 万的 Mac Studio 干活",
-          "link": "https://www.ifanr.com/1685170?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-21T12:08:10.000Z",
-          "author": "张子豪",
-          "contentSnippet": "只能说真的很爽\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "只能说真的很爽<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "08567c39130aa6386faaf709ab90fbf59c8734a9",
-          "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
-          "link": "https://www.ifanr.com/1685049?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-21T06:56:32.000Z",
-          "author": "李华",
-          "contentSnippet": "小米汽车的新尝试。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "小米汽车的新尝试。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "bff6f8bdfa63ede4632f80369e555fb037d2cc90",
-          "title": "当回音壁学会了「通吃」｜Sonos Beam Ultra 体验",
-          "link": "https://www.ifanr.com/1685014?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-21T03:50:42.000Z",
-          "author": "何宗丞",
-          "contentSnippet": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "从被动的「电视伴音工具」，真正演进为客厅的「全场景声音中枢」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "27f8df08b8549d302790afe0201c407efc225ff0",
-          "title": "三十而立，奇瑞不想只做一家汽车公司",
-          "link": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-21T01:31:11.000Z",
-          "author": "刘学文",
-          "contentSnippet": "奇瑞想做一家创新技术企业。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "奇瑞想做一家创新技术企业。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-26T06:09:48.716Z",
+      "fetchedAt": "2026-10-26T12:56:04.772Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
