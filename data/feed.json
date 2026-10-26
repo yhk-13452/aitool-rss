@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-26T12:56:05.981Z",
+  "generatedAt": "2026-10-26T19:16:41.458Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-26T12:56:05.760Z",
+      "fetchedAt": "2026-10-26T19:16:41.094Z",
       "items": [
         {
           "id": "3c6d706be6d535520d3ccd1d2cf4b52e8499ab48",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-26T12:56:05.981Z",
+      "fetchedAt": "2026-10-26T19:16:41.458Z",
       "items": [
+        {
+          "id": "b1b3ee8f2a6ecbd57af7cdee6222081976cf2c39",
+          "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
+          "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-26T14:39:09.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "好消息：OLED\r\n坏消息：60Hz\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "好消息：OLED\r\n坏消息：60Hz<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "4812196a7ce1c07b54d9f01d88d518776793ef11",
           "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
@@ -302,23 +312,13 @@
           "contentSnippet": "这还是海鸥吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "这还是海鸥吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "f3f4fad5a47c28936d023681501aa7024fd30090",
-          "title": "电池自燃直接赔新车？理想发布自研电池「连山」，理想 i6 首发搭载",
-          "link": "https://www.ifanr.com/1685205?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-21T15:20:40.000Z",
-          "author": "李华",
-          "contentSnippet": "电池只是理想掏出来的其中一块拼图。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "电池只是理想掏出来的其中一块拼图。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-26T12:56:04.772Z",
+      "fetchedAt": "2026-10-26T19:16:40.541Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
