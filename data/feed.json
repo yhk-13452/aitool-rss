@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-10-26T00:19:53.346Z",
+  "generatedAt": "2026-10-26T06:09:51.400Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-26T00:19:53.244Z",
+      "fetchedAt": "2026-10-26T06:09:51.400Z",
       "items": [
+        {
+          "id": "7bfdc5581db16caa74cbfb86081c1c15fdc4ece8",
+          "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
+          "link": "https://sspai.com/post/115074",
+          "pubDate": "2026-10-26T03:26:35.000Z",
+          "author": "飘雷",
+          "contentSnippet": "一起来看看 3D XPoint 这夸张的性能表现吧。查看全文",
+          "content": "一起来看看 3D XPoint 这夸张的性能表现吧。<a href=\"https://sspai.com/post/115074\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "08343f95a08c29cda86159abdff5259933d43ce8",
+          "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
+          "link": "https://sspai.com/post/117180",
+          "pubDate": "2026-10-26T03:00:13.000Z",
+          "author": "Bluesky",
+          "contentSnippet": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...查看全文",
+          "content": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...<a href=\"https://sspai.com/post/117180\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "57cb464eee46683e9d3d0e6b4f77a7a2e2dc585d",
+          "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+          "link": "https://sspai.com/post/117460",
+          "pubDate": "2026-10-25T23:36:36.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患\nSpotify 将要求家庭组成员定期扫码验证\nArc 浏览器宣布下线\n央广总台澄清「国补停止」说法\n谷歌建设虚拟电厂，付费激励电网用户省电留给 AI\niTunes Store 重受歌手青睐\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "content": "<p>iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患</p><p>Spotify 将要求家庭组成员定期扫码验证</p><p>Arc 浏览器宣布下线</p><p>央广总台澄清「国补停止」说法</p><p>谷歌建设虚拟电厂，付费激励电网用户省电留给 AI</p><p>iTunes Store 重受歌手青睐</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/117460\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "8a78799d97d337dba38f9f5601655dba431cd8d8",
           "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
@@ -75,43 +105,13 @@
           "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/115437\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "b452d44139353740d9ef759ad8a1ad3fc43e84dd",
-          "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
-          "link": "https://sspai.com/post/116923",
-          "pubDate": "2026-10-22T07:00:00.000Z",
-          "author": "Vanilla",
-          "contentSnippet": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。查看全文",
-          "content": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。<a href=\"https://sspai.com/post/116923\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "d77a2b2615c0c040ddd4e6d48e06ca14c389465a",
-          "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
-          "link": "https://sspai.com/post/115090",
-          "pubDate": "2026-10-22T03:36:57.000Z",
-          "author": "LOSSES",
-          "contentSnippet": "药物不能解决所有问题，这是是我学到的重要一课。查看全文",
-          "content": "药物不能解决所有问题，这是是我学到的重要一课。<a href=\"https://sspai.com/post/115090\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "0a27b757fc5afcff9bb9d5a615af618ed8f7894c",
-          "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-          "link": "https://sspai.com/post/116953",
-          "pubDate": "2026-10-22T00:29:05.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
-          "content": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。<a href=\"https://sspai.com/post/116953\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-26T00:19:53.346Z",
+      "fetchedAt": "2026-10-26T06:09:49.590Z",
       "items": [
         {
           "id": "16d568033ed0b5af38c46d85a980cc01f2f857be",
@@ -318,7 +318,7 @@
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-26T00:19:52.099Z",
+      "fetchedAt": "2026-10-26T06:09:48.716Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
