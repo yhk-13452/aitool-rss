@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-27T07:48:38.020Z",
+  "generatedAt": "2026-10-27T14:28:21.168Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-27T07:48:37.804Z",
+      "fetchedAt": "2026-10-27T14:28:21.168Z",
       "items": [
+        {
+          "id": "b4744ea2ab5653e2585b6cadbb417dd8d9c6610f",
+          "title": "社区速递 163 | 金豪 59 调整版钢笔与九月派友剁手清单",
+          "link": "https://sspai.com/post/117633",
+          "pubDate": "2026-10-27T09:02:00.000Z",
+          "author": "Matrix机器人",
+          "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/117633\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "391a4191c0c9b73de349351d6b186a5b49f208a0",
+          "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
+          "link": "https://sspai.com/post/117557",
+          "pubDate": "2026-10-27T07:27:57.000Z",
+          "author": "Vanilla",
+          "contentSnippet": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...查看全文",
+          "content": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...<a href=\"https://sspai.com/post/117557\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "48a0ce2699418e9d01e914e6a0eb027bb41aa779",
           "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
@@ -85,34 +105,34 @@
           "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/114741\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "3088aae6bedda0b97c4f45a046bfacdba576c953",
-          "title": "在硅谷，遇见个人计算机历史",
-          "link": "https://sspai.com/post/116128",
-          "pubDate": "2026-10-24T08:26:02.000Z",
-          "author": "StephenFang",
-          "contentSnippet": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文",
-          "content": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。<a href=\"https://sspai.com/post/116128\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "af7794e4540d71fd69fb330951af691885413fdf",
-          "title": "本周看什么 | 最近值得一看的 12 部作品",
-          "link": "https://sspai.com/post/117169",
-          "pubDate": "2026-10-23T10:09:01.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文",
-          "content": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...<a href=\"https://sspai.com/post/117169\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-27T07:48:38.020Z",
+      "fetchedAt": "2026-10-27T14:28:20.767Z",
       "items": [
+        {
+          "id": "8f8166e81cea6c066ff3f418bb5377a7c842019c",
+          "title": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
+          "link": "https://www.ifanr.com/1686154?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T10:23:36.000Z",
+          "author": "Lin",
+          "contentSnippet": "让日常不戴眼镜的我习惯戴着眼镜出门，Rokid Glasses 2 做到了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "让日常不戴眼镜的我习惯戴着眼镜出门，Rokid Glasses 2 做到了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "93557a346afd9e8c86fef886ffae7983a3f1fa39",
+          "title": "7.69 万元起，第三代秦 PLUS DM-i 上市，内饰颜值大提升！",
+          "link": "https://www.ifanr.com/1686110?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T09:19:00.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "比亚迪的内饰设计师该加鸡腿了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "比亚迪的内饰设计师该加鸡腿了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "9f36a977a93e92ffbe34b8776f0021e1f15acbf8",
           "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
@@ -292,33 +312,13 @@
           "contentSnippet": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩\r\n· 沃尔沃汽车拟全球裁减约 2500 个岗位\r\n· 华为 Pura90 Plus 开启预订\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩\r\n· 沃尔沃汽车拟全球裁减约 2500 个岗位\r\n· 华为 Pura90 Plus 开启预订<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "0916ad11e76b336b65ef7ad18e73a402c76d4614",
-          "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
-          "link": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-23T09:52:47.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "微信终于适配 iPhone Duo ！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "微信终于适配 iPhone Duo ！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "c0d58a2b38cbfbc914b8d9a0ec78b56aee13a4c0",
-          "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
-          "link": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-23T00:00:25.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁\r\n· 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先\r\n· 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁\r\n· 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先\r\n· 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-27T07:48:36.696Z",
+      "fetchedAt": "2026-10-27T14:28:20.242Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
