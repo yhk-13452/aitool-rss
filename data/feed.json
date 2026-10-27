@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-26T23:09:11.300Z",
+  "generatedAt": "2026-10-27T02:03:21.980Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-26T23:09:11.174Z",
+      "fetchedAt": "2026-10-27T02:03:21.909Z",
       "items": [
+        {
+          "id": "13846060f7f9ee399c33939ae70c6ef92b118e37",
+          "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
+          "link": "https://sspai.com/post/117600",
+          "pubDate": "2026-10-27T00:27:58.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...查看全文",
+          "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...<a href=\"https://sspai.com/post/117600\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "3c6d706be6d535520d3ccd1d2cf4b52e8499ab48",
           "title": "派评 | 近期值得关注的 App",
@@ -95,24 +105,34 @@
           "contentSnippet": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文",
           "content": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……<a href=\"https://sspai.com/post/116398\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "4d7be9fa85896214be67f33660ae29fff5d02734",
-          "title": "破与立：设计视角下的 iPhone Duo",
-          "link": "https://sspai.com/post/116979",
-          "pubDate": "2026-10-23T03:07:19.000Z",
-          "author": "苏志斌SUiTHiNK",
-          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/116979\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-26T23:09:11.300Z",
+      "fetchedAt": "2026-10-27T02:03:21.980Z",
       "items": [
+        {
+          "id": "a427f304ecf77c2b8be42afa2e594fea03f47973",
+          "title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
+          "link": "https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T01:13:00.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "cf00441931c72b4123390fe059742c1a8906b295",
+          "title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
+          "link": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T00:06:21.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速\r\n· 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil\r\n· 华为畅享系列累计发货突破 1.6 亿台\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速\r\n· 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil\r\n· 华为畅享系列累计发货突破 1.6 亿台<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "b1b3ee8f2a6ecbd57af7cdee6222081976cf2c39",
           "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
@@ -292,33 +312,13 @@
           "contentSnippet": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "8b794b828b10d0956b28b7345f768d2ce6125ffe",
-          "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
-          "link": "https://www.ifanr.com/1685223?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-22T00:21:11.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\r\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\r\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· PHP 紧急修复两个严重漏洞，攻击者无需登录即可远程执行代码\r\n· 三星、SK 海力士升级中国工厂，拟转产更高层数 NAND\r\n· Today AI 累计融资超 2 亿美元，腾讯、蚂蚁等参投<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "aa9b84f9207f859e74171b22084c113bcac2cdf8",
-          "title": "尺寸暴涨！比亚迪新一代海鸥太超标了，还只要 6.59 万元",
-          "link": "https://www.ifanr.com/1685151?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-21T15:22:35.000Z",
-          "author": "李华",
-          "contentSnippet": "这还是海鸥吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "这还是海鸥吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-26T23:09:10.306Z",
+      "fetchedAt": "2026-10-27T02:03:20.578Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
