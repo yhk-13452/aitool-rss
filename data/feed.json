@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-27T20:04:03.919Z",
+  "generatedAt": "2026-10-27T23:45:44.491Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-27T20:04:03.604Z",
+      "fetchedAt": "2026-10-27T23:45:44.401Z",
       "items": [
         {
           "id": "b4744ea2ab5653e2585b6cadbb417dd8d9c6610f",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-27T20:04:03.919Z",
+      "fetchedAt": "2026-10-27T23:45:44.491Z",
       "items": [
+        {
+          "id": "bd663bda994a10809e14953a35972167a8e8f690",
+          "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
+          "link": "https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T22:37:04.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "AI 的下一个目标是模拟现实\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "AI 的下一个目标是模拟现实<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "8f8166e81cea6c066ff3f418bb5377a7c842019c",
           "title": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
@@ -302,23 +312,13 @@
           "contentSnippet": "大而美的 Kimi 回来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "大而美的 Kimi 回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "48b58379b159add8198006c0b5a470162f5fb56f",
-          "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-          "link": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-24T00:26:49.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩\r\n· 沃尔沃汽车拟全球裁减约 2500 个岗位\r\n· 华为 Pura90 Plus 开启预订\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩\r\n· 沃尔沃汽车拟全球裁减约 2500 个岗位\r\n· 华为 Pura90 Plus 开启预订<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-27T20:04:03.030Z",
+      "fetchedAt": "2026-10-27T23:45:43.553Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
