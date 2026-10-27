@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-27T02:03:21.980Z",
+  "generatedAt": "2026-10-27T07:48:38.020Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-27T02:03:21.909Z",
+      "fetchedAt": "2026-10-27T07:48:37.804Z",
       "items": [
+        {
+          "id": "48a0ce2699418e9d01e914e6a0eb027bb41aa779",
+          "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
+          "link": "https://sspai.com/post/115855",
+          "pubDate": "2026-10-27T03:02:18.000Z",
+          "author": "飘雷",
+          "contentSnippet": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。查看全文",
+          "content": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。<a href=\"https://sspai.com/post/115855\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "13846060f7f9ee399c33939ae70c6ef92b118e37",
           "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
@@ -95,24 +105,54 @@
           "contentSnippet": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文",
           "content": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...<a href=\"https://sspai.com/post/117169\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "351de9732384193142aabc889913d38240cb89d5",
-          "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
-          "link": "https://sspai.com/post/116398",
-          "pubDate": "2026-10-23T07:00:00.000Z",
-          "author": "KingTsui",
-          "contentSnippet": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文",
-          "content": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……<a href=\"https://sspai.com/post/116398\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-27T02:03:21.980Z",
+      "fetchedAt": "2026-10-27T07:48:38.020Z",
       "items": [
+        {
+          "id": "9f36a977a93e92ffbe34b8776f0021e1f15acbf8",
+          "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
+          "link": "https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T05:02:30.000Z",
+          "author": "姚桐",
+          "contentSnippet": "我想要的 Personal Agent，是让生活闪现「灵光」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "我想要的 Personal Agent，是让生活闪现「灵光」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "9a8b39e08a855dfd8c7b0c6aeb081d124eb71014",
+          "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
+          "link": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T05:00:58.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "OpenAI 又卷起了大模型的性价比。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "OpenAI 又卷起了大模型的性价比。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "74d3f5507fcc745532ae1af8be092d00616b406f",
+          "title": "王的猜想，被 AI 一夜通关",
+          "link": "https://www.ifanr.com/1686064?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T04:57:02.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "2a7d5345dab69d03d625d98d13cb87dd9054db78",
+          "title": "iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
+          "link": "https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-27T02:30:40.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "自己动手修折叠屏，需要勇气和实力\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "自己动手修折叠屏，需要勇气和实力<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "a427f304ecf77c2b8be42afa2e594fea03f47973",
           "title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
@@ -272,53 +312,13 @@
           "contentSnippet": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁\r\n· 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先\r\n· 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁\r\n· 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先\r\n· 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "c447946de8fb06526b9162765511730bfd27af55",
-          "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
-          "link": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-22T11:15:20.000Z",
-          "author": "彭海星",
-          "contentSnippet": "大的还在后面\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "大的还在后面<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "aecea740c96fbdbff1b57cb2933e8170db5e1791",
-          "title": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
-          "link": "https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-22T08:37:53.000Z",
-          "author": "李华",
-          "contentSnippet": "仰望正在打造属于自己的「古斯特」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "仰望正在打造属于自己的「古斯特」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "67b018d06a9cefab85e0424d7c486bc80c50a985",
-          "title": "PHP爆雷引发全球紧急「拔网线」，别指望 AI 拯救互联网",
-          "link": "https://www.ifanr.com/1685446?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-22T05:58:07.000Z",
-          "author": "张子豪",
-          "contentSnippet": "网站被攻破后，数据、密码和令牌都可能受到影响\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "网站被攻破后，数据、密码和令牌都可能受到影响<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "f6a7b0dfdeb2eb190a1803df1c05024ed2ad61bc",
-          "title": "首发｜我们用了一周的 iPhone Duo，这里有你关心的一切",
-          "link": "https://www.ifanr.com/1685251?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-22T00:45:50.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "在魔术与魔法的夹缝里，我们看到了一种天马行空，但又脚踏实地的产品哲学。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-27T02:03:20.578Z",
+      "fetchedAt": "2026-10-27T07:48:36.696Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
