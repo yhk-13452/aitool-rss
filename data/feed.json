@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T18:50:26.891Z",
+  "generatedAt": "2026-10-28T23:12:21.802Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-28T18:50:26.891Z",
+      "fetchedAt": "2026-10-28T23:12:21.747Z",
       "items": [
         {
           "id": "72dc2ded5b4748effee07898a2988413850f9f08",
@@ -111,8 +111,48 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-28T18:50:26.793Z",
+      "fetchedAt": "2026-10-28T23:12:21.802Z",
       "items": [
+        {
+          "id": "e091410c65cbb8aa02d9d86619c3f7ec4f7e9935",
+          "title": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？",
+          "link": "https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T23:05:55.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "很强，很亮，很贵\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "很强，很亮，很贵<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "5491641e887f92f9214994ff39c95228be52d866",
+          "title": "顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说",
+          "link": "https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T23:00:46.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "苹果标会亮！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "苹果标会亮！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "db9d8caaebc14f9a73a555fac9f959390aee90a0",
+          "title": "刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一",
+          "link": "https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T22:31:28.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "哈基米终于扬眉吐气了\r\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "哈基米终于扬眉吐气了\r\n<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "940c99ce253062ff13337efc818ff1c2cf045159",
+          "title": "iPad mini 首发上手：体验无可替代，刀法无人能及",
+          "link": "https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T19:27:06.000Z",
+          "author": "彭海星",
+          "contentSnippet": "算力越级，高刷缺席，一款让人爱恨交织的产品\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "算力越级，高刷缺席，一款让人爱恨交织的产品<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "09327fa850b46ab4096863466ff25c4ec7738707",
           "title": "补齐短板！理想 i6 上市23.98 万元起，等等党赢麻了",
@@ -272,53 +312,13 @@
           "contentSnippet": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "cf00441931c72b4123390fe059742c1a8906b295",
-          "title": "早报｜苹果回应iPhone Duo内屏开裂/Anthropic公开上市申请，冲击史上最大IPO/小鹏Robotaxi获批L4级示范运营",
-          "link": "https://www.ifanr.com/1685979?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T00:06:21.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速\r\n· 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil\r\n· 华为畅享系列累计发货突破 1.6 亿台\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· OpenAI 发布 GPT-6.1 Terra，API 价格减半、电脑操作提速\r\n· 苹果正式推送 iOS 27.2：Apple Music 迎来黑白新设计、iPhone Duo 支持 Apple Pencil\r\n· 华为畅享系列累计发货突破 1.6 亿台<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "b1b3ee8f2a6ecbd57af7cdee6222081976cf2c39",
-          "title": "新 iPad mini 发布：5499 元起！应有尽有，除了高刷",
-          "link": "https://www.ifanr.com/1685961?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-26T14:39:09.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "好消息：OLED\r\n坏消息：60Hz\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "好消息：OLED\r\n坏消息：60Hz<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "4812196a7ce1c07b54d9f01d88d518776793ef11",
-          "title": "25.98 万元起，魏牌高山 8 HEV 上市，想跟燃油 MPV 们掰掰手腕",
-          "link": "https://www.ifanr.com/1685883?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-26T10:10:19.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "魏牌高山想在细分市场进一步发力。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "魏牌高山想在细分市场进一步发力。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "af25d6604cc9eb00338bbdbbb7c77fb25c71f694",
-          "title": "最不「猛士」的猛士来了，X700 上市 20.98 万元起，却最适合大多数人",
-          "link": "https://www.ifanr.com/1685866?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-26T10:07:42.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "一台最舒适的猛士。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "一台最舒适的猛士。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-28T18:50:25.972Z",
+      "fetchedAt": "2026-10-28T23:12:21.308Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
