@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-28T05:37:14.039Z",
+  "generatedAt": "2026-10-28T12:48:44.436Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-28T05:37:14.038Z",
+      "fetchedAt": "2026-10-28T12:48:44.111Z",
       "items": [
+        {
+          "id": "72dc2ded5b4748effee07898a2988413850f9f08",
+          "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+          "link": "https://sspai.com/post/117725",
+          "pubDate": "2026-10-28T09:37:22.000Z",
+          "author": "IGN中国",
+          "contentSnippet": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文",
+          "content": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...<a href=\"https://sspai.com/post/117725\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "5f103c6ea725a03e607634d1937b14c0aa262480",
+          "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
+          "link": "https://sspai.com/post/116990",
+          "pubDate": "2026-10-28T07:00:00.000Z",
+          "author": "鸿苓",
+          "contentSnippet": "只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文",
+          "content": "只扔不买是没有用的，穿衣服时不多费心神才是目的。<a href=\"https://sspai.com/post/116990\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "914260f1d872f78323e1e3f53ab291a27c34a9ea",
           "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
@@ -85,34 +105,44 @@
           "contentSnippet": "双 11 到来之际的秋冬护肤选购与搭配建议。查看全文",
           "content": "双 11 到来之际的秋冬护肤选购与搭配建议。<a href=\"https://sspai.com/post/117414\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "7bfdc5581db16caa74cbfb86081c1c15fdc4ece8",
-          "title": "曲高和寡、终成绝唱：傲腾 P5800X 测试报告",
-          "link": "https://sspai.com/post/115074",
-          "pubDate": "2026-10-26T03:26:35.000Z",
-          "author": "飘雷",
-          "contentSnippet": "一起来看看 3D XPoint 这夸张的性能表现吧。查看全文",
-          "content": "一起来看看 3D XPoint 这夸张的性能表现吧。<a href=\"https://sspai.com/post/115074\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "08343f95a08c29cda86159abdff5259933d43ce8",
-          "title": "少数派×红树林基金会｜候鸟季公益直播，邀你共护湿地",
-          "link": "https://sspai.com/post/117180",
-          "pubDate": "2026-10-26T03:00:13.000Z",
-          "author": "Bluesky",
-          "contentSnippet": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...查看全文",
-          "content": "每年秋冬，深圳湾都会迎来一批特殊的「旅客」。它们从北方出发，沿着迁徙路线飞越山海，有的在这里短暂停歇，有的则留下越冬。随着潮水涨落，水鸟在滩涂上低头觅食，鸟群掠过海面，也让我们熟悉的海湾多了几分热闹。 ...<a href=\"https://sspai.com/post/117180\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-28T05:37:13.955Z",
+      "fetchedAt": "2026-10-28T12:48:44.436Z",
       "items": [
+        {
+          "id": "0358ecc5375665b1751a0c35d02e78b86f646911",
+          "title": "iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配？",
+          "link": "https://www.ifanr.com/1686397?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T12:11:23.000Z",
+          "author": "梁梦麟",
+          "contentSnippet": "游戏手机的下个世代，会有怎样的变化？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "游戏手机的下个世代，会有怎样的变化？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "e8b58d1eb7f5073bef23959b7f7a710d38621fd6",
+          "title": "这机器人从嘴里钻进人体，居然是来救命的",
+          "link": "https://www.ifanr.com/1686368?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T10:21:02.000Z",
+          "author": "姚桐",
+          "contentSnippet": "当所有人都在讨论 AI 时，机械工程同样可以给世界带来变化。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "当所有人都在讨论 AI 时，机械工程同样可以给世界带来变化。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "cbe24188c3441e03a3a579e75aba388f145c2aa6",
+          "title": "实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」",
+          "link": "https://www.ifanr.com/1686281?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T09:18:48.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "人负责表达意图，键盘负责整理一切\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "人负责表达意图，键盘负责整理一切<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "04f534e148f68b71055b2f2718cef1855866ef16",
           "title": "2030 年之前，我们可能再也买不到便宜的电脑了",
@@ -282,43 +312,13 @@
           "contentSnippet": "唯有诚意与创意不可辜负\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "唯有诚意与创意不可辜负<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "fbda9eed682b31a87e142e81b9e6e9cbf70c4cca",
-          "title": "《影之刃零》：第一个登上世界舞台的「中国武侠游戏」",
-          "link": "https://www.ifanr.com/1685506?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-26T07:36:42.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "国产 3A，再一次震撼世界\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "国产 3A，再一次震撼世界<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "16d568033ed0b5af38c46d85a980cc01f2f857be",
-          "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
-          "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-26T00:16:16.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话\r\n· Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话\r\n· Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "5ff7ba71e7dd04573a8fcc501f2a91045a9bae1a",
-          "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
-          "link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-25T04:10:44.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "还没捂热呢\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "还没捂热呢<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-28T05:37:13.113Z",
+      "fetchedAt": "2026-10-28T12:48:43.171Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
