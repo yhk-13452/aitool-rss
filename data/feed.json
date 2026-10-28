@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-28T12:48:44.436Z",
+  "generatedAt": "2026-10-28T18:50:26.891Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-28T12:48:44.111Z",
+      "fetchedAt": "2026-10-28T18:50:26.891Z",
       "items": [
         {
           "id": "72dc2ded5b4748effee07898a2988413850f9f08",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-28T12:48:44.436Z",
+      "fetchedAt": "2026-10-28T18:50:26.793Z",
       "items": [
+        {
+          "id": "09327fa850b46ab4096863466ff25c4ec7738707",
+          "title": "补齐短板！理想 i6 上市23.98 万元起，等等党赢麻了",
+          "link": "https://www.ifanr.com/1686458?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T14:27:53.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "销冠的自我修养。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "销冠的自我修养。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "0358ecc5375665b1751a0c35d02e78b86f646911",
           "title": "iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配？",
@@ -302,23 +312,13 @@
           "contentSnippet": "一台最舒适的猛士。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "一台最舒适的猛士。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "84efbbb69f76c7d9371537439c25031fc3992cc5",
-          "title": "地铁里的 AI 伪人广告，正在集体霸凌人类",
-          "link": "https://www.ifanr.com/1685809?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-26T07:42:44.000Z",
-          "author": "彭海星",
-          "contentSnippet": "唯有诚意与创意不可辜负\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "唯有诚意与创意不可辜负<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-28T12:48:43.171Z",
+      "fetchedAt": "2026-10-28T18:50:25.972Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
