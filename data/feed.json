@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-29T02:25:29.679Z",
+  "generatedAt": "2026-10-29T09:54:31.702Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-29T02:25:29.526Z",
+      "fetchedAt": "2026-10-29T09:54:31.632Z",
       "items": [
+        {
+          "id": "2b3501a170a6ac7dc2a8d3e84c84a7caf3c36b69",
+          "title": "让 Agent 读懂你的身体：数据处理篇",
+          "link": "https://sspai.com/prime/story/how-to-analyze-health-data-with-agent",
+          "pubDate": "2026-10-29T03:29:46.000Z",
+          "author": "叁思Santh",
+          "contentSnippet": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "content": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...<a href=\"https://sspai.com/prime/story/how-to-analyze-health-data-with-agent\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+          "image": ""
+        },
+        {
+          "id": "cabf5ce15851daa4ea2d78ffa325c32854bef0d2",
+          "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
+          "link": "https://sspai.com/post/116686",
+          "pubDate": "2026-10-29T03:00:00.000Z",
+          "author": "merlin",
+          "contentSnippet": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。查看全文",
+          "content": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。<a href=\"https://sspai.com/post/116686\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "6bbf3511d5ad1ae8d7dd3d8d60fa98e86380cd9f",
           "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
@@ -85,34 +105,44 @@
           "contentSnippet": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。查看全文",
           "content": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。<a href=\"https://sspai.com/post/115855\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "3c6d706be6d535520d3ccd1d2cf4b52e8499ab48",
-          "title": "派评 | 近期值得关注的 App",
-          "link": "https://sspai.com/post/117529",
-          "pubDate": "2026-10-26T10:17:46.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/117529\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "10d97efd2eb6f349c3e539c3e20d684bc3d5db32",
-          "title": "秋冬换季护肤买什么，双 11 选购推荐",
-          "link": "https://sspai.com/post/117414",
-          "pubDate": "2026-10-26T07:00:00.000Z",
-          "author": "程天冲",
-          "contentSnippet": "双 11 到来之际的秋冬护肤选购与搭配建议。查看全文",
-          "content": "双 11 到来之际的秋冬护肤选购与搭配建议。<a href=\"https://sspai.com/post/117414\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-29T02:25:29.679Z",
+      "fetchedAt": "2026-10-29T09:54:31.702Z",
       "items": [
+        {
+          "id": "4aaea9795c7fa1567542acf681c7157bf7f6f488",
+          "title": "7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴",
+          "link": "https://www.ifanr.com/1686636?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-29T08:00:04.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "未来，真的近了！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "未来，真的近了！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "c38f69d28b949641b75d90090c8e579199c854eb",
+          "title": "不认字的 AI，却很会说话",
+          "link": "https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-29T07:03:36.000Z",
+          "author": "Selina",
+          "contentSnippet": "机器为什么不能先说话，再认字？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "机器为什么不能先说话，再认字？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "ae422a47c598410b99549abc058779753f9c5695",
+          "title": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
+          "link": "https://www.ifanr.com/1686343?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-29T04:02:26.000Z",
+          "author": "张子豪",
+          "contentSnippet": "给创作者好的工具，他们就能做出精彩的作品\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "给创作者好的工具，他们就能做出精彩的作品<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "2ca1bb7ef998463858cf3eba89da2a30d25a49d0",
           "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
@@ -282,43 +312,13 @@
           "contentSnippet": "我想要的 Personal Agent，是让生活闪现「灵光」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "我想要的 Personal Agent，是让生活闪现「灵光」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "9a8b39e08a855dfd8c7b0c6aeb081d124eb71014",
-          "title": "刚刚，GPT-6.1 Terra 骨折价发布，Agent 时代的打工模型来了",
-          "link": "https://www.ifanr.com/1686080?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T05:00:58.000Z",
-          "author": "莫崇宇",
-          "contentSnippet": "OpenAI 又卷起了大模型的性价比。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "OpenAI 又卷起了大模型的性价比。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "74d3f5507fcc745532ae1af8be092d00616b406f",
-          "title": "王的猜想，被 AI 一夜通关",
-          "link": "https://www.ifanr.com/1686064?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T04:57:02.000Z",
-          "author": "莫崇宇",
-          "contentSnippet": "AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 已经开始陆续交卷了，但人类可能连阅卷都快来不及了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "2a7d5345dab69d03d625d98d13cb87dd9054db78",
-          "title": "iPhone Duo 拆解：最好修的折叠 iPhone，就是别撕膜",
-          "link": "https://www.ifanr.com/1685935?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T02:30:40.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "自己动手修折叠屏，需要勇气和实力\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "自己动手修折叠屏，需要勇气和实力<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-29T02:25:28.819Z",
+      "fetchedAt": "2026-10-29T09:54:30.298Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
