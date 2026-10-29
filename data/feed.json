@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-28T23:12:21.802Z",
+  "generatedAt": "2026-10-29T02:25:29.679Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-28T23:12:21.747Z",
+      "fetchedAt": "2026-10-29T02:25:29.526Z",
       "items": [
+        {
+          "id": "6bbf3511d5ad1ae8d7dd3d8d60fa98e86380cd9f",
+          "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
+          "link": "https://sspai.com/post/117750",
+          "pubDate": "2026-10-29T00:26:49.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文",
+          "content": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。<a href=\"https://sspai.com/post/117750\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "72dc2ded5b4748effee07898a2988413850f9f08",
           "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
@@ -77,16 +87,6 @@
           "image": ""
         },
         {
-          "id": "13846060f7f9ee399c33939ae70c6ef92b118e37",
-          "title": "派早报：Apple 发布 iPad mini (A20 Pro) 等",
-          "link": "https://sspai.com/post/117600",
-          "pubDate": "2026-10-27T00:27:58.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...查看全文",
-          "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章少数派×红树林基金会｜候鸟季公益直播 ...<a href=\"https://sspai.com/post/117600\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
           "id": "3c6d706be6d535520d3ccd1d2cf4b52e8499ab48",
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/117529",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-28T23:12:21.802Z",
+      "fetchedAt": "2026-10-29T02:25:29.679Z",
       "items": [
+        {
+          "id": "2ca1bb7ef998463858cf3eba89da2a30d25a49d0",
+          "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+          "link": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-29T00:00:32.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型\r\n· 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相\r\n· 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目\r\n期项目\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型\r\n· 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相\r\n· 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目\r\n期项目<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "e091410c65cbb8aa02d9d86619c3f7ec4f7e9935",
           "title": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？",
@@ -302,23 +312,13 @@
           "contentSnippet": "自己动手修折叠屏，需要勇气和实力\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "自己动手修折叠屏，需要勇气和实力<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "a427f304ecf77c2b8be42afa2e594fea03f47973",
-          "title": "荣耀 WIN 2 体验：被迫升杯的「游戏机」，这次还能不能赢？",
-          "link": "https://www.ifanr.com/1686003?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T01:13:00.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "「被迫」从次高端跃升到高端机行列，既是时代使然，也是一个必然的结果。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-28T23:12:21.308Z",
+      "fetchedAt": "2026-10-29T02:25:28.819Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
