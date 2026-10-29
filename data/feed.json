@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-29T09:54:31.702Z",
+  "generatedAt": "2026-10-29T16:55:29.379Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-29T09:54:31.632Z",
+      "fetchedAt": "2026-10-29T16:55:28.610Z",
       "items": [
+        {
+          "id": "7173402c799a3803861a3d40a0f6331e58a31e8c",
+          "title": "新玩意 254｜少数派的编辑们最近买了啥？",
+          "link": "https://sspai.com/post/117791",
+          "pubDate": "2026-10-29T09:26:58.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/117791\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "37dc63a2b02db2019d98972425f675592d4e002a",
+          "title": "如何成为不吃压力的「大心脏」？",
+          "link": "https://sspai.com/post/117244",
+          "pubDate": "2026-10-29T09:05:38.000Z",
+          "author": "乔淼",
+          "contentSnippet": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论查看全文",
+          "content": "适合别人的抗压方式为什么不适合自己？你也该知道的抗压方法论<a href=\"https://sspai.com/post/117244\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "2b3501a170a6ac7dc2a8d3e84c84a7caf3c36b69",
           "title": "让 Agent 读懂你的身体：数据处理篇",
@@ -85,34 +105,44 @@
           "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
           "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/117633\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "391a4191c0c9b73de349351d6b186a5b49f208a0",
-          "title": "Apple Sports：不看新闻、不聊球，只看我关心的比赛",
-          "link": "https://sspai.com/post/117557",
-          "pubDate": "2026-10-27T07:27:57.000Z",
-          "author": "Vanilla",
-          "contentSnippet": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...查看全文",
-          "content": "作为一个从小看CCTV-5体育频道下饭的「体育迷」，在互联网时代我一般都看新浪门户网站的体育板块来获取最新的体育资讯，在智能手机逐渐普及后，百度贴吧、虎扑、懂球帝等平台又是我获取体育资讯以及和网友们吹 ...<a href=\"https://sspai.com/post/117557\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "48a0ce2699418e9d01e914e6a0eb027bb41aa779",
-          "title": "一日一技｜NAS 作为 UPS 总控，实现局域网多设备断电自动关机",
-          "link": "https://sspai.com/post/115855",
-          "pubDate": "2026-10-27T03:02:18.000Z",
-          "author": "飘雷",
-          "contentSnippet": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。查看全文",
-          "content": "借助 NUT 网络 UPS 协议，我们只需要一台 UPS，就可以驱动局域网中多台设备协同断电保护。<a href=\"https://sspai.com/post/115855\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-29T09:54:31.702Z",
+      "fetchedAt": "2026-10-29T16:55:29.378Z",
       "items": [
+        {
+          "id": "6ef53b1333ed98f56b6cea49a5ff421c5f40c73c",
+          "title": "13.98 万元起！小鹏 MONA L05 正式上市，大五座 SUV 市场的卷王来了",
+          "link": "https://www.ifanr.com/1686761?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-29T14:17:14.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "属于 MONA 的家庭用车。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "属于 MONA 的家庭用车。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "17615e61805a0daff3c18e17c2edf83acf4f5f8e",
+          "title": "取消四缸插混，3.0T 六缸回归！全新 AMG GLC 53 售 59.9 万元",
+          "link": "https://www.ifanr.com/1686672?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-29T14:04:12.000Z",
+          "author": "李华",
+          "contentSnippet": "没有「63」的年代，它成了性能天花板。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "没有「63」的年代，它成了性能天花板。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "0784c171f365c4c4a75b2fede86c80d65790236f",
+          "title": "为什么新模型发布，都要先做一个游戏？",
+          "link": "https://www.ifanr.com/1686650?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-29T10:22:21.000Z",
+          "author": "Selina",
+          "contentSnippet": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "4aaea9795c7fa1567542acf681c7157bf7f6f488",
           "title": "7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴",
@@ -194,6 +224,16 @@
           "image": ""
         },
         {
+          "id": "d0378d3174bb43c0d39de6562f53c9d4cd131e05",
+          "title": "推到重来！魏牌二代蓝山改头换面，长城不想再造奶爸车了",
+          "link": "https://www.ifanr.com/1686428?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-28T14:30:40.000Z",
+          "author": "李华",
+          "contentSnippet": "打不过就换一个赛道。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "打不过就换一个赛道。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
           "id": "09327fa850b46ab4096863466ff25c4ec7738707",
           "title": "补齐短板！理想 i6 上市23.98 万元起，等等党赢麻了",
           "link": "https://www.ifanr.com/1686458?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -272,53 +312,13 @@
           "contentSnippet": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降\r\n· 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练\r\n· 研究：豆包引用抖音的权重升至 31.8%\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· IDC：中国手机 Q3 出货下滑 15.2%，折叠屏连续四季度下降\r\n· 邓煜：AI 公司应公开证明思路，让用户决定数据是否用于训练\r\n· 研究：豆包引用抖音的权重升至 31.8%<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "bd663bda994a10809e14953a35972167a8e8f690",
-          "title": "刚刚，谷歌 Genie 4 发布，120 秒的世界却让我看见 AI 的未来",
-          "link": "https://www.ifanr.com/1686234?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T22:37:04.000Z",
-          "author": "莫崇宇",
-          "contentSnippet": "AI 的下一个目标是模拟现实\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 的下一个目标是模拟现实<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "8f8166e81cea6c066ff3f418bb5377a7c842019c",
-          "title": "Rokid Glasses 2 首发体验：让不戴眼镜的我，习惯戴它出门",
-          "link": "https://www.ifanr.com/1686154?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T10:23:36.000Z",
-          "author": "Lin",
-          "contentSnippet": "让日常不戴眼镜的我习惯戴着眼镜出门，Rokid Glasses 2 做到了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "让日常不戴眼镜的我习惯戴着眼镜出门，Rokid Glasses 2 做到了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "93557a346afd9e8c86fef886ffae7983a3f1fa39",
-          "title": "7.69 万元起，第三代秦 PLUS DM-i 上市，内饰颜值大提升！",
-          "link": "https://www.ifanr.com/1686110?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T09:19:00.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "比亚迪的内饰设计师该加鸡腿了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "比亚迪的内饰设计师该加鸡腿了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "9f36a977a93e92ffbe34b8776f0021e1f15acbf8",
-          "title": "中国版Muse能管事！我把宠物保单、双11算价和周末旅行全交给了灵光2.0",
-          "link": "https://www.ifanr.com/1686050?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-27T05:02:30.000Z",
-          "author": "姚桐",
-          "contentSnippet": "我想要的 Personal Agent，是让生活闪现「灵光」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "我想要的 Personal Agent，是让生活闪现「灵光」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-29T09:54:30.298Z",
+      "fetchedAt": "2026-10-29T16:55:27.711Z",
       "items": [
         {
           "id": "9e609e9caf1d426c769e46762a444080fc21cc94",
