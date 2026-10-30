@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-10-30T08:36:16.133Z",
+  "generatedAt": "2026-10-30T15:54:26.900Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-30T08:36:15.973Z",
+      "fetchedAt": "2026-10-30T15:54:26.656Z",
       "items": [
+        {
+          "id": "40a2250126c4a0928f07aceefdcf50d89dd4692d",
+          "title": "本周看什么 | 最近值得一看的 9 部作品",
+          "link": "https://sspai.com/post/117867",
+          "pubDate": "2026-10-30T09:57:11.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...查看全文",
+          "content": "📅本周新预告《沙丘3》终极预告10月28日，电影《沙丘3》发布了终极预告，中国内地将于12月31日上映。丹尼斯·维伦纽瓦执导，提莫西·查拉梅、赞达亚、杰森·莫玛、弗洛伦丝·皮尤、丽贝卡·弗格森主演，誓 ...<a href=\"https://sspai.com/post/117867\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "9a131f8d6d28ce6ac968f4aec76fce74a44145fb",
           "title": "App+1｜该吃药了：一片小药板，让吃药提醒变得轻松有趣",
@@ -95,24 +105,44 @@
           "contentSnippet": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文",
           "content": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。<a href=\"https://sspai.com/post/117750\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "72dc2ded5b4748effee07898a2988413850f9f08",
-          "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
-          "link": "https://sspai.com/post/117725",
-          "pubDate": "2026-10-28T09:37:22.000Z",
-          "author": "IGN中国",
-          "contentSnippet": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文",
-          "content": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...<a href=\"https://sspai.com/post/117725\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-30T08:36:16.132Z",
+      "fetchedAt": "2026-10-30T15:54:26.899Z",
       "items": [
+        {
+          "id": "34fb6f21993c54242c6d5a24afe439ac61ce9cd0",
+          "title": "汽车工业的下一条流水线，开始由 AI 来安排",
+          "link": "https://www.ifanr.com/1686953?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-30T13:03:59.000Z",
+          "author": "刘学文",
+          "contentSnippet": "从司机乘客，到汽车工厂，再到整个产业。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "从司机乘客，到汽车工厂，再到整个产业。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "544d5e5a5be7c6c2b6442692ef07d44344860238",
+          "title": "红魔 12 Pro+ 体验：水冷加上 RGB 灯，游戏性能全面升级",
+          "link": "https://www.ifanr.com/1686916?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-30T10:06:37.000Z",
+          "author": "梁梦麟",
+          "contentSnippet": "水冷，必须有 RGB 灯。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "水冷，必须有 RGB 灯。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "d09eef588bb1a324d96c116d291071700f8a4302",
+          "title": "「史上最强」的 iPad mini，为什么还是 60Hz 屏幕？",
+          "link": "https://www.ifanr.com/1686901?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-30T10:00:28.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "刀法、刀法，还是刀法\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "刀法、刀法，还是刀法<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "36c53142f64f5ad64e3d6eeee151b5e63fef88e2",
           "title": "Fable 5.5测试曝光，Claude每次回答后，还会执行一条你看不到的指令",
@@ -282,43 +312,13 @@
           "contentSnippet": "打不过就换一个赛道。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "打不过就换一个赛道。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "09327fa850b46ab4096863466ff25c4ec7738707",
-          "title": "补齐短板！理想 i6 上市23.98 万元起，等等党赢麻了",
-          "link": "https://www.ifanr.com/1686458?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-28T14:27:53.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "销冠的自我修养。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "销冠的自我修养。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "0358ecc5375665b1751a0c35d02e78b86f646911",
-          "title": "iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配？",
-          "link": "https://www.ifanr.com/1686397?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-28T12:11:23.000Z",
-          "author": "梁梦麟",
-          "contentSnippet": "游戏手机的下个世代，会有怎样的变化？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "游戏手机的下个世代，会有怎样的变化？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "e8b58d1eb7f5073bef23959b7f7a710d38621fd6",
-          "title": "这机器人从嘴里钻进人体，居然是来救命的",
-          "link": "https://www.ifanr.com/1686368?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-28T10:21:02.000Z",
-          "author": "姚桐",
-          "contentSnippet": "当所有人都在讨论 AI 时，机械工程同样可以给世界带来变化。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "当所有人都在讨论 AI 时，机械工程同样可以给世界带来变化。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-30T08:36:14.869Z",
+      "fetchedAt": "2026-10-30T15:54:25.539Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
