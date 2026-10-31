@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T13:37:43.230Z",
+  "generatedAt": "2026-10-31T18:32:07.863Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-31T13:37:43.111Z",
+      "fetchedAt": "2026-10-31T18:32:07.660Z",
       "items": [
         {
           "id": "936c534151dc5cb0a4f3a343adeb29ff7f9d3f5c",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-31T13:37:43.230Z",
+      "fetchedAt": "2026-10-31T18:32:07.863Z",
       "items": [
+        {
+          "id": "f17835f6720a91e9361debd6ed0e1fdcf93d7f5a",
+          "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+          "link": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-31T13:59:57.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "AI Agent 的下一个瓶颈，可能是人类自己\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "AI Agent 的下一个瓶颈，可能是人类自己<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "c6f91530877b8429b597e934a1ec48b36dd9865a",
           "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
@@ -302,23 +312,13 @@
           "contentSnippet": "很强，很亮，很贵\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "很强，很亮，很贵<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "5491641e887f92f9214994ff39c95228be52d866",
-          "title": "顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说",
-          "link": "https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-28T23:00:46.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "苹果标会亮！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "苹果标会亮！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-31T13:37:41.809Z",
+      "fetchedAt": "2026-10-31T18:32:06.685Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
