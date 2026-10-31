@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-30T20:46:47.321Z",
+  "generatedAt": "2026-10-31T00:46:22.730Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-30T20:46:46.831Z",
+      "fetchedAt": "2026-10-31T00:46:22.730Z",
       "items": [
         {
           "id": "40a2250126c4a0928f07aceefdcf50d89dd4692d",
@@ -111,8 +111,28 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-30T20:46:47.321Z",
+      "fetchedAt": "2026-10-31T00:46:22.704Z",
       "items": [
+        {
+          "id": "a49de09d9a26e077e7561e1f95918488b7e67677",
+          "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
+          "link": "https://www.ifanr.com/1686979?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-31T00:14:24.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起\r\n· 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本\r\n· 米哈游《星布谷地》定档 12 月 4 日公测\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 特斯拉推出 5 年零息方案，Model 3 / Y 首付 3.99 万元起\r\n· 开发者在 Surface Duo 2 上启动 iOS 27 iPhone Duo 版本\r\n· 米哈游《星布谷地》定档 12 月 4 日公测<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "117c1db7615c13e19dcf9fdb6c691c3bade19183",
+          "title": "iPhone 国行 AI 真的来了，千问成为 Siri 新搭档",
+          "link": "https://www.ifanr.com/1686969?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-30T22:34:47.000Z",
+          "author": "莫崇宇",
+          "contentSnippet": "苹果国行 AI 终于迈出关键一步\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "苹果国行 AI 终于迈出关键一步<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "34fb6f21993c54242c6d5a24afe439ac61ce9cd0",
           "title": "汽车工业的下一条流水线，开始由 AI 来安排",
@@ -292,33 +312,13 @@
           "contentSnippet": "哈基米终于扬眉吐气了\r\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "哈基米终于扬眉吐气了\r\n<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "940c99ce253062ff13337efc818ff1c2cf045159",
-          "title": "iPad mini 首发上手：体验无可替代，刀法无人能及",
-          "link": "https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-28T19:27:06.000Z",
-          "author": "彭海星",
-          "contentSnippet": "算力越级，高刷缺席，一款让人爱恨交织的产品\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "算力越级，高刷缺席，一款让人爱恨交织的产品<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "d0378d3174bb43c0d39de6562f53c9d4cd131e05",
-          "title": "推到重来！魏牌二代蓝山改头换面，长城不想再造奶爸车了",
-          "link": "https://www.ifanr.com/1686428?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-28T14:30:40.000Z",
-          "author": "李华",
-          "contentSnippet": "打不过就换一个赛道。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "打不过就换一个赛道。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-30T20:46:45.841Z",
+      "fetchedAt": "2026-10-31T00:46:22.015Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
