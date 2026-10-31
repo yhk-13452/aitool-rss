@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-10-31T00:46:22.730Z",
+  "generatedAt": "2026-10-31T06:58:22.413Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-10-31T00:46:22.730Z",
+      "fetchedAt": "2026-10-31T06:58:22.305Z",
       "items": [
+        {
+          "id": "936c534151dc5cb0a4f3a343adeb29ff7f9d3f5c",
+          "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+          "link": "https://sspai.com/post/117960",
+          "pubDate": "2026-10-31T05:29:19.000Z",
+          "author": "板斧",
+          "contentSnippet": "欢迎你在评论区分享 10 月新作的游玩体验。查看全文",
+          "content": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=\"https://sspai.com/post/117960\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "7591cfe857bbe512b929cae8a08a2dba3f44b51b",
+          "title": "一图流 | 一张图看懂中国版 Apple 智能",
+          "link": "https://sspai.com/post/117953",
+          "pubDate": "2026-10-31T04:10:39.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。查看全文",
+          "content": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=\"https://sspai.com/post/117953\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "40a2250126c4a0928f07aceefdcf50d89dd4692d",
           "title": "本周看什么 | 最近值得一看的 9 部作品",
@@ -85,34 +105,24 @@
           "contentSnippet": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "content": "在上一篇文章《让Agent读懂你的身体：数据获取篇》中，我花了很大的篇幅讲清楚了第一个问题：Agent怎样拿到数据。如果照着实践完，你大概率已经收获了一份存储了运动健康数据的SQLite、Markdo ...<a href=\"https://sspai.com/prime/story/how-to-analyze-health-data-with-agent\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
           "image": ""
-        },
-        {
-          "id": "cabf5ce15851daa4ea2d78ffa325c32854bef0d2",
-          "title": "一日一技｜iPhone 恶意被锁，线上移除流程拆招",
-          "link": "https://sspai.com/post/116686",
-          "pubDate": "2026-10-29T03:00:00.000Z",
-          "author": "merlin",
-          "contentSnippet": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。查看全文",
-          "content": "如果你从网上购买过 Apple ID，又在自己的设备上登录，那就会存在一种风险：这类共享 ID 的密码掌握在卖家手里，卖家可以随时更改。本文就介绍了移除激活锁的全过程。<a href=\"https://sspai.com/post/116686\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "6bbf3511d5ad1ae8d7dd3d8d60fa98e86380cd9f",
-          "title": "派早报：Apple 推出触控款 MacBook Pro、华为发布多款新品等",
-          "link": "https://sspai.com/post/117750",
-          "pubDate": "2026-10-29T00:26:49.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。查看全文",
-          "content": "Google 推出世界模型 Genie 4、索尼推出手机主摄图像传感器 LYTIA 720 等。<a href=\"https://sspai.com/post/117750\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-10-31T00:46:22.704Z",
+      "fetchedAt": "2026-10-31T06:58:22.413Z",
       "items": [
+        {
+          "id": "c6f91530877b8429b597e934a1ec48b36dd9865a",
+          "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+          "link": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-31T01:37:05.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "等了好久终于等到今天\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "等了好久终于等到今天<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "a49de09d9a26e077e7561e1f95918488b7e67677",
           "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
@@ -302,23 +312,13 @@
           "contentSnippet": "苹果标会亮！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "苹果标会亮！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "db9d8caaebc14f9a73a555fac9f959390aee90a0",
-          "title": "刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一",
-          "link": "https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-28T22:31:28.000Z",
-          "author": "莫崇宇",
-          "contentSnippet": "哈基米终于扬眉吐气了\r\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "哈基米终于扬眉吐气了\r\n<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-10-31T00:46:22.015Z",
+      "fetchedAt": "2026-10-31T06:58:21.543Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
