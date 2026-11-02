@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-02T07:39:26.049Z",
+  "generatedAt": "2026-11-02T18:18:52.244Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-02T07:39:25.835Z",
+      "fetchedAt": "2026-11-02T18:18:52.206Z",
       "items": [
+        {
+          "id": "7dd31c0d5d6a2d9316ee79647c9b4f93b49b8fa4",
+          "title": "派评 | 近期值得关注的 App",
+          "link": "https://sspai.com/post/118240",
+          "pubDate": "2026-11-02T09:57:55.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文",
+          "content": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=\"https://sspai.com/post/118240\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "bcf853929e55266bcc22e99d9346229ff24dd651",
+          "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
+          "link": "https://sspai.com/post/118122",
+          "pubDate": "2026-11-02T07:00:00.000Z",
+          "author": "KingTsui",
+          "contentSnippet": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...查看全文",
+          "content": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "507021be51d2f210dd491456601f5c2aa194bbb4",
           "title": "Xnip 十周年：长截图的新生，也是新的起点",
@@ -85,34 +105,44 @@
           "contentSnippet": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "content": "编者按：@阿帅的健康笔记长期专注于运动健康领域的创作，发表了不少兼具实用性与科普性的文章，并著有付费栏目《久坐健康指南》，受到许多读者喜爱。本期《装了啥》邀请他分享运动、创作与工作中的心得，以及常用的 ...<a href=\"https://sspai.com/prime/story/zhuanglesha-261030\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
           "image": ""
-        },
-        {
-          "id": "e27fe191802aa2f5093e386a61d027c7ac3ac5a3",
-          "title": "精确到秒的时间记录是怎样的？我的柳比歇夫法半年实践",
-          "link": "https://sspai.com/post/116435",
-          "pubDate": "2026-10-30T03:13:40.000Z",
-          "author": "jyf15",
-          "contentSnippet": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。查看全文",
-          "content": "就像一个运动员无法预计自己能否取得金牌，但能控制自己投入于训练的时间一样，我们无法决定性地控制工作和生活中每一项事项的成功与否，但可以控制自己投入更多还是更少的时间。<a href=\"https://sspai.com/post/116435\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "ce589dbe2ba3f6481d36d269fcb9cfc36461e589",
-          "title": "派早报：全球首款 Android XR 有线眼镜 XREAL AURA 发售等",
-          "link": "https://sspai.com/post/117827",
-          "pubDate": "2026-10-30T00:13:38.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。查看全文",
-          "content": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。<a href=\"https://sspai.com/post/117827\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-02T07:39:26.049Z",
+      "fetchedAt": "2026-11-02T18:18:52.244Z",
       "items": [
+        {
+          "id": "08fd701a606aa3f1a4183c0f99eb97155e83e414",
+          "title": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
+          "link": "https://www.ifanr.com/1687094?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-02T08:03:24.000Z",
+          "author": "张子豪",
+          "contentSnippet": "AI 正在逆向一切：从软件、游戏到信息入口\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "AI 正在逆向一切：从软件、游戏到信息入口<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "6bad7961db4900bb27fa8f77e33a1af0041a84b6",
+          "title": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
+          "link": "https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-02T07:41:09.000Z",
+          "author": "彭海星",
+          "contentSnippet": "抽签看演唱会，可能是当下最「不坏」的选择\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "抽签看演唱会，可能是当下最「不坏」的选择<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "bda99d7a0f2efccb80afabe2c845324964d23389",
+          "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
+          "link": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-02T07:37:31.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "内卷见顶，出海将是下一站。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "内卷见顶，出海将是下一站。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "50f5a71181616f1b9d83dd7e1e88bb78b40d4106",
           "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
@@ -151,6 +181,16 @@
           "author": "山宗",
           "contentSnippet": "AI Agent 的下一个瓶颈，可能是人类自己\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "AI Agent 的下一个瓶颈，可能是人类自己<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "b47a26d74f21a054b47c2449ec51639f5496e016",
+          "title": "大众在合肥攒了个新平台，一年要往海外卖 30 万辆「中国大众」",
+          "link": "https://www.ifanr.com/1687151?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-10-31T02:38:38.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "中国的大众，就是世界的大众。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "中国的大众，就是世界的大众。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
         },
         {
@@ -272,53 +312,13 @@
           "contentSnippet": "属于 MONA 的家庭用车。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "属于 MONA 的家庭用车。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "17615e61805a0daff3c18e17c2edf83acf4f5f8e",
-          "title": "取消四缸插混，3.0T 六缸回归！全新 AMG GLC 53 售 59.9 万元",
-          "link": "https://www.ifanr.com/1686672?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-29T14:04:12.000Z",
-          "author": "李华",
-          "contentSnippet": "没有「63」的年代，它成了性能天花板。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "没有「63」的年代，它成了性能天花板。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "0784c171f365c4c4a75b2fede86c80d65790236f",
-          "title": "为什么新模型发布，都要先做一个游戏？",
-          "link": "https://www.ifanr.com/1686650?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-29T10:22:21.000Z",
-          "author": "Selina",
-          "contentSnippet": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "模型力内卷的下半场，任何新版本推出时都需要考虑，怎么给出一种大众能够看懂的表现方式<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "4aaea9795c7fa1567542acf681c7157bf7f6f488",
-          "title": "7500 元！第一副安卓 XR 眼镜来了，比苹果更轻更好戴",
-          "link": "https://www.ifanr.com/1686636?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-29T08:00:04.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "未来，真的近了！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "未来，真的近了！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "c38f69d28b949641b75d90090c8e579199c854eb",
-          "title": "不认字的 AI，却很会说话",
-          "link": "https://www.ifanr.com/1686124?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-29T07:03:36.000Z",
-          "author": "Selina",
-          "contentSnippet": "机器为什么不能先说话，再认字？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "机器为什么不能先说话，再认字？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-02T07:39:25.099Z",
+      "fetchedAt": "2026-11-02T18:18:51.278Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
