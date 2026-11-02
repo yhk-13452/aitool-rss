@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-02T00:41:09.710Z",
+  "generatedAt": "2026-11-02T07:39:26.049Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-02T00:41:09.459Z",
+      "fetchedAt": "2026-11-02T07:39:25.835Z",
       "items": [
+        {
+          "id": "507021be51d2f210dd491456601f5c2aa194bbb4",
+          "title": "Xnip 十周年：长截图的新生，也是新的起点",
+          "link": "https://sspai.com/post/115662",
+          "pubDate": "2026-11-02T03:00:41.000Z",
+          "author": "lyx",
+          "contentSnippet": "十年是一个里程碑，也是新的起点。查看全文",
+          "content": "十年是一个里程碑，也是新的起点。<a href=\"https://sspai.com/post/115662\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "8012a7cdc1cdf4673e860615ecc2de13596ee04d",
           "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
@@ -95,24 +105,34 @@
           "contentSnippet": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。查看全文",
           "content": "腾讯与 Visa 签署合作备忘录，Bose 有线消噪耳塞国行上市等。<a href=\"https://sspai.com/post/117827\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "7173402c799a3803861a3d40a0f6331e58a31e8c",
-          "title": "新玩意 254｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/117791",
-          "pubDate": "2026-10-29T09:26:58.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/117791\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-02T00:41:09.710Z",
+      "fetchedAt": "2026-11-02T07:39:26.049Z",
       "items": [
+        {
+          "id": "50f5a71181616f1b9d83dd7e1e88bb78b40d4106",
+          "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
+          "link": "https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-02T07:37:27.000Z",
+          "author": "张子豪",
+          "contentSnippet": "或许《Her》描绘的世界已经到来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "或许《Her》描绘的世界已经到来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "35e0730546e7eb3b38edd2e6084c777742166d32",
+          "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
+          "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-02T01:51:47.000Z",
+          "author": "山宗",
+          "contentSnippet": "全球基模大战，疯狂 11 月正式开场\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "全球基模大战，疯狂 11 月正式开场<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "79f54cdbc95499dbca9dcbd105fbdacdbf640ed3",
           "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
@@ -292,33 +312,13 @@
           "contentSnippet": "机器为什么不能先说话，再认字？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "机器为什么不能先说话，再认字？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "ae422a47c598410b99549abc058779753f9c5695",
-          "title": "实测即梦短剧工作室，这可能是 Seedance 2.5 最有性价比的用法",
-          "link": "https://www.ifanr.com/1686343?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-29T04:02:26.000Z",
-          "author": "张子豪",
-          "contentSnippet": "给创作者好的工具，他们就能做出精彩的作品\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "给创作者好的工具，他们就能做出精彩的作品<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "2ca1bb7ef998463858cf3eba89da2a30d25a49d0",
-          "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
-          "link": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-29T00:00:32.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型\r\n· 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相\r\n· 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目\r\n期项目\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型\r\n· 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相\r\n· 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目\r\n期项目<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-02T00:41:08.781Z",
+      "fetchedAt": "2026-11-02T07:39:25.099Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
