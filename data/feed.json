@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-03T09:29:19.238Z",
+  "generatedAt": "2026-11-03T17:49:31.114Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-03T09:29:19.055Z",
+      "fetchedAt": "2026-11-03T17:49:31.114Z",
       "items": [
+        {
+          "id": "7bb3115a8b2ee13706ebefb9164aa59d5516b817",
+          "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+          "link": "https://sspai.com/post/118263",
+          "pubDate": "2026-11-03T14:00:00.000Z",
+          "author": "waychane",
+          "contentSnippet": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文",
+          "content": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。<a href=\"https://sspai.com/post/118263\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "5c91822e8d6729b80f4148089844d5dc5e97ba6c",
           "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
@@ -95,24 +105,24 @@
           "contentSnippet": "欢迎你在评论区分享 10 月新作的游玩体验。查看全文",
           "content": "欢迎你在评论区分享 10 月新作的游玩体验。<a href=\"https://sspai.com/post/117960\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "7591cfe857bbe512b929cae8a08a2dba3f44b51b",
-          "title": "一图流 | 一张图看懂中国版 Apple 智能",
-          "link": "https://sspai.com/post/117953",
-          "pubDate": "2026-10-31T04:10:39.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。查看全文",
-          "content": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。<a href=\"https://sspai.com/post/117953\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-03T09:29:19.238Z",
+      "fetchedAt": "2026-11-03T17:49:31.113Z",
       "items": [
+        {
+          "id": "d91a905bec791f902494961a3850d82c51bcf26f",
+          "title": "iPad mini 8 首发评测：本该是一台完美的平板电脑",
+          "link": "https://www.ifanr.com/1687473?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-03T15:18:46.000Z",
+          "author": "张展毓",
+          "contentSnippet": "全网最细的iPad mini 8 评测，屏幕到底锁没锁帧，我们挖出了超多细节。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "全网最细的iPad mini 8 评测，屏幕到底锁没锁帧，我们挖出了超多细节。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "a318270087fe349c99529e1f375292d4993fe83e",
           "title": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨",
@@ -302,23 +312,13 @@
           "contentSnippet": "从司机乘客，到汽车工厂，再到整个产业。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "从司机乘客，到汽车工厂，再到整个产业。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "544d5e5a5be7c6c2b6442692ef07d44344860238",
-          "title": "红魔 12 Pro+ 体验：水冷加上 RGB 灯，游戏性能全面升级",
-          "link": "https://www.ifanr.com/1686916?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-30T10:06:37.000Z",
-          "author": "梁梦麟",
-          "contentSnippet": "水冷，必须有 RGB 灯。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "水冷，必须有 RGB 灯。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-03T09:29:18.361Z",
+      "fetchedAt": "2026-11-03T17:49:30.291Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
