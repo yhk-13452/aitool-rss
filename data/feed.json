@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T14:29:27.718Z",
+  "generatedAt": "2026-11-04T21:17:46.856Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-04T14:29:27.718Z",
+      "fetchedAt": "2026-11-04T21:17:46.815Z",
       "items": [
         {
           "id": "4a89e4afa3d878f9a3c2691fba228f348956105d",
@@ -111,8 +111,28 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-04T14:29:27.580Z",
+      "fetchedAt": "2026-11-04T21:17:46.856Z",
       "items": [
+        {
+          "id": "1ac9d0b5a636cdf0802fb67cfab5bab07a9f3c88",
+          "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
+          "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T17:30:04.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "这次你一定要用上 Apple 智能！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "这次你一定要用上 Apple 智能！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "62511fe9b324e2196b04da6df6ef3347ef454a77",
+          "title": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失",
+          "link": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T15:12:46.000Z",
+          "author": "李华",
+          "contentSnippet": "车市的天花板，可能比我们想的更低。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "车市的天花板，可能比我们想的更低。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "9fb866b8b48c1d6ee9b29143c39ea3c362a7f083",
           "title": "Anthropic微微发力，AI中转站的天就要塌了？",
@@ -292,33 +312,13 @@
           "contentSnippet": "来看奔驰很清楚他们的短板所在。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "来看奔驰很清楚他们的短板所在。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "08fd701a606aa3f1a4183c0f99eb97155e83e414",
-          "title": "卡帕西用Claude两小时重做了YouTube，每个人都能拥有一个自己的互联网",
-          "link": "https://www.ifanr.com/1687094?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-02T08:03:24.000Z",
-          "author": "张子豪",
-          "contentSnippet": "AI 正在逆向一切：从软件、游戏到信息入口\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 正在逆向一切：从软件、游戏到信息入口<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "6bad7961db4900bb27fa8f77e33a1af0041a84b6",
-          "title": "500 万人抽签看陈奕迅，AI 会终结「抢票时代」吗？",
-          "link": "https://www.ifanr.com/1687130?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-02T07:41:09.000Z",
-          "author": "彭海星",
-          "contentSnippet": "抽签看演唱会，可能是当下最「不坏」的选择\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "抽签看演唱会，可能是当下最「不坏」的选择<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-04T14:29:26.835Z",
+      "fetchedAt": "2026-11-04T21:17:46.007Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
