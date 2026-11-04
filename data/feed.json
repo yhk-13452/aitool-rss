@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-04T06:13:03.179Z",
+  "generatedAt": "2026-11-04T14:29:27.718Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-04T06:13:02.876Z",
+      "fetchedAt": "2026-11-04T14:29:27.718Z",
       "items": [
+        {
+          "id": "4a89e4afa3d878f9a3c2691fba228f348956105d",
+          "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+          "link": "https://sspai.com/post/117713",
+          "pubDate": "2026-11-04T12:25:55.000Z",
+          "author": "Tw93",
+          "contentSnippet": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文",
+          "content": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。<a href=\"https://sspai.com/post/117713\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "eb055d8a0900bd5311e4521115448197ee7dc5b1",
+          "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+          "link": "https://sspai.com/post/115819",
+          "pubDate": "2026-11-04T06:50:48.000Z",
+          "author": "子晓",
+          "contentSnippet": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。查看全文",
+          "content": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。<a href=\"https://sspai.com/post/115819\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "c0c8056ef389cb122a0239f6da365ef585306c03",
           "title": "国行 Apple 智能上手：这些功能已经准备好",
@@ -85,34 +105,74 @@
           "contentSnippet": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...查看全文",
           "content": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "507021be51d2f210dd491456601f5c2aa194bbb4",
-          "title": "Xnip 十周年：长截图的新生，也是新的起点",
-          "link": "https://sspai.com/post/115662",
-          "pubDate": "2026-11-02T03:00:41.000Z",
-          "author": "lyx",
-          "contentSnippet": "十年是一个里程碑，也是新的起点。查看全文",
-          "content": "十年是一个里程碑，也是新的起点。<a href=\"https://sspai.com/post/115662\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "cb05af842fe4c3e11b9f72af8e88180bd9f81f16",
-          "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
-          "link": "https://sspai.com/post/116991",
-          "pubDate": "2026-11-01T07:02:46.000Z",
-          "author": "随便好啦",
-          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/116991\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-04T06:13:03.179Z",
+      "fetchedAt": "2026-11-04T14:29:27.580Z",
       "items": [
+        {
+          "id": "9fb866b8b48c1d6ee9b29143c39ea3c362a7f083",
+          "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+          "link": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T10:34:38.000Z",
+          "author": "张子豪",
+          "contentSnippet": "就像发邮件加上数字签名一样\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "就像发邮件加上数字签名一样<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "2bdd6853f0753632c6624f550bee566ccf5ef1e3",
+          "title": "安东内利加冕 F1 最年轻世界冠军，梅赛德斯的十年豪赌拿到了大结果",
+          "link": "https://www.ifanr.com/1687672?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T10:06:47.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "一位天才车手的圆梦之旅。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "一位天才车手的圆梦之旅。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "13f58bc8afb66620c4229c1a26967643be2ca219",
+          "title": "加油、充电还能加甲醇！吉利银河星耀 6 EF 上市，7.68 万元起",
+          "link": "https://www.ifanr.com/1687688?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T10:04:58.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "不挑食。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "不挑食。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "ee35a9434431c8d8651a2c17f69aeb8a55277b79",
+          "title": "拓竹给 3D 打印机装了 9 个头，这次真能打印万物了？",
+          "link": "https://www.ifanr.com/1687646?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T09:55:11.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "桌面制造的新物种\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "桌面制造的新物种<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "b3a0c3f91304986535cf796edbbe0b356980056e",
+          "title": "奥运赛事首次来到非洲，AI 也学着「入乡随俗」",
+          "link": "https://www.ifanr.com/1687242?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T09:01:48.000Z",
+          "author": "Selina",
+          "contentSnippet": "用最硬核的技术，给在地文化最充分的尊重\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "用最硬核的技术，给在地文化最充分的尊重<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "7b546a9f132ced56b37f4a2fd2076891800854d7",
+          "title": "实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了",
+          "link": "https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-04T08:37:32.000Z",
+          "author": "张子豪",
+          "contentSnippet": "国产开源模型的竞争白热化时刻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "国产开源模型的竞争白热化时刻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "626de09740c77ac4e3a3a315cea781a4c6dfe217",
           "title": "Claude 开始拒绝抄游戏，但可能已经太晚了",
@@ -252,73 +312,13 @@
           "contentSnippet": "抽签看演唱会，可能是当下最「不坏」的选择\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "抽签看演唱会，可能是当下最「不坏」的选择<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "bda99d7a0f2efccb80afabe2c845324964d23389",
-          "title": "零跑破 10 万、小鹏小米跨过 5 万大关，10 月车市却迎来了最冷的「银十」",
-          "link": "https://www.ifanr.com/1687113?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-02T07:37:31.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "内卷见顶，出海将是下一站。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "内卷见顶，出海将是下一站。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "50f5a71181616f1b9d83dd7e1e88bb78b40d4106",
-          "title": "ChatGPT 正在偷偷给你画像，用这段提示词让它交出来",
-          "link": "https://www.ifanr.com/1686832?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-02T07:37:27.000Z",
-          "author": "张子豪",
-          "contentSnippet": "或许《Her》描绘的世界已经到来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "或许《Her》描绘的世界已经到来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "35e0730546e7eb3b38edd2e6084c777742166d32",
-          "title": "一夜之间，GPT-6.2 Astra 和 Fable 5.5 双双曝光，AI 圈疯狂 11 月要来了",
-          "link": "https://www.ifanr.com/1687071?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-02T01:51:47.000Z",
-          "author": "山宗",
-          "contentSnippet": "全球基模大战，疯狂 11 月正式开场\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "全球基模大战，疯狂 11 月正式开场<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "79f54cdbc95499dbca9dcbd105fbdacdbf640ed3",
-          "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
-          "link": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-02T00:03:03.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 多家车企公布 10 月成绩单\r\n· 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用\r\n· 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 多家车企公布 10 月成绩单\r\n· 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用\r\n· 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "f17835f6720a91e9361debd6ed0e1fdcf93d7f5a",
-          "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
-          "link": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-31T13:59:57.000Z",
-          "author": "山宗",
-          "contentSnippet": "AI Agent 的下一个瓶颈，可能是人类自己\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI Agent 的下一个瓶颈，可能是人类自己<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "b47a26d74f21a054b47c2449ec51639f5496e016",
-          "title": "大众在合肥攒了个新平台，一年要往海外卖 30 万辆「中国大众」",
-          "link": "https://www.ifanr.com/1687151?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-10-31T02:38:38.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "中国的大众，就是世界的大众。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "中国的大众，就是世界的大众。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-04T06:13:02.015Z",
+      "fetchedAt": "2026-11-04T14:29:26.835Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
