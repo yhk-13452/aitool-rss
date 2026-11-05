@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-05T02:23:44.298Z",
+  "generatedAt": "2026-11-05T10:49:37.810Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-05T02:23:44.066Z",
+      "fetchedAt": "2026-11-05T10:49:37.544Z",
       "items": [
+        {
+          "id": "86809fee4f8cf7e79b8a40c9770d0ac32d691646",
+          "title": "新玩意 255｜少数派的编辑们最近买了啥？",
+          "link": "https://sspai.com/post/118541",
+          "pubDate": "2026-11-05T09:11:28.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
+          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/118541\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "e6cc63b6a33b8c77cad7c11fed31f583369183e9",
+          "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
+          "link": "https://sspai.com/prime/story/30-easy-steamed-dishes",
+          "pubDate": "2026-11-05T07:16:51.000Z",
+          "author": "潘誉晗",
+          "contentSnippet": "蒸锅真是懒人做饭好帮手。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "content": "蒸锅真是懒人做饭好帮手。<a href=\"https://sspai.com/prime/story/30-easy-steamed-dishes\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+          "image": ""
+        },
+        {
+          "id": "088b7c5067a133778c846fce0a94a4a0434ddf52",
+          "title": "Apple 官网排版细节鉴赏",
+          "link": "https://sspai.com/post/115399",
+          "pubDate": "2026-11-05T02:57:22.000Z",
+          "author": "SkyWT",
+          "contentSnippet": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。查看全文",
+          "content": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=\"https://sspai.com/post/115399\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "2e2ee958cc9986174b2f7739aba6a942ddde25ea",
           "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
@@ -75,44 +105,54 @@
           "contentSnippet": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文",
           "content": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "3394357b03e067da7168f22de71052c250bcb864",
-          "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
-          "link": "https://sspai.com/post/118211",
-          "pubDate": "2026-11-03T02:53:50.000Z",
-          "author": "Catho168",
-          "contentSnippet": "把喜欢的图烧进 CD 里，你也可以。查看全文",
-          "content": "把喜欢的图烧进 CD 里，你也可以。<a href=\"https://sspai.com/post/118211\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "7dd31c0d5d6a2d9316ee79647c9b4f93b49b8fa4",
-          "title": "派评 | 近期值得关注的 App",
-          "link": "https://sspai.com/post/118240",
-          "pubDate": "2026-11-02T09:57:55.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。查看全文",
-          "content": "能看见、更聪明的 Android 智能点击器，纯纯写作迎来 iOS 版本，Photon Cam 为 iPhone 旧机型解锁相机新功能等。<a href=\"https://sspai.com/post/118240\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "bcf853929e55266bcc22e99d9346229ff24dd651",
-          "title": "TDS REVIEW｜Apple AirPods 5 半入耳降噪真无线耳机体验",
-          "link": "https://sspai.com/post/118122",
-          "pubDate": "2026-11-02T07:00:00.000Z",
-          "author": "KingTsui",
-          "contentSnippet": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...查看全文",
-          "content": "这篇文章是TDSStudio在少数派上的第34篇文章，依然是全平台首发。时隔两年，我们又回来写AirPods半入耳型号了。在26年的苹果秋季event上，AirPods5给我们最大的印象其实还是主动降 ...<a href=\"https://sspai.com/post/118122\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-05T02:23:44.298Z",
+      "fetchedAt": "2026-11-05T10:49:37.810Z",
       "items": [
+        {
+          "id": "84310dab859d748f8422f1d33a5705e15cc6c51b",
+          "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
+          "link": "https://www.ifanr.com/1687912?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-05T10:00:23.000Z",
+          "author": "姚桐",
+          "contentSnippet": "为什么 AI 成了搜索的 「必选项」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "为什么 AI 成了搜索的 「必选项」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "d3c9475a2f08b57d6d2152e2946fd717a372e22b",
+          "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
+          "link": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-05T09:13:13.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "很显然，它不想再当一台纯粹的「游戏备用机」了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "很显然，它不想再当一台纯粹的「游戏备用机」了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "31427a67228c0291c91cd321a517fd3e8c03ba79",
+          "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司",
+          "link": "https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-05T06:29:09.000Z",
+          "author": "刘学文",
+          "contentSnippet": "机器人是帮助人的，不是替代人的。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "机器人是帮助人的，不是替代人的。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "ff6f9092be98926a9dd799d363020221194a11c8",
+          "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
+          "link": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-05T06:14:03.000Z",
+          "author": "山宗",
+          "contentSnippet": "以后表情包斗图，全靠 AI 了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "以后表情包斗图，全靠 AI 了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "806005cfa58b33ac671a8322718c0e2a009e5784",
           "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
@@ -272,53 +312,13 @@
           "contentSnippet": "我「编程」我自己\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "我「编程」我自己<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "e4b9965874c9a6cb5574b9be2f4b2c95cd7b8d5c",
-          "title": "不穿的旧衣服呢？放「AI 版转转」，毛利 80%",
-          "link": "https://www.ifanr.com/1687274?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-03T07:05:31.000Z",
-          "author": "姚桐",
-          "contentSnippet": "旧衣千千万，AI 替你挑对的那件\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "旧衣千千万，AI 替你挑对的那件<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "78baab2d9a6cdec7cb16a996a74af30b860f2014",
-          "title": "苹果的一切都在变贵，全怪 AI",
-          "link": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-03T04:09:46.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "赚得多，花得更狠\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "赚得多，花得更狠<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "08eb173bbbb27447d4b70a10e271554bdf4d26ae",
-          "title": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
-          "link": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-03T02:09:08.000Z",
-          "author": "杜晨",
-          "contentSnippet": "让特努斯引领一个全新的时代，全盘「拥有」这些新产品，无论它们最终的评价是好是坏。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "让特努斯引领一个全新的时代，全盘「拥有」这些新产品，无论它们最终的评价是好是坏。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "6dd0730cdbb21af7866fc9f562f760f9a4b6f537",
-          "title": "早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头",
-          "link": "https://www.ifanr.com/1687189?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-03T00:17:09.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 曝下一代触屏 MacBook Pro 将换新模具\r\n· OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载\r\n· DeepSeek Harness 加入创作者模式，可用对话制作插件\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 曝下一代触屏 MacBook Pro 将换新模具\r\n· OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载\r\n· DeepSeek Harness 加入创作者模式，可用对话制作插件<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-05T02:23:43.171Z",
+      "fetchedAt": "2026-11-05T10:49:36.402Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
