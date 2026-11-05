@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-04T21:17:46.856Z",
+  "generatedAt": "2026-11-05T02:23:44.298Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-04T21:17:46.815Z",
+      "fetchedAt": "2026-11-05T02:23:44.066Z",
       "items": [
+        {
+          "id": "2e2ee958cc9986174b2f7739aba6a942ddde25ea",
+          "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
+          "link": "https://sspai.com/post/118498",
+          "pubDate": "2026-11-05T00:16:27.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文",
+          "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "4a89e4afa3d878f9a3c2691fba228f348956105d",
           "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
@@ -77,16 +87,6 @@
           "image": ""
         },
         {
-          "id": "d29e0fcd5e23a657a6210a2315f3940e3eb8ffd9",
-          "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
-          "link": "https://sspai.com/post/118232",
-          "pubDate": "2026-11-03T00:18:34.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文",
-          "content": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。<a href=\"https://sspai.com/post/118232\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
           "id": "7dd31c0d5d6a2d9316ee79647c9b4f93b49b8fa4",
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/118240",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-04T21:17:46.856Z",
+      "fetchedAt": "2026-11-05T02:23:44.298Z",
       "items": [
+        {
+          "id": "806005cfa58b33ac671a8322718c0e2a009e5784",
+          "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+          "link": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-05T00:15:59.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 彭博调查：69% 中国受访者至少等到明年才换手机\r\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\r\n· 近七成汽车经销商试用 AI，部分已设智能体专员\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 彭博调查：69% 中国受访者至少等到明年才换手机\r\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\r\n· 近七成汽车经销商试用 AI，部分已设智能体专员<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "1ac9d0b5a636cdf0802fb67cfab5bab07a9f3c88",
           "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
@@ -302,23 +312,13 @@
           "contentSnippet": "· 曝下一代触屏 MacBook Pro 将换新模具\r\n· OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载\r\n· DeepSeek Harness 加入创作者模式，可用对话制作插件\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 曝下一代触屏 MacBook Pro 将换新模具\r\n· OpenAI 推出电网保护计划，拟让未来园区在用电紧张时降载\r\n· DeepSeek Harness 加入创作者模式，可用对话制作插件<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "1890c15f2e0f6ccc9656c299b21bca52aaf1750a",
-          "title": "全面支持华为手机！奔驰发布新款长轴距 E 级，42.38 万元起",
-          "link": "https://www.ifanr.com/1687178?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-02T12:18:09.000Z",
-          "author": "李华",
-          "contentSnippet": "来看奔驰很清楚他们的短板所在。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "来看奔驰很清楚他们的短板所在。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-04T21:17:46.007Z",
+      "fetchedAt": "2026-11-05T02:23:43.171Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
