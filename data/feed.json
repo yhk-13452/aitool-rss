@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-05T10:49:37.810Z",
+  "generatedAt": "2026-11-05T18:43:27.853Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-05T10:49:37.544Z",
+      "fetchedAt": "2026-11-05T18:43:27.853Z",
       "items": [
+        {
+          "id": "b85682977a4d508d944d15cb34a8845242f5f5d3",
+          "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
+          "link": "https://sspai.com/post/118546",
+          "pubDate": "2026-11-05T14:00:51.000Z",
+          "author": "waychane",
+          "contentSnippet": "全新 MacBook Pro，开启 Mac 的下一个世代。查看全文",
+          "content": "全新 MacBook Pro，开启 Mac 的下一个世代。<a href=\"https://sspai.com/post/118546\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "86809fee4f8cf7e79b8a40c9770d0ac32d691646",
           "title": "新玩意 255｜少数派的编辑们最近买了啥？",
@@ -95,24 +105,34 @@
           "contentSnippet": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文",
           "content": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。<a href=\"https://sspai.com/post/118263\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "5c91822e8d6729b80f4148089844d5dc5e97ba6c",
-          "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
-          "link": "https://sspai.com/post/118317",
-          "pubDate": "2026-11-03T07:12:54.000Z",
-          "author": "Matrix机器人",
-          "contentSnippet": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文",
-          "content": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。<a href=\"https://sspai.com/post/118317\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-05T10:49:37.810Z",
+      "fetchedAt": "2026-11-05T18:43:27.790Z",
       "items": [
+        {
+          "id": "27f6bc3a0147796bedc4105802aadc8ff6d59772",
+          "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
+          "link": "https://www.ifanr.com/1687989?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-05T14:00:13.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "触控向左，算力向右\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "触控向左，算力向右<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "ab64ffdaee80996ae6c243b62a0ec4246ee8127e",
+          "title": "Bose Ultra 开放式耳机 II 体验：听得见好音质，也升级了舒适感",
+          "link": "https://www.ifanr.com/1687834?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-05T11:03:42.000Z",
+          "author": "梁梦麟",
+          "contentSnippet": "用无损音质和无感佩戴，更新「开放式旗舰」的定义\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "用无损音质和无感佩戴，更新「开放式旗舰」的定义<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "84310dab859d748f8422f1d33a5705e15cc6c51b",
           "title": "Chromebook 统治美国校园，AI 成了没得选的「套餐」",
@@ -292,33 +312,13 @@
           "contentSnippet": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍\r\n· 盗用 AI 平台算力，上海一男子获刑三年\r\n· 中兴否认出售手机业务传闻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍\r\n· 盗用 AI 平台算力，上海一男子获刑三年\r\n· 中兴否认出售手机业务传闻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "d91a905bec791f902494961a3850d82c51bcf26f",
-          "title": "iPad mini 8 首发评测：本该是一台完美的平板电脑",
-          "link": "https://www.ifanr.com/1687473?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-03T15:18:46.000Z",
-          "author": "张展毓",
-          "contentSnippet": "全网最细的iPad mini 8 评测，屏幕到底锁没锁帧，我们挖出了超多细节。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "全网最细的iPad mini 8 评测，屏幕到底锁没锁帧，我们挖出了超多细节。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "a318270087fe349c99529e1f375292d4993fe83e",
-          "title": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨",
-          "link": "https://www.ifanr.com/1687285?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-03T07:22:57.000Z",
-          "author": "张子豪",
-          "contentSnippet": "我「编程」我自己\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "我「编程」我自己<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-05T10:49:36.402Z",
+      "fetchedAt": "2026-11-05T18:43:27.082Z",
       "items": [
         {
           "id": "364416008d25d0cb3cac5667032bee51296d65c3",
