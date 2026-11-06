@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-06T00:12:24.860Z",
+  "generatedAt": "2026-11-06T06:37:26.380Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-06T00:12:24.798Z",
+      "fetchedAt": "2026-11-06T06:37:26.380Z",
       "items": [
+        {
+          "id": "7f80f602056cfa96d4dab062aead1ac8c5eee808",
+          "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
+          "link": "https://sspai.com/post/118570",
+          "pubDate": "2026-11-06T03:06:53.000Z",
+          "author": "张奕源Nick",
+          "contentSnippet": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。查看全文",
+          "content": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。<a href=\"https://sspai.com/post/118570\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "1f80020aad443b16b8c3fce5ab430fa04f03cab5",
+          "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
+          "link": "https://sspai.com/post/118587",
+          "pubDate": "2026-11-06T00:24:39.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
+          "content": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=\"https://sspai.com/post/118587\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "b85682977a4d508d944d15cb34a8845242f5f5d3",
           "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
@@ -85,34 +105,34 @@
           "contentSnippet": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文",
           "content": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。<a href=\"https://sspai.com/post/118404\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "b977cf98ae41863ff7fad6fffa9725a00c8d5946",
-          "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
-          "link": "https://sspai.com/post/118402",
-          "pubDate": "2026-11-04T00:00:00.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文",
-          "content": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。<a href=\"https://sspai.com/post/118402\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "7bb3115a8b2ee13706ebefb9164aa59d5516b817",
-          "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
-          "link": "https://sspai.com/post/118263",
-          "pubDate": "2026-11-03T14:00:00.000Z",
-          "author": "waychane",
-          "contentSnippet": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文",
-          "content": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。<a href=\"https://sspai.com/post/118263\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-06T00:12:24.860Z",
+      "fetchedAt": "2026-11-06T06:37:26.313Z",
       "items": [
+        {
+          "id": "381319c3caceacbb24cbca8a908182acb56fd48f",
+          "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
+          "link": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-06T05:26:24.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "真正重要的产品，往往以充满争议的姿态出现。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "真正重要的产品，往往以充满争议的姿态出现。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "33a2004d930d72c493e3fa15a0ad67a99744777a",
+          "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+          "link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-06T00:15:15.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人\r\n· 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因\r\n· 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人\r\n· 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因\r\n· 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "27f6bc3a0147796bedc4105802aadc8ff6d59772",
           "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
@@ -188,7 +208,7 @@
           "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
           "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
           "pubDate": "2026-11-04T17:30:04.000Z",
-          "author": "罗嘉阳",
+          "author": "方俊鸣",
           "contentSnippet": "这次你一定要用上 Apple 智能！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "这次你一定要用上 Apple 智能！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
@@ -292,33 +312,13 @@
           "contentSnippet": "模拟五缸声浪，迎接万转旗舰。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "模拟五缸声浪，迎接万转旗舰。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "17dd2fb094833452942a0b4ee44319bd1bed04ab",
-          "title": "15.98 万元起，东风奕派 M8 天元激光版上市，用自研智驾替换华为乾崑",
-          "link": "https://www.ifanr.com/1687538?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T01:25:24.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "奕派用自研换低价。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "奕派用自研换低价。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "98746bbf1d0b0fcd95287c9474703451ac2b9428",
-          "title": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
-          "link": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T00:26:05.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍\r\n· 盗用 AI 平台算力，上海一男子获刑三年\r\n· 中兴否认出售手机业务传闻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍\r\n· 盗用 AI 平台算力，上海一男子获刑三年\r\n· 中兴否认出售手机业务传闻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-06T00:12:23.752Z",
+      "fetchedAt": "2026-11-06T06:37:25.452Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
