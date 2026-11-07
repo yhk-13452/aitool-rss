@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-06T20:52:12.363Z",
+  "generatedAt": "2026-11-07T00:54:06.842Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-06T20:52:12.363Z",
+      "fetchedAt": "2026-11-07T00:54:06.612Z",
       "items": [
         {
           "id": "88bac59b26f59ad8258a88bd23a0acbaba905c88",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-06T20:52:12.146Z",
+      "fetchedAt": "2026-11-07T00:54:06.842Z",
       "items": [
+        {
+          "id": "384344b6a6517c283006954122533c734a35a84b",
+          "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
+          "link": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-07T00:27:17.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验\r\n· 张雪：将参加 36 名重庆大学学生的校招二面\r\n· 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验\r\n· 张雪：将参加 36 名重庆大学学生的校招二面\r\n· 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "d435ec93462a61d8e043b6bc477b7070d1b2d599",
           "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
@@ -302,23 +312,13 @@
           "contentSnippet": "用最硬核的技术，给在地文化最充分的尊重\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "用最硬核的技术，给在地文化最充分的尊重<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "7b546a9f132ced56b37f4a2fd2076891800854d7",
-          "title": "实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了",
-          "link": "https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T08:37:32.000Z",
-          "author": "张子豪",
-          "contentSnippet": "国产开源模型的竞争白热化时刻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "国产开源模型的竞争白热化时刻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-06T20:52:11.741Z",
+      "fetchedAt": "2026-11-07T00:54:05.704Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
