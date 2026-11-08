@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-08T02:26:23.393Z",
+  "generatedAt": "2026-11-08T10:15:03.612Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-08T02:26:23.335Z",
+      "fetchedAt": "2026-11-08T10:15:03.612Z",
       "items": [
+        {
+          "id": "c5031a75d4fd862515e626b76ba667b85a23ee26",
+          "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+          "link": "https://sspai.com/post/118114",
+          "pubDate": "2026-11-08T03:18:54.000Z",
+          "author": "CG艺术实验室",
+          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118114\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "36cdd515692bb5fd2bd54ec642c7b022368987d9",
           "title": "一个 05 后的个人数码编年史",
@@ -95,24 +105,34 @@
           "contentSnippet": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。查看全文",
           "content": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=\"https://sspai.com/post/115399\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "2e2ee958cc9986174b2f7739aba6a942ddde25ea",
-          "title": "派早报：腾讯发布混元 Hy4 正式版，Google 调整 K-12 教育 AI 政策等",
-          "link": "https://sspai.com/post/118498",
-          "pubDate": "2026-11-05T00:16:27.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...查看全文",
-          "content": "少数派的近期动态全新设计复古设备鼠标垫上架，会员可使用点数兑换。前往选购iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章国行Apple智能上手：这些功能已经 ...<a href=\"https://sspai.com/post/118498\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-08T02:26:23.393Z",
+      "fetchedAt": "2026-11-08T10:15:03.050Z",
       "items": [
+        {
+          "id": "025ca2a0b400e60cf114fe453e2fce034602b283",
+          "title": "别再拿《影之刃零》对比《黑神话》了",
+          "link": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-08T04:00:31.000Z",
+          "author": "肖钦鹏",
+          "contentSnippet": "《影之刃》有自己的江湖。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "《影之刃》有自己的江湖。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "b2f32ee2c97e51c0cade2a6128dfa2851ad0ebab",
+          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+          "link": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-08T03:35:42.000Z",
+          "author": "山宗",
+          "contentSnippet": "磁带在 AI 时代迎来了第二春。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "磁带在 AI 时代迎来了第二春。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "a855793a8c931ba53086e05c9b2ea72605a4e6e1",
           "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
@@ -292,33 +312,13 @@
           "contentSnippet": "就像发邮件加上数字签名一样\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "就像发邮件加上数字签名一样<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "2bdd6853f0753632c6624f550bee566ccf5ef1e3",
-          "title": "安东内利加冕 F1 最年轻世界冠军，梅赛德斯的十年豪赌拿到了大结果",
-          "link": "https://www.ifanr.com/1687672?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T10:06:47.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "一位天才车手的圆梦之旅。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "一位天才车手的圆梦之旅。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "13f58bc8afb66620c4229c1a26967643be2ca219",
-          "title": "加油、充电还能加甲醇！吉利银河星耀 6 EF 上市，7.68 万元起",
-          "link": "https://www.ifanr.com/1687688?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T10:04:58.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "不挑食。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "不挑食。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-08T02:26:22.075Z",
+      "fetchedAt": "2026-11-08T10:15:02.772Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
