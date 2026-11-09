@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-09T00:51:24.957Z",
+  "generatedAt": "2026-11-09T07:55:39.833Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-09T00:51:24.886Z",
+      "fetchedAt": "2026-11-09T07:55:39.393Z",
       "items": [
+        {
+          "id": "231e5d58215c5575b3a1ec04022cd65e50826680",
+          "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+          "link": "https://sspai.com/post/118612",
+          "pubDate": "2026-11-09T03:00:00.000Z",
+          "author": "水獭Store",
+          "contentSnippet": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...查看全文",
+          "content": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...<a href=\"https://sspai.com/post/118612\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "2c821f57183a5686554d9017dd22730560edd682",
           "title": "派早报：特斯拉将停产 Cybertruck",
@@ -95,24 +105,34 @@
           "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
           "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/118541\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "e6cc63b6a33b8c77cad7c11fed31f583369183e9",
-          "title": "不用困在厨房也能做出好饭：三十道省事家常蒸菜",
-          "link": "https://sspai.com/prime/story/30-easy-steamed-dishes",
-          "pubDate": "2026-11-05T07:16:51.000Z",
-          "author": "潘誉晗",
-          "contentSnippet": "蒸锅真是懒人做饭好帮手。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "content": "蒸锅真是懒人做饭好帮手。<a href=\"https://sspai.com/prime/story/30-easy-steamed-dishes\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-09T00:51:24.956Z",
+      "fetchedAt": "2026-11-09T07:55:39.833Z",
       "items": [
+        {
+          "id": "e39f990c6a840a5cb6b48add6e0bb469dce9494d",
+          "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+          "link": "https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-09T04:00:04.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "又能摸鱼了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "又能摸鱼了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "06864328b846d1476f491049c0a8d6b2c176ba5c",
+          "title": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+          "link": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-09T01:54:03.000Z",
+          "author": "方俊鸣",
+          "contentSnippet": "苹果的下一座围城，是创作\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "苹果的下一座围城，是创作<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "ed52d64676bd457cb307a3002ecb15dd66f3032a",
           "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
@@ -292,33 +312,13 @@
           "contentSnippet": "· 彭博调查：69% 中国受访者至少等到明年才换手机\r\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\r\n· 近七成汽车经销商试用 AI，部分已设智能体专员\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 彭博调查：69% 中国受访者至少等到明年才换手机\r\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\r\n· 近七成汽车经销商试用 AI，部分已设智能体专员<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "1ac9d0b5a636cdf0802fb67cfab5bab07a9f3c88",
-          "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
-          "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T17:30:04.000Z",
-          "author": "方俊鸣",
-          "contentSnippet": "这次你一定要用上 Apple 智能！\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "这次你一定要用上 Apple 智能！<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "62511fe9b324e2196b04da6df6ef3347ef454a77",
-          "title": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失",
-          "link": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T15:12:46.000Z",
-          "author": "李华",
-          "contentSnippet": "车市的天花板，可能比我们想的更低。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "车市的天花板，可能比我们想的更低。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-09T00:51:24.111Z",
+      "fetchedAt": "2026-11-09T07:55:38.638Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
