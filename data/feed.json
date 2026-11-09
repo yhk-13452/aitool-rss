@@ -1,11 +1,51 @@
 {
-  "generatedAt": "2026-11-09T07:55:39.833Z",
+  "generatedAt": "2026-11-09T18:44:51.213Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-09T07:55:39.393Z",
+      "fetchedAt": "2026-11-09T18:44:51.096Z",
       "items": [
+        {
+          "id": "a1fe8bc6737ef5a31d6820e03a7dd0f3350991a8",
+          "title": "派评 | 近期值得关注的 App",
+          "link": "https://sspai.com/post/118833",
+          "pubDate": "2026-11-09T10:27:59.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/118833\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "8f80a4b50c7f81d19918c7f7362787f9e9e839a0",
+          "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+          "link": "https://sspai.com/post/118799",
+          "pubDate": "2026-11-09T08:24:03.000Z",
+          "author": "福利派",
+          "contentSnippet": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
+          "content": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=\"https://sspai.com/post/118799\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "e7a0388e146e1f5acdeecca5ce52279427bd5ee1",
+          "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+          "link": "https://sspai.com/post/118227",
+          "pubDate": "2026-11-09T07:40:22.000Z",
+          "author": "一只兔子先生",
+          "contentSnippet": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文",
+          "content": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...<a href=\"https://sspai.com/post/118227\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "8d052e0d103e005f354f0d101fd3b24ffa15bbdb",
+          "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
+          "link": "https://sspai.com/post/118029",
+          "pubDate": "2026-11-09T07:02:44.000Z",
+          "author": "时光旅行者",
+          "contentSnippet": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。查看全文",
+          "content": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。<a href=\"https://sspai.com/post/118029\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "231e5d58215c5575b3a1ec04022cd65e50826680",
           "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
@@ -65,54 +105,54 @@
           "contentSnippet": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。查看全文",
           "content": "我们把 iPhone 18 Pro Max 带到了深圳、香港和吉隆坡，带入了形形色色的街头。在这个过程里，我们记录了使用 iPhone 拍到的美好画面，也借此描绘了自己的心情变化和生活感悟。<a href=\"https://sspai.com/post/118250\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "7f80f602056cfa96d4dab062aead1ac8c5eee808",
-          "title": "更高能效比，带来新惊喜：M6 款 MacBook Pro 初探",
-          "link": "https://sspai.com/post/118570",
-          "pubDate": "2026-11-06T03:06:53.000Z",
-          "author": "张奕源Nick",
-          "contentSnippet": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。查看全文",
-          "content": "M6 芯片提供了足够的性能保障，无论修图、视频剪辑还是运行入门级的 AI 大模型，它都能应对。在此基础上，你原本可能需要加在 Pro 级 SoC 上的预算就能省下来，花给内存或者硬盘。<a href=\"https://sspai.com/post/118570\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "1f80020aad443b16b8c3fce5ab430fa04f03cab5",
-          "title": "派早报：国务院办公厅发布 2027 年部分节假日放假安排等",
-          "link": "https://sspai.com/post/118587",
-          "pubDate": "2026-11-06T00:24:39.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。查看全文",
-          "content": "OpenAI 推出 Images 2.6 模型，Nothing CMF Speaker S/M 音箱国行上市等。<a href=\"https://sspai.com/post/118587\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "b85682977a4d508d944d15cb34a8845242f5f5d3",
-          "title": "开启 Mac 的下一世代：MacBook Pro (PROLED XDR) 首发体验",
-          "link": "https://sspai.com/post/118546",
-          "pubDate": "2026-11-05T14:00:51.000Z",
-          "author": "waychane",
-          "contentSnippet": "全新 MacBook Pro，开启 Mac 的下一个世代。查看全文",
-          "content": "全新 MacBook Pro，开启 Mac 的下一个世代。<a href=\"https://sspai.com/post/118546\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "86809fee4f8cf7e79b8a40c9770d0ac32d691646",
-          "title": "新玩意 255｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/118541",
-          "pubDate": "2026-11-05T09:11:28.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/118541\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-09T07:55:39.833Z",
+      "fetchedAt": "2026-11-09T18:44:51.213Z",
       "items": [
+        {
+          "id": "2e17c96635495790792f51cc20b02b457ecd8932",
+          "title": "玛莎拉蒂将与尊界联合造车，首发车型或为双门 GT，明年正式量产",
+          "link": "https://www.ifanr.com/1688586?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-09T14:56:35.000Z",
+          "author": "李华",
+          "contentSnippet": "中国车企买标充门面的时代已经过去了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "中国车企买标充门面的时代已经过去了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "6964ad68ac6e3504c4eebe72feaac3c263df491b",
+          "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
+          "link": "https://www.ifanr.com/1688447?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-09T12:01:18.000Z",
+          "author": "张子豪",
+          "contentSnippet": "还有改图 100 轮都不糊\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "还有改图 100 轮都不糊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "402750b7048797d45521d622810c17ee61f142b0",
+          "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
+          "link": "https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-09T09:19:02.000Z",
+          "author": "山宗",
+          "contentSnippet": "AI 版 PS 的时代来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "AI 版 PS 的时代来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "8d4c608dd8dc657fddf272f934e663cd04afb12c",
+          "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
+          "link": "https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-09T07:56:58.000Z",
+          "author": "张子豪",
+          "contentSnippet": "终于不是后空翻、跳舞、跑步了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "终于不是后空翻、跳舞、跑步了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "e39f990c6a840a5cb6b48add6e0bb469dce9494d",
           "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
@@ -272,53 +312,13 @@
           "contentSnippet": "为什么 AI 成了搜索的 「必选项」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "为什么 AI 成了搜索的 「必选项」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "d3c9475a2f08b57d6d2152e2946fd717a372e22b",
-          "title": "一加 Ace 7 Pro 体验：「二号人物」这次想当主角",
-          "link": "https://www.ifanr.com/1687836?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-05T09:13:13.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "很显然，它不想再当一台纯粹的「游戏备用机」了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "很显然，它不想再当一台纯粹的「游戏备用机」了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "31427a67228c0291c91cd321a517fd3e8c03ba79",
-          "title": "对话星尘智能来杰：机器人的「iPhone 4 时刻」还没到，但可能比想象中更近丨多样性公司",
-          "link": "https://www.ifanr.com/1687805?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-05T06:29:09.000Z",
-          "author": "刘学文",
-          "contentSnippet": "机器人是帮助人的，不是替代人的。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "机器人是帮助人的，不是替代人的。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "ff6f9092be98926a9dd799d363020221194a11c8",
-          "title": "GPT Images 2.6 突然发布，蓝色大肥鱼实现 GIF 表情包自由",
-          "link": "https://www.ifanr.com/1687778?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-05T06:14:03.000Z",
-          "author": "山宗",
-          "contentSnippet": "以后表情包斗图，全靠 AI 了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "以后表情包斗图，全靠 AI 了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "806005cfa58b33ac671a8322718c0e2a009e5784",
-          "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
-          "link": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-05T00:15:59.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 彭博调查：69% 中国受访者至少等到明年才换手机\r\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\r\n· 近七成汽车经销商试用 AI，部分已设智能体专员\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 彭博调查：69% 中国受访者至少等到明年才换手机\r\n· ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改\r\n· 近七成汽车经销商试用 AI，部分已设智能体专员<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-09T07:55:38.638Z",
+      "fetchedAt": "2026-11-09T18:44:50.048Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
