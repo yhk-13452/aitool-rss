@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-08T21:07:55.418Z",
+  "generatedAt": "2026-11-09T00:51:24.957Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-08T21:07:54.905Z",
+      "fetchedAt": "2026-11-09T00:51:24.886Z",
       "items": [
+        {
+          "id": "2c821f57183a5686554d9017dd22730560edd682",
+          "title": "派早报：特斯拉将停产 Cybertruck",
+          "link": "https://sspai.com/post/118805",
+          "pubDate": "2026-11-08T22:41:56.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "特斯拉将停产 Cybertruck\n深圳在 APEC 前夕整顿非法市场\n美国数据中心股持续遭抛售，大量建设项目被取消\n京津冀三地消协组织敦促航司、平台规范机票退改签\nFBI 警告冰柜网络安全攻击风险\n广电总局部署开展新一轮微短剧专项治理工作\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "content": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络安全攻击风险</p><p>广电总局部署开展新一轮微短剧专项治理工作</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/118805\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "c5031a75d4fd862515e626b76ba667b85a23ee26",
           "title": "苹果产品那些不够颠覆，却值得被学习的细节",
@@ -95,24 +105,24 @@
           "contentSnippet": "蒸锅真是懒人做饭好帮手。查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "content": "蒸锅真是懒人做饭好帮手。<a href=\"https://sspai.com/prime/story/30-easy-steamed-dishes\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
           "image": ""
-        },
-        {
-          "id": "088b7c5067a133778c846fce0a94a4a0434ddf52",
-          "title": "Apple 官网排版细节鉴赏",
-          "link": "https://sspai.com/post/115399",
-          "pubDate": "2026-11-05T02:57:22.000Z",
-          "author": "SkyWT",
-          "contentSnippet": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。查看全文",
-          "content": "Apple 独一无二的品牌价值，正是从这些细节中凝聚的。<a href=\"https://sspai.com/post/115399\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-08T21:07:55.418Z",
+      "fetchedAt": "2026-11-09T00:51:24.956Z",
       "items": [
+        {
+          "id": "ed52d64676bd457cb307a3002ecb15dd66f3032a",
+          "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+          "link": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-09T00:34:19.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 苹果称超 10 万款应用已适配 iPhone Duo\r\n· Anthropic 拟于本周启动 IPO 路演\r\n· 比亚迪李柯回应玛莎拉蒂收购传闻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 苹果称超 10 万款应用已适配 iPhone Duo\r\n· Anthropic 拟于本周启动 IPO 路演\r\n· 比亚迪李柯回应玛莎拉蒂收购传闻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "025ca2a0b400e60cf114fe453e2fce034602b283",
           "title": "别再拿《影之刃零》对比《黑神话》了",
@@ -302,23 +312,13 @@
           "contentSnippet": "车市的天花板，可能比我们想的更低。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "车市的天花板，可能比我们想的更低。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "9fb866b8b48c1d6ee9b29143c39ea3c362a7f083",
-          "title": "Anthropic微微发力，AI中转站的天就要塌了？",
-          "link": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-04T10:34:38.000Z",
-          "author": "张子豪",
-          "contentSnippet": "就像发邮件加上数字签名一样\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "就像发邮件加上数字签名一样<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-08T21:07:54.327Z",
+      "fetchedAt": "2026-11-09T00:51:24.111Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
