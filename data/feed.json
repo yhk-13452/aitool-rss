@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-10T02:04:08.277Z",
+  "generatedAt": "2026-11-10T09:44:50.371Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-10T02:04:08.277Z",
+      "fetchedAt": "2026-11-10T09:44:50.053Z",
       "items": [
+        {
+          "id": "72bb052ab41d80a2f2dadd651c734289e019438f",
+          "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+          "link": "https://sspai.com/post/118861",
+          "pubDate": "2026-11-10T08:44:26.000Z",
+          "author": "Matrix机器人",
+          "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/118861\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "3004d3080b701fdefea5316095ea73ffa393e697",
+          "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+          "link": "https://sspai.com/post/118824",
+          "pubDate": "2026-11-10T08:02:37.000Z",
+          "author": "waychane",
+          "contentSnippet": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...查看全文",
+          "content": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...<a href=\"https://sspai.com/post/118824\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "e4c25a8d290eb3cb02e756307412047d691ed232",
+          "title": "今年双十一，这些鼠标值得一看",
+          "link": "https://sspai.com/post/111065",
+          "pubDate": "2026-11-10T03:00:25.000Z",
+          "author": "ROB1N",
+          "contentSnippet": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。查看全文",
+          "content": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。<a href=\"https://sspai.com/post/111065\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "0fe1ff6beb440ecddccfe555b55c268d0297e5cb",
           "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
@@ -75,44 +105,34 @@
           "contentSnippet": "特斯拉将停产 Cybertruck\n深圳在 APEC 前夕整顿非法市场\n美国数据中心股持续遭抛售，大量建设项目被取消\n京津冀三地消协组织敦促航司、平台规范机票退改签\nFBI 警告冰柜网络安全攻击风险\n广电总局部署开展新一轮微短剧专项治理工作\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
           "content": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络安全攻击风险</p><p>广电总局部署开展新一轮微短剧专项治理工作</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/118805\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "c5031a75d4fd862515e626b76ba667b85a23ee26",
-          "title": "苹果产品那些不够颠覆，却值得被学习的细节",
-          "link": "https://sspai.com/post/118114",
-          "pubDate": "2026-11-08T03:18:54.000Z",
-          "author": "CG艺术实验室",
-          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118114\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "36cdd515692bb5fd2bd54ec642c7b022368987d9",
-          "title": "一个 05 后的个人数码编年史",
-          "link": "https://sspai.com/post/116750",
-          "pubDate": "2026-11-07T09:05:06.000Z",
-          "author": "星光都死了",
-          "contentSnippet": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。查看全文",
-          "content": "我只想回应自己的感受，自己的记忆，只是因为那时候我满腔少年心气，对一切都充满好奇，对未来充满憧憬。<a href=\"https://sspai.com/post/116750\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "88bac59b26f59ad8258a88bd23a0acbaba905c88",
-          "title": "本周看什么 | 最近值得一看的 9 部作品",
-          "link": "https://sspai.com/post/118623",
-          "pubDate": "2026-11-06T09:30:15.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...查看全文",
-          "content": "📅本周新预告《戴高乐之战》确认引进11月2日，电影《戴高乐之战》确认引进。该系列分为《戴高乐之战：淬炼时代》《戴高乐之战：我写下你的名字》上下两部曲。由法国百代公司出品，制作成本高达7520万欧元。作 ...<a href=\"https://sspai.com/post/118623\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-10T02:04:08.186Z",
+      "fetchedAt": "2026-11-10T09:44:50.371Z",
       "items": [
+        {
+          "id": "cde037d82116e242d91c46a08182e9717121f859",
+          "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
+          "link": "https://www.ifanr.com/1688570?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-10T09:30:18.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "油门焊死\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "油门焊死<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "d45f5b6d921cd7f076a7bf9d334ac6a9a9b6da1d",
+          "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
+          "link": "https://www.ifanr.com/1688755?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-10T09:30:04.000Z",
+          "author": "彭海星",
+          "contentSnippet": "在习以为常的将就里，戴森的执拗是一种稀缺的浪漫\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "在习以为常的将就里，戴森的执拗是一种稀缺的浪漫<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "5ecd6f4ae7e500d88fb1f1d51091f3c89c00cda4",
           "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
@@ -274,6 +294,16 @@
           "image": ""
         },
         {
+          "id": "920fbca4a81c2616750867b477edfd6ead793d28",
+          "title": "iMac M6 体验：外表人畜无害 ⇄ 内核凶猛澎湃",
+          "link": "https://www.ifanr.com/1688638?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-06T11:00:03.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "在 AI 与 Agent 时代，人们可以围绕 iMac 构建一种新的「类家庭」生活\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "在 AI 与 Agent 时代，人们可以围绕 iMac 构建一种新的「类家庭」生活<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
           "id": "d435ec93462a61d8e043b6bc477b7070d1b2d599",
           "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
           "link": "https://www.ifanr.com/1688195?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -282,43 +312,13 @@
           "contentSnippet": "站在世界之巅。\r\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "站在世界之巅。\r\n<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "381319c3caceacbb24cbca8a908182acb56fd48f",
-          "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
-          "link": "https://www.ifanr.com/1688060?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-06T05:26:24.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "真正重要的产品，往往以充满争议的姿态出现。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "真正重要的产品，往往以充满争议的姿态出现。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "33a2004d930d72c493e3fa15a0ad67a99744777a",
-          "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
-          "link": "https://www.ifanr.com/1688032?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-06T00:15:15.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人\r\n· 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因\r\n· 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 丰田将设立直属机器人部门，由首席生产官兼任负责人\r\n· 三季度全球 DRAM 营收逼近 2000 亿美元，价格上涨是主因\r\n· 鸿蒙电脑累计发货破百万，华为带来政企台式机与企业版<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "dc4563fbff4e90b2e25d28c2b244ffb5c9a05d62",
-          "title": "13 万买 5 米大轿车！比亚迪海豹 07 上市，首搭云辇-M 磁流变悬架",
-          "link": "https://www.ifanr.com/1688332?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-05T15:50:25.000Z",
-          "author": "李华",
-          "contentSnippet": "大，只是它的起点。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "大，只是它的起点。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-10T02:04:07.058Z",
+      "fetchedAt": "2026-11-10T09:44:49.012Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
