@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-10T23:16:23.002Z",
+  "generatedAt": "2026-11-11T02:49:25.227Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-10T23:16:23.002Z",
+      "fetchedAt": "2026-11-11T02:49:25.227Z",
       "items": [
+        {
+          "id": "0818d92f20b88fa3f000469209f5bf21a36b2a5e",
+          "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
+          "link": "https://sspai.com/post/118905",
+          "pubDate": "2026-11-11T00:26:34.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。查看全文",
+          "content": "卫星导航基准站网安全国标发布，影目召回 4701 副 AIR3 眼镜等。<a href=\"https://sspai.com/post/118905\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "72bb052ab41d80a2f2dadd651c734289e019438f",
           "title": "社区速递 165 | 透明工牌与派友十月购物清单",
@@ -95,24 +105,44 @@
           "contentSnippet": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...查看全文",
           "content": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...<a href=\"https://sspai.com/post/118612\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "2c821f57183a5686554d9017dd22730560edd682",
-          "title": "派早报：特斯拉将停产 Cybertruck",
-          "link": "https://sspai.com/post/118805",
-          "pubDate": "2026-11-08T22:41:56.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "特斯拉将停产 Cybertruck\n深圳在 APEC 前夕整顿非法市场\n美国数据中心股持续遭抛售，大量建设项目被取消\n京津冀三地消协组织敦促航司、平台规范机票退改签\nFBI 警告冰柜网络安全攻击风险\n广电总局部署开展新一轮微短剧专项治理工作\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "content": "<p>特斯拉将停产 Cybertruck</p><p>深圳在 APEC 前夕整顿非法市场</p><p>美国数据中心股持续遭抛售，大量建设项目被取消</p><p>京津冀三地消协组织敦促航司、平台规范机票退改签</p><p>FBI 警告冰柜网络安全攻击风险</p><p>广电总局部署开展新一轮微短剧专项治理工作</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/118805\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-10T23:16:22.950Z",
+      "fetchedAt": "2026-11-11T02:49:24.896Z",
       "items": [
+        {
+          "id": "76b8e0cab64c79c38bea7fe1c5bf791643042b87",
+          "title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
+          "link": "https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-11T02:08:47.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "买情怀，送耳机\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "买情怀，送耳机<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "2466905fece34ae83991bd007c33553162603a94",
+          "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+          "link": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-11T00:26:39.000Z",
+          "author": "山宗",
+          "contentSnippet": "非付费用户什么时候能用上？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "非付费用户什么时候能用上？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "df72ddb891b2b1ff984182476b8ab20abdf77471",
+          "title": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
+          "link": "https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-11T00:20:24.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 李斌：蔚来 ES9 将迎来第 4 万辆交付\r\n· 台积电 10 月营收创今年单月新高，同比增长近六成\r\n· 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 李斌：蔚来 ES9 将迎来第 4 万辆交付\r\n· 台积电 10 月营收创今年单月新高，同比增长近六成\r\n· 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "d41a038eb3d381f22b9cbecdfee980b4b4a1e6c8",
           "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
@@ -282,43 +312,13 @@
           "contentSnippet": "磁带在 AI 时代迎来了第二春。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "磁带在 AI 时代迎来了第二春。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "a855793a8c931ba53086e05c9b2ea72605a4e6e1",
-          "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
-          "link": "https://www.ifanr.com/1688312?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-07T16:50:33.000Z",
-          "author": "李华",
-          "contentSnippet": "性能和豪华，仰望说它全都要。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "性能和豪华，仰望说它全都要。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "384344b6a6517c283006954122533c734a35a84b",
-          "title": "早报｜触屏MacBook Pro开卖即缺货/仰望U9 Xtreme突破503kph/博世吴永桥：汽车不该拿来订咖啡机票",
-          "link": "https://www.ifanr.com/1688251?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-07T00:27:17.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验\r\n· 张雪：将参加 36 名重庆大学学生的校招二面\r\n· 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 苹果向部分 iPhone Duo 买家发问卷，询问折痕和屏下相机体验\r\n· 张雪：将参加 36 名重庆大学学生的校招二面\r\n· 马斯克称特斯拉得州工厂将缩减 Cybertruck 生产，为 Cybercab 腾出产能<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "920fbca4a81c2616750867b477edfd6ead793d28",
-          "title": "iMac M6 体验：外表人畜无害 ⇄ 内核凶猛澎湃",
-          "link": "https://www.ifanr.com/1688638?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-06T11:00:03.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "在 AI 与 Agent 时代，人们可以围绕 iMac 构建一种新的「类家庭」生活\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "在 AI 与 Agent 时代，人们可以围绕 iMac 构建一种新的「类家庭」生活<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-10T23:16:22.165Z",
+      "fetchedAt": "2026-11-11T02:49:24.088Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
