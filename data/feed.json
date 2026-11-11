@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-11T10:51:54.022Z",
+  "generatedAt": "2026-11-11T18:40:30.582Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-11T10:51:53.788Z",
+      "fetchedAt": "2026-11-11T18:40:30.175Z",
       "items": [
         {
           "id": "31f47d85113dbe78a6aece404721e2b44ef349f8",
@@ -77,16 +77,6 @@
           "image": ""
         },
         {
-          "id": "0fe1ff6beb440ecddccfe555b55c268d0297e5cb",
-          "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
-          "link": "https://sspai.com/post/118854",
-          "pubDate": "2026-11-10T00:24:40.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
-          "content": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/118854\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
           "id": "a1fe8bc6737ef5a31d6820e03a7dd0f3350991a8",
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/118833",
@@ -105,14 +95,34 @@
           "contentSnippet": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
           "content": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=\"https://sspai.com/post/118799\" target=\"_blank\">查看全文</a>",
           "image": ""
+        },
+        {
+          "id": "e7a0388e146e1f5acdeecca5ce52279427bd5ee1",
+          "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
+          "link": "https://sspai.com/post/118227",
+          "pubDate": "2026-11-09T07:40:22.000Z",
+          "author": "一只兔子先生",
+          "contentSnippet": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文",
+          "content": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...<a href=\"https://sspai.com/post/118227\" target=\"_blank\">查看全文</a>",
+          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-11T10:51:54.022Z",
+      "fetchedAt": "2026-11-11T18:40:30.582Z",
       "items": [
+        {
+          "id": "6ed06373ac0ba9cdd38fa05f5453110164b94201",
+          "title": "曝字节要做「中国版 Muse」，给豆包造个「超级大脑」",
+          "link": "https://www.ifanr.com/1689016?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-11T11:52:16.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "豆包走出屏幕\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "豆包走出屏幕<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "d5d642945864ad2a3d3eabdfe917be0088fc7ad6",
           "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
@@ -302,23 +312,13 @@
           "contentSnippet": "又能摸鱼了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "又能摸鱼了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "1795e155f51d1e31777b5d6712a49bb83bdf6eae",
-          "title": "刚刚，马斯克评价黄仁勋出轨事件",
-          "link": "https://www.ifanr.com/1688626?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T02:56:41.000Z",
-          "author": "山宗",
-          "contentSnippet": "当创始人成为公司的代名词\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "当创始人成为公司的代名词<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-11T10:51:52.873Z",
+      "fetchedAt": "2026-11-11T18:40:29.654Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
