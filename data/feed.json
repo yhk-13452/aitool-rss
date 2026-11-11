@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-11T02:49:25.227Z",
+  "generatedAt": "2026-11-11T10:51:54.022Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-11T02:49:25.227Z",
+      "fetchedAt": "2026-11-11T10:51:53.788Z",
       "items": [
+        {
+          "id": "31f47d85113dbe78a6aece404721e2b44ef349f8",
+          "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
+          "link": "https://sspai.com/post/118781",
+          "pubDate": "2026-11-11T09:30:00.000Z",
+          "author": "程天冲",
+          "contentSnippet": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文",
+          "content": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...<a href=\"https://sspai.com/post/118781\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "531eedc828de0bde64c2ca390543cea25cb418dd",
+          "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
+          "link": "https://sspai.com/post/118175",
+          "pubDate": "2026-11-11T06:50:39.000Z",
+          "author": "StephenFang",
+          "contentSnippet": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
+          "content": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？<a href=\"https://sspai.com/post/118175\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "e271f6088df4e0a09128813c895d82375a980131",
+          "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
+          "link": "https://sspai.com/post/118458",
+          "pubDate": "2026-11-11T03:13:04.000Z",
+          "author": "bakamio",
+          "contentSnippet": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文",
+          "content": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。<a href=\"https://sspai.com/post/118458\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "0818d92f20b88fa3f000469209f5bf21a36b2a5e",
           "title": "派早报：700 号段保护服务试点获批、Claude Code 设置文件泄露凭据等",
@@ -75,44 +105,34 @@
           "contentSnippet": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
           "content": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=\"https://sspai.com/post/118799\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "e7a0388e146e1f5acdeecca5ce52279427bd5ee1",
-          "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
-          "link": "https://sspai.com/post/118227",
-          "pubDate": "2026-11-09T07:40:22.000Z",
-          "author": "一只兔子先生",
-          "contentSnippet": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文",
-          "content": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...<a href=\"https://sspai.com/post/118227\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "8d052e0d103e005f354f0d101fd3b24ffa15bbdb",
-          "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
-          "link": "https://sspai.com/post/118029",
-          "pubDate": "2026-11-09T07:02:44.000Z",
-          "author": "时光旅行者",
-          "contentSnippet": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。查看全文",
-          "content": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。<a href=\"https://sspai.com/post/118029\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "231e5d58215c5575b3a1ec04022cd65e50826680",
-          "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
-          "link": "https://sspai.com/post/118612",
-          "pubDate": "2026-11-09T03:00:00.000Z",
-          "author": "水獭Store",
-          "contentSnippet": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...查看全文",
-          "content": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...<a href=\"https://sspai.com/post/118612\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-11T02:49:24.896Z",
+      "fetchedAt": "2026-11-11T10:51:54.022Z",
       "items": [
+        {
+          "id": "d5d642945864ad2a3d3eabdfe917be0088fc7ad6",
+          "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
+          "link": "https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-11T09:47:34.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "微型小车正在集体变大。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "微型小车正在集体变大。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "540fb6e2f059da607f5392a0263fe7beaaa9d34d",
+          "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
+          "link": "https://www.ifanr.com/1688897?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-11T07:03:17.000Z",
+          "author": "Selina",
+          "contentSnippet": "人不能、至少不应该把严谨的自然科学当成 AI 技能大赛现场\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "人不能、至少不应该把严谨的自然科学当成 AI 技能大赛现场<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "76b8e0cab64c79c38bea7fe1c5bf791643042b87",
           "title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
@@ -151,6 +171,26 @@
           "author": "张子豪",
           "contentSnippet": "4K 像素最快 10 秒生成\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "4K 像素最快 10 秒生成<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "72d173ef277375eef31c5419b74388e49e785b4d",
+          "title": "比大更大，塞进 7 个座位的领克 900L，在等一个「上桌吃饭」的时间",
+          "link": "https://www.ifanr.com/1688954?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-10T15:50:31.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "领克得加快脚步了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "领克得加快脚步了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "03d220a21df644cdf48462a428f386477eb53728",
+          "title": "Formula 2030 亮相，最帅极星来了！",
+          "link": "https://www.ifanr.com/1688935?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-10T13:11:00.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "极星式设计的集大成之作。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "极星式设计的集大成之作。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
         },
         {
@@ -272,53 +312,13 @@
           "contentSnippet": "当创始人成为公司的代名词\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "当创始人成为公司的代名词<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "06864328b846d1476f491049c0a8d6b2c176ba5c",
-          "title": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
-          "link": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T01:54:03.000Z",
-          "author": "方俊鸣",
-          "contentSnippet": "苹果的下一座围城，是创作\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "苹果的下一座围城，是创作<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "ed52d64676bd457cb307a3002ecb15dd66f3032a",
-          "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
-          "link": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T00:34:19.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 苹果称超 10 万款应用已适配 iPhone Duo\r\n· Anthropic 拟于本周启动 IPO 路演\r\n· 比亚迪李柯回应玛莎拉蒂收购传闻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 苹果称超 10 万款应用已适配 iPhone Duo\r\n· Anthropic 拟于本周启动 IPO 路演\r\n· 比亚迪李柯回应玛莎拉蒂收购传闻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "025ca2a0b400e60cf114fe453e2fce034602b283",
-          "title": "别再拿《影之刃零》对比《黑神话》了",
-          "link": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-08T04:00:31.000Z",
-          "author": "肖钦鹏",
-          "contentSnippet": "《影之刃》有自己的江湖。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "《影之刃》有自己的江湖。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "b2f32ee2c97e51c0cade2a6128dfa2851ad0ebab",
-          "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财",
-          "link": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-08T03:35:42.000Z",
-          "author": "山宗",
-          "contentSnippet": "磁带在 AI 时代迎来了第二春。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "磁带在 AI 时代迎来了第二春。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-11T02:49:24.088Z",
+      "fetchedAt": "2026-11-11T10:51:52.873Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
