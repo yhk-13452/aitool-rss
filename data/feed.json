@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-11T18:40:30.582Z",
+  "generatedAt": "2026-11-12T01:31:29.392Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-11T18:40:30.175Z",
+      "fetchedAt": "2026-11-12T01:31:29.392Z",
       "items": [
+        {
+          "id": "7343f9e1ff56eb82fbb9707effa82a7d9d75756f",
+          "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
+          "link": "https://sspai.com/post/118935",
+          "pubDate": "2026-11-12T00:22:09.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
+          "content": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=\"https://sspai.com/post/118935\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "31f47d85113dbe78a6aece404721e2b44ef349f8",
           "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
@@ -95,24 +105,34 @@
           "contentSnippet": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
           "content": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=\"https://sspai.com/post/118799\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "e7a0388e146e1f5acdeecca5ce52279427bd5ee1",
-          "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验\n",
-          "link": "https://sspai.com/post/118227",
-          "pubDate": "2026-11-09T07:40:22.000Z",
-          "author": "一只兔子先生",
-          "contentSnippet": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文",
-          "content": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...<a href=\"https://sspai.com/post/118227\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-11T18:40:30.582Z",
+      "fetchedAt": "2026-11-12T01:31:21.832Z",
       "items": [
+        {
+          "id": "47c079eb323f7fe662baab7ec0d662abb7f991b8",
+          "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
+          "link": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T00:55:03.000Z",
+          "author": "杜晨",
+          "contentSnippet": "黄仁勋的至暗时刻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "黄仁勋的至暗时刻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "287f4783f2d41bf73f699362f2b50b61325b67d3",
+          "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
+          "link": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T00:24:22.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀\r\n· 张雪机车第 10 万台整车在重庆下线\r\n· 曝 Anthropic 承销商考虑上调 IPO 发行价\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀\r\n· 张雪机车第 10 万台整车在重庆下线\r\n· 曝 Anthropic 承销商考虑上调 IPO 发行价<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "6ed06373ac0ba9cdd38fa05f5453110164b94201",
           "title": "曝字节要做「中国版 Muse」，给豆包造个「超级大脑」",
@@ -292,33 +312,13 @@
           "contentSnippet": "AI 版 PS 的时代来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "AI 版 PS 的时代来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "8d4c608dd8dc657fddf272f934e663cd04afb12c",
-          "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
-          "link": "https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T07:56:58.000Z",
-          "author": "张子豪",
-          "contentSnippet": "终于不是后空翻、跳舞、跑步了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "终于不是后空翻、跳舞、跑步了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "e39f990c6a840a5cb6b48add6e0bb469dce9494d",
-          "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
-          "link": "https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T04:00:04.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "又能摸鱼了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "又能摸鱼了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-11T18:40:29.654Z",
+      "fetchedAt": "2026-11-12T01:31:20.476Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
