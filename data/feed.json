@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T09:46:21.722Z",
+  "generatedAt": "2026-11-12T18:16:50.903Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-12T09:46:21.722Z",
+      "fetchedAt": "2026-11-12T18:16:50.650Z",
       "items": [
         {
           "id": "351489b77bc4f50ce3b7c4b3c041ee70dbfa1c26",
@@ -111,8 +111,48 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-12T09:46:21.609Z",
+      "fetchedAt": "2026-11-12T18:16:50.903Z",
       "items": [
+        {
+          "id": "84752a4c58a7b94a5ee735ec8d3a91ad2d27974a",
+          "title": "突发！黄仁勋辞任 CEO，英伟达迎来历史性换帅",
+          "link": "https://www.ifanr.com/1689249?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T14:36:47.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "黑皮衣传奇谢幕\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "黑皮衣传奇谢幕<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "e1d4b44647f936ee9812e1e981d51682e26b98b6",
+          "title": "26.99 万元起！腾势 N8 上市，内饰最美的比亚迪来了",
+          "link": "https://www.ifanr.com/1689232?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T13:39:12.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "这还是熟悉的比亚迪吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "这还是熟悉的比亚迪吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "c2aba0e55e7a2a8051f65662f2c6f8c6baf7fa05",
+          "title": "森海塞尔 HDB 630 体验：把 Hi-Fi 音响，装进这副降噪耳机里",
+          "link": "https://www.ifanr.com/1689209?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T11:23:59.000Z",
+          "author": "梁梦麟",
+          "contentSnippet": "旗舰无线头戴，应该有的样子\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "旗舰无线头戴，应该有的样子<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "c7d4a8cdc92a1f3d9b3bd2267dcca819ae42ac95",
+          "title": "iPhone Siri AI 体验：距离真正的 AI Phone，苹果还有多远？| 附开通指南",
+          "link": "https://www.ifanr.com/1688980?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T10:47:53.000Z",
+          "author": "方俊鸣",
+          "contentSnippet": "这是一个更好的 Siri，但还不是一个合格的 Agent\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "这是一个更好的 Siri，但还不是一个合格的 Agent<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "aeeb97661d1959d176797182e209d8ccc7c0a7e9",
           "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
@@ -272,53 +312,13 @@
           "contentSnippet": "油门焊死\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "油门焊死<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "d45f5b6d921cd7f076a7bf9d334ac6a9a9b6da1d",
-          "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
-          "link": "https://www.ifanr.com/1688755?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-10T09:30:04.000Z",
-          "author": "彭海星",
-          "contentSnippet": "在习以为常的将就里，戴森的执拗是一种稀缺的浪漫\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "在习以为常的将就里，戴森的执拗是一种稀缺的浪漫<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "5ecd6f4ae7e500d88fb1f1d51091f3c89c00cda4",
-          "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
-          "link": "https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-10T01:19:39.000Z",
-          "author": "山宗",
-          "contentSnippet": "人类的快乐却还是如此朴素。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "人类的快乐却还是如此朴素。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "9e0cc6fc39d9172a56363bf056e05a683939128c",
-          "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
-          "link": "https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-10T00:47:46.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能\r\n· 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理\r\n· 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能\r\n· 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理\r\n· 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "1e2b62cf5f270b147fa7075a2b63caac0370b758",
-          "title": "曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产",
-          "link": "https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-10T00:45:56.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "长得像未来，但没能活到未来。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "长得像未来，但没能活到未来。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-12T09:46:20.753Z",
+      "fetchedAt": "2026-11-12T18:16:49.796Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
