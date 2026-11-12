@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-12T01:31:29.392Z",
+  "generatedAt": "2026-11-12T09:46:21.722Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-12T01:31:29.392Z",
+      "fetchedAt": "2026-11-12T09:46:21.722Z",
       "items": [
+        {
+          "id": "351489b77bc4f50ce3b7c4b3c041ee70dbfa1c26",
+          "title": "城市漫步指南｜夏末大阪，「青黄不接」的时节刚刚好",
+          "link": "https://sspai.com/post/118366",
+          "pubDate": "2026-11-12T08:37:25.000Z",
+          "author": "Hermanchannn",
+          "contentSnippet": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文",
+          "content": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=\"https://sspai.com/post/118366\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "82c7456d005919b531366c99e1a5db10a90bcfe5",
+          "title": "Mac 选购指南 2026 冬季版",
+          "link": "https://sspai.com/post/85735",
+          "pubDate": "2026-11-12T06:42:04.000Z",
+          "author": "Kostya",
+          "contentSnippet": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。查看全文",
+          "content": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=\"https://sspai.com/post/85735\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "7c7fe080c1f9dbc7e2275141904bfe847aba4caa",
+          "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
+          "link": "https://sspai.com/post/118921",
+          "pubDate": "2026-11-12T03:12:02.000Z",
+          "author": "南桥北桥不是桥",
+          "contentSnippet": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...查看全文",
+          "content": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=\"https://sspai.com/post/118921\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "7343f9e1ff56eb82fbb9707effa82a7d9d75756f",
           "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
@@ -75,44 +105,54 @@
           "contentSnippet": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...查看全文",
           "content": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...<a href=\"https://sspai.com/post/118824\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "e4c25a8d290eb3cb02e756307412047d691ed232",
-          "title": "今年双十一，这些鼠标值得一看",
-          "link": "https://sspai.com/post/111065",
-          "pubDate": "2026-11-10T03:00:25.000Z",
-          "author": "ROB1N",
-          "contentSnippet": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。查看全文",
-          "content": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。<a href=\"https://sspai.com/post/111065\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "a1fe8bc6737ef5a31d6820e03a7dd0f3350991a8",
-          "title": "派评 | 近期值得关注的 App",
-          "link": "https://sspai.com/post/118833",
-          "pubDate": "2026-11-09T10:27:59.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/118833\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "8f80a4b50c7f81d19918c7f7362787f9e9e839a0",
-          "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
-          "link": "https://sspai.com/post/118799",
-          "pubDate": "2026-11-09T08:24:03.000Z",
-          "author": "福利派",
-          "contentSnippet": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文",
-          "content": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。<a href=\"https://sspai.com/post/118799\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-12T01:31:21.832Z",
+      "fetchedAt": "2026-11-12T09:46:21.609Z",
       "items": [
+        {
+          "id": "aeeb97661d1959d176797182e209d8ccc7c0a7e9",
+          "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
+          "link": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T04:50:05.000Z",
+          "author": "山宗",
+          "contentSnippet": "国产大模型开始组团办公\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "国产大模型开始组团办公<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "18cb59a26819cbf7b94db03fc4c800f618c650d3",
+          "title": "拆解触屏 MacBook Pro：点亮苹果 LOGO 的秘密，藏在这里",
+          "link": "https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T04:00:07.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "苹果终于听劝了？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "苹果终于听劝了？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "bb40029f08acaa9b3619a5beabb2467af68d6db0",
+          "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有",
+          "link": "https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T02:34:22.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "Chromebook's yesterday once more.\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "Chromebook's yesterday once more.<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "edffaafb851c483f50322e4c463fac801aedb2fb",
+          "title": "折叠屏手机的转身｜明日后视镜",
+          "link": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T01:39:17.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "47c079eb323f7fe662baab7ec0d662abb7f991b8",
           "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
@@ -272,53 +312,13 @@
           "contentSnippet": "长得像未来，但没能活到未来。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "长得像未来，但没能活到未来。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "1279e9ee779d49b4771d57c33bf96a8954b6258a",
-          "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
-          "link": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T22:54:06.000Z",
-          "author": "山宗",
-          "contentSnippet": "全球最强模型再次易主\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "全球最强模型再次易主<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "2e17c96635495790792f51cc20b02b457ecd8932",
-          "title": "玛莎拉蒂将与尊界联合造车，首发车型或为双门 GT，明年正式量产",
-          "link": "https://www.ifanr.com/1688586?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T14:56:35.000Z",
-          "author": "李华",
-          "contentSnippet": "中国车企买标充门面的时代已经过去了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "中国车企买标充门面的时代已经过去了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "6964ad68ac6e3504c4eebe72feaac3c263df491b",
-          "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
-          "link": "https://www.ifanr.com/1688447?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T12:01:18.000Z",
-          "author": "张子豪",
-          "contentSnippet": "还有改图 100 轮都不糊\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "还有改图 100 轮都不糊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "402750b7048797d45521d622810c17ee61f142b0",
-          "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
-          "link": "https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-09T09:19:02.000Z",
-          "author": "山宗",
-          "contentSnippet": "AI 版 PS 的时代来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 版 PS 的时代来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-12T01:31:20.476Z",
+      "fetchedAt": "2026-11-12T09:46:20.753Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
