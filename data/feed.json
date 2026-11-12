@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-12T18:16:50.903Z",
+  "generatedAt": "2026-11-12T23:40:40.747Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-12T18:16:50.650Z",
+      "fetchedAt": "2026-11-12T23:40:40.747Z",
       "items": [
         {
           "id": "351489b77bc4f50ce3b7c4b3c041ee70dbfa1c26",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-12T18:16:50.903Z",
+      "fetchedAt": "2026-11-12T23:40:40.670Z",
       "items": [
+        {
+          "id": "2e3cc46826fe3057d2dea7ddd294560a85e5f9c1",
+          "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
+          "link": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-12T23:11:11.000Z",
+          "author": "山宗",
+          "contentSnippet": "更快更便宜还更聪明\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "更快更便宜还更聪明<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "84752a4c58a7b94a5ee735ec8d3a91ad2d27974a",
           "title": "突发！黄仁勋辞任 CEO，英伟达迎来历史性换帅",
@@ -302,23 +312,13 @@
           "contentSnippet": "极星式设计的集大成之作。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "极星式设计的集大成之作。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "cde037d82116e242d91c46a08182e9717121f859",
-          "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
-          "link": "https://www.ifanr.com/1688570?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-10T09:30:18.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "油门焊死\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "油门焊死<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-12T18:16:49.796Z",
+      "fetchedAt": "2026-11-12T23:40:39.627Z",
       "items": [
         {
           "id": "9322a2fab31a9e35884073ade72c71ca540c709e",
