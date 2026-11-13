@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-13T06:39:14.947Z",
+  "generatedAt": "2026-11-13T15:22:04.249Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-13T06:39:14.838Z",
+      "fetchedAt": "2026-11-13T15:22:03.817Z",
       "items": [
+        {
+          "id": "101b099755848abe2eb3aa7ecb2da0153d362340",
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "link": "https://sspai.com/post/118999",
+          "pubDate": "2026-11-13T09:39:22.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...查看全文",
+          "content": "📅本周新预告《银翼杀手2099》终极预告11月10日，剧集《银翼杀手2099》发布了终极预告，将于11月25日上线PrimeVideo。亨特·莎弗、杨紫琼主演，2099年的洛杉矶，为了彻底结束逃亡生活 ...<a href=\"https://sspai.com/post/118999\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "3d1c77a074e7c8cdd487bd3f86687ac04c436b64",
+          "title": "研究生如何用 AI 辅助完成一篇综述：我的科研写作工具与实践经验",
+          "link": "https://sspai.com/post/118153",
+          "pubDate": "2026-11-13T07:00:00.000Z",
+          "author": "胡拉图说",
+          "contentSnippet": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。查看全文",
+          "content": "AI 改变的不是科研写作本身，而是我们完成科研写作时的工作方式。<a href=\"https://sspai.com/post/118153\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "929393cb626ab4d7fd21b167917c4b86dbdf482e",
           "title": "在快 AI 时代，我是怎么把 Mole 做成一款「慢产品」的？",
@@ -85,34 +105,34 @@
           "contentSnippet": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
           "content": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？<a href=\"https://sspai.com/post/118175\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "e271f6088df4e0a09128813c895d82375a980131",
-          "title": "RetroSweeper Go：复古外观、更有手感的扫雷游戏",
-          "link": "https://sspai.com/post/118458",
-          "pubDate": "2026-11-11T03:13:04.000Z",
-          "author": "bakamio",
-          "contentSnippet": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。查看全文",
-          "content": "复古游戏机风格的界面和「手柄」设计，希望可以唤起你的一些回忆。<a href=\"https://sspai.com/post/118458\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "72bb052ab41d80a2f2dadd651c734289e019438f",
-          "title": "社区速递 165 | 透明工牌与派友十月购物清单",
-          "link": "https://sspai.com/post/118861",
-          "pubDate": "2026-11-10T08:44:26.000Z",
-          "author": "Matrix机器人",
-          "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/118861\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-13T06:39:14.947Z",
+      "fetchedAt": "2026-11-13T15:22:04.249Z",
       "items": [
+        {
+          "id": "7ff037eefcea6c89ce6d9b4848260d07bc253b35",
+          "title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
+          "link": "https://www.ifanr.com/1689379?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-13T10:04:55.000Z",
+          "author": "张子豪",
+          "contentSnippet": "世界模型的竞争要开始了吗\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "世界模型的竞争要开始了吗<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "2f5248fcb4b7a2e590973f7a82602eb3163c7bdf",
+          "title": "黄仁勋自嘲是「人渣」，英伟达员工集体喊话求回归",
+          "link": "https://www.ifanr.com/1689360?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-13T08:31:36.000Z",
+          "author": "山宗",
+          "contentSnippet": "没有黄仁勋的英伟达会怎样？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "没有黄仁勋的英伟达会怎样？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "17b9f0e2531e37b0fce15f21affb9aabc643f56a",
           "title": "AI 时代，公司的「新厂房」长什么样？",
@@ -292,33 +312,13 @@
           "contentSnippet": "非付费用户什么时候能用上？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "非付费用户什么时候能用上？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "df72ddb891b2b1ff984182476b8ab20abdf77471",
-          "title": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
-          "link": "https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-11T00:20:24.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 李斌：蔚来 ES9 将迎来第 4 万辆交付\r\n· 台积电 10 月营收创今年单月新高，同比增长近六成\r\n· 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 李斌：蔚来 ES9 将迎来第 4 万辆交付\r\n· 台积电 10 月营收创今年单月新高，同比增长近六成\r\n· 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "d41a038eb3d381f22b9cbecdfee980b4b4a1e6c8",
-          "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
-          "link": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-10T16:04:24.000Z",
-          "author": "张子豪",
-          "contentSnippet": "4K 像素最快 10 秒生成\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "4K 像素最快 10 秒生成<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-13T06:39:14.108Z",
+      "fetchedAt": "2026-11-13T15:22:03.190Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
