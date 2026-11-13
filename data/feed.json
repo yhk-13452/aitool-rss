@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-13T15:22:04.249Z",
+  "generatedAt": "2026-11-13T21:58:09.402Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-13T15:22:03.817Z",
+      "fetchedAt": "2026-11-13T21:58:09.203Z",
       "items": [
         {
           "id": "101b099755848abe2eb3aa7ecb2da0153d362340",
@@ -111,8 +111,28 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-13T15:22:04.249Z",
+      "fetchedAt": "2026-11-13T21:58:09.402Z",
       "items": [
+        {
+          "id": "c8198b878ce871a1eb250699977df2b235115a9a",
+          "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
+          "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-13T18:19:36.000Z",
+          "author": "李华",
+          "contentSnippet": "新 M8 的升级，主打「实用主义」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "新 M8 的升级，主打「实用主义」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "677db40a4ba4adf0edb4dbfb640a8fd55bf79a14",
+          "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
+          "link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-13T15:44:48.000Z",
+          "author": "方俊鸣",
+          "contentSnippet": "iPhone 20 会是一台伟大的产品吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "iPhone 20 会是一台伟大的产品吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "7ff037eefcea6c89ce6d9b4848260d07bc253b35",
           "title": "李飞飞最新世界模型正式开放，我用它一句话造出重庆山城",
@@ -292,33 +312,13 @@
           "contentSnippet": "人不能、至少不应该把严谨的自然科学当成 AI 技能大赛现场\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "人不能、至少不应该把严谨的自然科学当成 AI 技能大赛现场<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "76b8e0cab64c79c38bea7fe1c5bf791643042b87",
-          "title": "300 块的索尼复古耳机，没降噪不隔音，为什么还是卖爆了？",
-          "link": "https://www.ifanr.com/1688900?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-11T02:08:47.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "买情怀，送耳机\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "买情怀，送耳机<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "2466905fece34ae83991bd007c33553162603a94",
-          "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
-          "link": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-11T00:26:39.000Z",
-          "author": "山宗",
-          "contentSnippet": "非付费用户什么时候能用上？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "非付费用户什么时候能用上？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-13T15:22:03.190Z",
+      "fetchedAt": "2026-11-13T21:58:08.424Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
