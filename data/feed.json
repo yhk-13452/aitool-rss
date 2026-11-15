@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-15T01:52:15.644Z",
+  "generatedAt": "2026-11-15T09:19:49.074Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-15T01:52:15.299Z",
+      "fetchedAt": "2026-11-15T09:19:49.074Z",
       "items": [
+        {
+          "id": "4c09878331d0e53cce634b3f8cc366ea6e5f2c0b",
+          "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
+          "link": "https://sspai.com/post/118392",
+          "pubDate": "2026-11-15T07:55:16.000Z",
+          "author": "尹颍",
+          "contentSnippet": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？查看全文",
+          "content": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？<a href=\"https://sspai.com/post/118392\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "57f7064d7b88b5ec57087db299738646fcc9f21b",
           "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
@@ -95,24 +105,24 @@
           "contentSnippet": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
           "content": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=\"https://sspai.com/post/118935\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "31f47d85113dbe78a6aece404721e2b44ef349f8",
-          "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
-          "link": "https://sspai.com/post/118781",
-          "pubDate": "2026-11-11T09:30:00.000Z",
-          "author": "程天冲",
-          "contentSnippet": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文",
-          "content": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...<a href=\"https://sspai.com/post/118781\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-15T01:52:15.644Z",
+      "fetchedAt": "2026-11-15T09:19:47.183Z",
       "items": [
+        {
+          "id": "0e192c2a51bffc2de311697375ad669c1c52519c",
+          "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+          "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-15T02:47:36.000Z",
+          "author": "山宗",
+          "contentSnippet": "再创历史\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "再创历史<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "3f01fcee08709e36948f4259009157276c06b0ad",
           "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
@@ -302,23 +312,13 @@
           "contentSnippet": "豆包走出屏幕\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "豆包走出屏幕<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "d5d642945864ad2a3d3eabdfe917be0088fc7ad6",
-          "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
-          "link": "https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-11T09:47:34.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "微型小车正在集体变大。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "微型小车正在集体变大。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-15T01:52:14.527Z",
+      "fetchedAt": "2026-11-15T09:19:45.815Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
