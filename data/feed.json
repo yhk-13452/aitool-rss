@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-15T09:19:49.074Z",
+  "generatedAt": "2026-11-15T17:05:19.661Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-15T09:19:49.074Z",
+      "fetchedAt": "2026-11-15T17:05:19.487Z",
       "items": [
         {
           "id": "4c09878331d0e53cce634b3f8cc366ea6e5f2c0b",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-15T09:19:47.183Z",
+      "fetchedAt": "2026-11-15T17:05:19.661Z",
       "items": [
+        {
+          "id": "e00a16a6bf3cce92528c1f369aaa35c5b9d3b3b8",
+          "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
+          "link": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-15T10:00:17.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "小身材，大嗓门\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "小身材，大嗓门<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "0e192c2a51bffc2de311697375ad669c1c52519c",
           "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
@@ -302,23 +312,13 @@
           "contentSnippet": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀\r\n· 张雪机车第 10 万台整车在重庆下线\r\n· 曝 Anthropic 承销商考虑上调 IPO 发行价\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀\r\n· 张雪机车第 10 万台整车在重庆下线\r\n· 曝 Anthropic 承销商考虑上调 IPO 发行价<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "6ed06373ac0ba9cdd38fa05f5453110164b94201",
-          "title": "曝字节要做「中国版 Muse」，给豆包造个「超级大脑」",
-          "link": "https://www.ifanr.com/1689016?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-11T11:52:16.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "豆包走出屏幕\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "豆包走出屏幕<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-15T09:19:45.815Z",
+      "fetchedAt": "2026-11-15T17:05:18.530Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
