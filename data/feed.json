@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-15T21:45:50.542Z",
+  "generatedAt": "2026-11-16T02:00:34.295Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-15T21:45:50.465Z",
+      "fetchedAt": "2026-11-16T02:00:34.294Z",
       "items": [
+        {
+          "id": "1a391f32e27ef31aa74e1b54912fd9277899df3e",
+          "title": "派早报：逾十万人次联署要求黄仁勋复职",
+          "link": "https://sspai.com/post/119119",
+          "pubDate": "2026-11-15T23:24:34.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "逾十万人次联署要求黄仁勋复职\nMicrosoft 365 服务在 19 小时全球宕机后恢复\n国产前沿模型携带 Blackwell GPU 特征\n线缆更换导致全美飞机停飞\n流媒体用户抱怨更难找到想看作品\n特斯拉 Cybercab 订阅协议包含苛刻条款\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "content": "<p>逾十万人次联署要求黄仁勋复职</p><p>Microsoft 365 服务在 19 小时全球宕机后恢复</p><p>国产前沿模型携带 Blackwell GPU 特征</p><p>线缆更换导致全美飞机停飞</p><p>流媒体用户抱怨更难找到想看作品</p><p>特斯拉 Cybercab 订阅协议包含苛刻条款</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/119119\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "4c09878331d0e53cce634b3f8cc366ea6e5f2c0b",
           "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
@@ -95,24 +105,44 @@
           "contentSnippet": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...查看全文",
           "content": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=\"https://sspai.com/post/118921\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "7343f9e1ff56eb82fbb9707effa82a7d9d75756f",
-          "title": "派早报：Apple 公布 Swift Student Challenge 安排、微软发布 Auto SR 等",
-          "link": "https://sspai.com/post/118935",
-          "pubDate": "2026-11-12T00:22:09.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。查看全文",
-          "content": "Arm 发布 Cortex-M42 处理器、任天堂宣布「轻松登入」功能将下线等。<a href=\"https://sspai.com/post/118935\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-15T21:45:50.542Z",
+      "fetchedAt": "2026-11-16T02:00:31.138Z",
       "items": [
+        {
+          "id": "7e6d7ecd4fc24c0f24041856139593fb8e09ceb6",
+          "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+          "link": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-16T01:11:22.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "辞职三天，想回来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "辞职三天，想回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "4d9b3b3cfdb306033234be7dc85abb085c067f5c",
+          "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
+          "link": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-16T00:56:45.000Z",
+          "author": "山宗",
+          "contentSnippet": "黄仁勋的故事还没有结束\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "黄仁勋的故事还没有结束<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "a3403219f60b349fc42d97dae6c370687480bbfa",
+          "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
+          "link": "https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-15T23:55:30.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 余承东：华为大折叠已成千万人主力机\r\n· 苹果 HomeView 发售，首批实测遇到语音和账户切换问题\r\n· 微软服务故障持续超 30 小时，官方宣布恢复\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 余承东：华为大折叠已成千万人主力机\r\n· 苹果 HomeView 发售，首批实测遇到语音和账户切换问题\r\n· 微软服务故障持续超 30 小时，官方宣布恢复<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "e00a16a6bf3cce92528c1f369aaa35c5b9d3b3b8",
           "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
@@ -282,43 +312,13 @@
           "contentSnippet": "Chromebook's yesterday once more.\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "Chromebook's yesterday once more.<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "edffaafb851c483f50322e4c463fac801aedb2fb",
-          "title": "折叠屏手机的转身｜明日后视镜",
-          "link": "https://www.ifanr.com/1689097?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-12T01:39:17.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "折叠屏手机的挑战，生态适配的试炼，也许才刚刚开始<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "47c079eb323f7fe662baab7ec0d662abb7f991b8",
-          "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
-          "link": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-12T00:55:03.000Z",
-          "author": "杜晨",
-          "contentSnippet": "黄仁勋的至暗时刻\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "黄仁勋的至暗时刻<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "287f4783f2d41bf73f699362f2b50b61325b67d3",
-          "title": "早报｜苹果支持社区将关停/曝英伟达董事会考虑罢免黄仁勋/余承东官宣华为子品牌OSTA星芒",
-          "link": "https://www.ifanr.com/1689051?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-12T00:24:22.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀\r\n· 张雪机车第 10 万台整车在重庆下线\r\n· 曝 Anthropic 承销商考虑上调 IPO 发行价\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 余承东官宣华为子品牌 OSTA 星芒，11 月 20 日首秀\r\n· 张雪机车第 10 万台整车在重庆下线\r\n· 曝 Anthropic 承销商考虑上调 IPO 发行价<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-15T21:45:49.435Z",
+      "fetchedAt": "2026-11-16T02:00:30.294Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
