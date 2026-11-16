@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-16T02:00:34.295Z",
+  "generatedAt": "2026-11-16T09:36:47.969Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-16T02:00:34.294Z",
+      "fetchedAt": "2026-11-16T09:36:47.968Z",
       "items": [
+        {
+          "id": "2a6099ad31bbbdd7a347556c98d40a9b2512ca90",
+          "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+          "link": "https://sspai.com/post/118100",
+          "pubDate": "2026-11-16T07:37:51.000Z",
+          "author": "化学心情下2",
+          "contentSnippet": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文",
+          "content": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...<a href=\"https://sspai.com/post/118100\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "70161310f56adc1201f00eec9a05914cd6e87943",
+          "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+          "link": "https://sspai.com/post/119012",
+          "pubDate": "2026-11-16T02:52:11.000Z",
+          "author": "西鸽",
+          "contentSnippet": "能切换老设备音质的媒体播放器。查看全文",
+          "content": "能切换老设备音质的媒体播放器。<a href=\"https://sspai.com/post/119012\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "1a391f32e27ef31aa74e1b54912fd9277899df3e",
           "title": "派早报：逾十万人次联署要求黄仁勋复职",
@@ -85,34 +105,34 @@
           "contentSnippet": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文",
           "content": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...<a href=\"https://sspai.com/post/118366\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "82c7456d005919b531366c99e1a5db10a90bcfe5",
-          "title": "Mac 选购指南 2026 冬季版",
-          "link": "https://sspai.com/post/85735",
-          "pubDate": "2026-11-12T06:42:04.000Z",
-          "author": "Kostya",
-          "contentSnippet": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。查看全文",
-          "content": "内存、存储涨价但又得换 Mac？记得收下这份选购指南。<a href=\"https://sspai.com/post/85735\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "7c7fe080c1f9dbc7e2275141904bfe847aba4caa",
-          "title": "让老音箱焕发新生：Home Assistant Connect AUX-2 首发体验",
-          "link": "https://sspai.com/post/118921",
-          "pubDate": "2026-11-12T03:12:02.000Z",
-          "author": "南桥北桥不是桥",
-          "contentSnippet": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...查看全文",
-          "content": "玩智能家居这几年，灯光、传感器和开关基本已经靠着Matter和HomeAssistant打通了，唯独多房间音频（Multi-roomAudio）还停留在各自为战的阶段。想让客厅的HomePod、书房的 ...<a href=\"https://sspai.com/post/118921\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-16T02:00:31.138Z",
+      "fetchedAt": "2026-11-16T09:36:47.845Z",
       "items": [
+        {
+          "id": "6b9603ecb7bd8c3914f320bd0f91f04ee8c1f3d6",
+          "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
+          "link": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-16T08:37:10.000Z",
+          "author": "制糖工厂",
+          "contentSnippet": "硬糖边边线，今日上线。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "硬糖边边线，今日上线。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "b355c40e789dd15eb9add36de4054e4a5e1fc21c",
+          "title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
+          "link": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-16T08:24:59.000Z",
+          "author": "山宗",
+          "contentSnippet": "真正认真对待软件的人，应该自己去制造硬件。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "真正认真对待软件的人，应该自己去制造硬件。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "7e6d7ecd4fc24c0f24041856139593fb8e09ceb6",
           "title": "超 16 万人请愿，黄仁勋准备「回宫」",
@@ -161,6 +181,16 @@
           "author": "山宗",
           "contentSnippet": "再创历史\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "再创历史<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "9cb9fc5059c8e1bac44b780e22828e45007d6215",
+          "title": "原厂宽体+碳纤大尾翼！用 13.38 万，买到一辆「领克 03+」",
+          "link": "https://www.ifanr.com/1689570?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-14T04:02:40.000Z",
+          "author": "李华",
+          "contentSnippet": "领克 03 找到了燃油车在新时代的活法。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "领克 03 找到了燃油车在新时代的活法。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
         },
         {
@@ -282,43 +312,13 @@
           "contentSnippet": "这是一个更好的 Siri，但还不是一个合格的 Agent\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "这是一个更好的 Siri，但还不是一个合格的 Agent<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "aeeb97661d1959d176797182e209d8ccc7c0a7e9",
-          "title": "刚刚，豆包工作官宣接入 Kimi、DeepSeek，AI 模型自由来了",
-          "link": "https://www.ifanr.com/1689176?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-12T04:50:05.000Z",
-          "author": "山宗",
-          "contentSnippet": "国产大模型开始组团办公\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "国产大模型开始组团办公<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "18cb59a26819cbf7b94db03fc4c800f618c650d3",
-          "title": "拆解触屏 MacBook Pro：点亮苹果 LOGO 的秘密，藏在这里",
-          "link": "https://www.ifanr.com/1689129?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-12T04:00:07.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "苹果终于听劝了？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "苹果终于听劝了？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "bb40029f08acaa9b3619a5beabb2467af68d6db0",
-          "title": "联想 Googlebook 15 评测：安卓电脑准备好了，安卓没有",
-          "link": "https://www.ifanr.com/1689128?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-12T02:34:22.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "Chromebook's yesterday once more.\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "Chromebook's yesterday once more.<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-16T02:00:30.294Z",
+      "fetchedAt": "2026-11-16T09:36:46.703Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
