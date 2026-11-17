@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-16T20:25:35.931Z",
+  "generatedAt": "2026-11-17T03:49:28.947Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-16T20:25:35.931Z",
+      "fetchedAt": "2026-11-17T03:49:28.664Z",
       "items": [
+        {
+          "id": "606402634225adc902d00fe144c96f499c714376",
+          "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+          "link": "https://sspai.com/post/119160",
+          "pubDate": "2026-11-16T23:57:40.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
+          "content": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119160\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "d1f79de0836d85e2e8d794d2b6996bd4cfed31e8",
           "title": "派评 | 近期值得关注的 App",
@@ -95,24 +105,44 @@
           "contentSnippet": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...查看全文",
           "content": "距离写完上一篇在少数派发的《从开源清理工具到付费Mac应用，用户教会了我如何做产品》已经过去两个多月。这段时间里，Mole从1.13一路发到了1.19，加上了AI工具清理和系统数据清理，Windows ...<a href=\"https://sspai.com/post/118512\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "dadb693494546157982f53f20b11d9696e915f6e",
-          "title": "派早报：英伟达 CEO 黄仁勋宣布辞职等",
-          "link": "https://sspai.com/post/118966",
-          "pubDate": "2026-11-13T00:48:17.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。查看全文",
-          "content": "2026 年金摇杆奖获奖名单公布，Apex Compute 推出跨平台 AI 帧生成技术 ANR 等。<a href=\"https://sspai.com/post/118966\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-16T20:25:35.802Z",
+      "fetchedAt": "2026-11-17T03:49:28.947Z",
       "items": [
+        {
+          "id": "07d68d5961747cce19247e9edf30e2addb0468df",
+          "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+          "link": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-17T03:22:08.000Z",
+          "author": "李华",
+          "contentSnippet": "一人犯错，全员受罚。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "一人犯错，全员受罚。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "f87851bde08db3dd7a06a8f5f3b0f2645229a550",
+          "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+          "link": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-17T02:23:50.000Z",
+          "author": "张子豪",
+          "contentSnippet": "微软宕机与美国航班停飞，背后都是 AI 失控吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "微软宕机与美国航班停飞，背后都是 AI 失控吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "376f2ac0cc5a9d156f7b2f5b7a20ea2e862acd85",
+          "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+          "link": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-17T00:18:50.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元\r\n· 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用\r\n· 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元\r\n· 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用\r\n· 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "09eb98f8c1d990bbf806a1732c5e681f8a8d1e48",
           "title": "影石这张「魔法相纸」，怎么治好了我的相册吃灰症？",
@@ -282,43 +312,13 @@
           "contentSnippet": "没有黄仁勋的英伟达会怎样？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "没有黄仁勋的英伟达会怎样？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "17b9f0e2531e37b0fce15f21affb9aabc643f56a",
-          "title": "AI 时代，公司的「新厂房」长什么样？",
-          "link": "https://www.ifanr.com/1689182?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-13T06:34:19.000Z",
-          "author": "樊 尔",
-          "contentSnippet": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "真正决定公司未来十年身位的，是谁先动手重建那座名叫「智能组织」的新厂房。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "857edf51f20fbe203b1b5462e5649c44ccbeec7a",
-          "title": "早报｜黄仁勋仍为英伟达最大个人股东/豆包工作接入多款第三方模型/微信「看一看」测试短剧入口",
-          "link": "https://www.ifanr.com/1689292?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-13T00:00:46.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线\r\n· 张雪：今年已经挣到了「一个小目标」\r\n· Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 接近腾讯人士称「裁员 50%」传闻不实，管理层提出两条 AI 转型路线\r\n· 张雪：今年已经挣到了「一个小目标」\r\n· Claude 10 月网站访问量增近 24%，增幅超过 ChatGPT 和 Gemini<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "2e3cc46826fe3057d2dea7ddd294560a85e5f9c1",
-          "title": "刚刚，Gemini 4 新模型叒来了，终于人人可用",
-          "link": "https://www.ifanr.com/1689267?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-12T23:11:11.000Z",
-          "author": "山宗",
-          "contentSnippet": "更快更便宜还更聪明\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "更快更便宜还更聪明<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-16T20:25:35.119Z",
+      "fetchedAt": "2026-11-17T03:49:27.820Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
