@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-18T13:05:52.890Z",
+  "generatedAt": "2026-11-18T21:24:42.141Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-18T13:05:52.790Z",
+      "fetchedAt": "2026-11-18T21:24:42.037Z",
       "items": [
         {
           "id": "0d5647ba57feb748a5b266d5aaece07b785284ba",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-18T13:05:52.890Z",
+      "fetchedAt": "2026-11-18T21:24:42.141Z",
       "items": [
+        {
+          "id": "ebebfc114bc5e8fc2d6fe6a9a9c3f051f73e193a",
+          "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
+          "link": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T17:16:31.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "欢迎回到罪城\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "欢迎回到罪城<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "026b5dceb161a56910e5a7ca626996b247dd2e2b",
           "title": "这届高校学生，为何选择用鸿蒙创新？",
@@ -302,23 +312,13 @@
           "contentSnippet": "真正认真对待软件的人，应该自己去制造硬件。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "真正认真对待软件的人，应该自己去制造硬件。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "7e6d7ecd4fc24c0f24041856139593fb8e09ceb6",
-          "title": "超 16 万人请愿，黄仁勋准备「回宫」",
-          "link": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T01:11:22.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "辞职三天，想回来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "辞职三天，想回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-18T13:05:51.500Z",
+      "fetchedAt": "2026-11-18T21:24:41.130Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
