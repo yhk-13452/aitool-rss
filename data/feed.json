@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-17T22:18:38.586Z",
+  "generatedAt": "2026-11-18T04:15:54.220Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-17T22:18:38.547Z",
+      "fetchedAt": "2026-11-18T04:15:54.219Z",
       "items": [
+        {
+          "id": "d5a9df89c421eaebcc3efc8f3e22a4fe2d1b9266",
+          "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
+          "link": "https://sspai.com/post/119193",
+          "pubDate": "2026-11-18T03:00:00.000Z",
+          "author": "小小陀螺",
+          "contentSnippet": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文",
+          "content": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……<a href=\"https://sspai.com/post/119193\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "05e5333405db96205629b330c012661f67cfbd0d",
+          "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
+          "link": "https://sspai.com/post/118975",
+          "pubDate": "2026-11-18T02:30:00.000Z",
+          "author": "什么陈",
+          "contentSnippet": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。查看全文",
+          "content": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。<a href=\"https://sspai.com/post/118975\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "66c3862e5d0404d31516cf1a715a8e0431e5d91a",
+          "title": "派早报：国区 App Store 将 AIGC 合规设为上架必填、OpenAI 发布 GPT-6.2 Astra 等",
+          "link": "https://sspai.com/post/119210",
+          "pubDate": "2026-11-18T00:46:03.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。查看全文",
+          "content": "iPhone Duo 测试 2D 人脸解锁功能，松下发布紧凑型电影摄影机 SHX1 等。<a href=\"https://sspai.com/post/119210\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "adb8445b1ee0d68dff726f6ffbc3775746e9b61d",
           "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
@@ -75,44 +105,54 @@
           "contentSnippet": "能切换老设备音质的媒体播放器。查看全文",
           "content": "能切换老设备音质的媒体播放器。<a href=\"https://sspai.com/post/119012\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "1a391f32e27ef31aa74e1b54912fd9277899df3e",
-          "title": "派早报：逾十万人次联署要求黄仁勋复职",
-          "link": "https://sspai.com/post/119119",
-          "pubDate": "2026-11-15T23:24:34.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "逾十万人次联署要求黄仁勋复职\nMicrosoft 365 服务在 19 小时全球宕机后恢复\n国产前沿模型携带 Blackwell GPU 特征\n线缆更换导致全美飞机停飞\n流媒体用户抱怨更难找到想看作品\n特斯拉 Cybercab 订阅协议包含苛刻条款\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
-          "content": "<p>逾十万人次联署要求黄仁勋复职</p><p>Microsoft 365 服务在 19 小时全球宕机后恢复</p><p>国产前沿模型携带 Blackwell GPU 特征</p><p>线缆更换导致全美飞机停飞</p><p>流媒体用户抱怨更难找到想看作品</p><p>特斯拉 Cybercab 订阅协议包含苛刻条款</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/119119\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "4c09878331d0e53cce634b3f8cc366ea6e5f2c0b",
-          "title": "Aerial Switcher：给 Mac 的航拍壁纸排个时间表",
-          "link": "https://sspai.com/post/118392",
-          "pubDate": "2026-11-15T07:55:16.000Z",
-          "author": "尹颍",
-          "contentSnippet": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？查看全文",
-          "content": "既然 Apple 已经把同一个地方的美景从早到晚拍了一遍并做成了壁纸，为什么不能让它们跟着时间自动切换？<a href=\"https://sspai.com/post/118392\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "57f7064d7b88b5ec57087db299738646fcc9f21b",
-          "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
-          "link": "https://sspai.com/post/118276",
-          "pubDate": "2026-11-14T07:40:21.000Z",
-          "author": "随便好啦",
-          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118276\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-17T22:18:38.586Z",
+      "fetchedAt": "2026-11-18T04:15:53.551Z",
       "items": [
+        {
+          "id": "c34aa61e8191887447688bc2ddc70310f2e579ca",
+          "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
+          "link": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T04:00:43.000Z",
+          "author": "山宗",
+          "contentSnippet": "从 AI 出片，走向 AI 交片\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "从 AI 出片，走向 AI 交片<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "77a113ddf8d64d1fc94a68e42a050351e6d9d2f8",
+          "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
+          "link": "https://www.ifanr.com/1690064?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T03:40:19.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "Rimac 已经拿到了大结果。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "Rimac 已经拿到了大结果。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "17dcea3ed1de9a4a5ad5aa98060758bfba5b78f4",
+          "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
+          "link": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T00:39:56.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "出走容易，回归难\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "出走容易，回归难<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "bd2fb702d580e60685ffbc58efa179b0785fc3b1",
+          "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
+          "link": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T00:32:49.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110%\r\n· TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏\r\n· macOS 27.3 收紧 App 文件访问权限\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110%\r\n· TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏\r\n· macOS 27.3 收紧 App 文件访问权限<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "0d9775f445c35088666670a02d076777d34b4b9a",
           "title": "Mac 收紧权限，苹果开始防着 AI 了",
@@ -131,6 +171,16 @@
           "author": "张子豪",
           "contentSnippet": "花钱接 API，导入历史记录\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "花钱接 API，导入历史记录<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "e95c4abceb93dae0efd3a0de802f2e4d91bca58f",
+          "title": "除了人脸解锁，iPhone Duo 2 还值得哪些升级？",
+          "link": "https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-17T04:00:26.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "那我缺的实体 SIM 卡这一块谁给我补啊\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "那我缺的实体 SIM 卡这一块谁给我补啊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
         },
         {
@@ -262,63 +312,13 @@
           "contentSnippet": "小身材，大嗓门\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "小身材，大嗓门<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "0e192c2a51bffc2de311697375ad669c1c52519c",
-          "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
-          "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-15T02:47:36.000Z",
-          "author": "山宗",
-          "contentSnippet": "再创历史\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "再创历史<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "9cb9fc5059c8e1bac44b780e22828e45007d6215",
-          "title": "原厂宽体+碳纤大尾翼！用 13.38 万，买到一辆「领克 03+」",
-          "link": "https://www.ifanr.com/1689570?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-14T04:02:40.000Z",
-          "author": "李华",
-          "contentSnippet": "领克 03 找到了燃油车在新时代的活法。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "领克 03 找到了燃油车在新时代的活法。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "3f01fcee08709e36948f4259009157276c06b0ad",
-          "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
-          "link": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-14T00:00:42.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时\r\n· LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元\r\n· 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时\r\n· LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元\r\n· 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "c8198b878ce871a1eb250699977df2b235115a9a",
-          "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
-          "link": "https://www.ifanr.com/1689432?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-13T18:19:36.000Z",
-          "author": "李华",
-          "contentSnippet": "新 M8 的升级，主打「实用主义」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "新 M8 的升级，主打「实用主义」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "677db40a4ba4adf0edb4dbfb640a8fd55bf79a14",
-          "title": "iPhone 20 爆料汇总：一整块玻璃，藏着苹果下一个十年",
-          "link": "https://www.ifanr.com/1689409?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-13T15:44:48.000Z",
-          "author": "方俊鸣",
-          "contentSnippet": "iPhone 20 会是一台伟大的产品吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "iPhone 20 会是一台伟大的产品吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-17T22:18:37.626Z",
+      "fetchedAt": "2026-11-18T04:15:52.356Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
