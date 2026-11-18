@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-18T04:15:54.220Z",
+  "generatedAt": "2026-11-18T13:05:52.890Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-18T04:15:54.219Z",
+      "fetchedAt": "2026-11-18T13:05:52.790Z",
       "items": [
+        {
+          "id": "0d5647ba57feb748a5b266d5aaece07b785284ba",
+          "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
+          "link": "https://sspai.com/post/118985",
+          "pubDate": "2026-11-18T08:59:58.000Z",
+          "author": "麻乐",
+          "contentSnippet": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
+          "content": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/118985\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "ec58482db1f3a1803706594009606892c44efc45",
+          "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
+          "link": "https://sspai.com/post/118732",
+          "pubDate": "2026-11-18T06:54:30.000Z",
+          "author": "Uinui",
+          "contentSnippet": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。查看全文",
+          "content": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=\"https://sspai.com/post/118732\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "d5a9df89c421eaebcc3efc8f3e22a4fe2d1b9266",
           "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
@@ -67,16 +87,6 @@
           "image": ""
         },
         {
-          "id": "606402634225adc902d00fe144c96f499c714376",
-          "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
-          "link": "https://sspai.com/post/119160",
-          "pubDate": "2026-11-16T23:57:40.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
-          "content": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119160\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
           "id": "d1f79de0836d85e2e8d794d2b6996bd4cfed31e8",
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/119148",
@@ -95,24 +105,34 @@
           "contentSnippet": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文",
           "content": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...<a href=\"https://sspai.com/post/118100\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "70161310f56adc1201f00eec9a05914cd6e87943",
-          "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
-          "link": "https://sspai.com/post/119012",
-          "pubDate": "2026-11-16T02:52:11.000Z",
-          "author": "西鸽",
-          "contentSnippet": "能切换老设备音质的媒体播放器。查看全文",
-          "content": "能切换老设备音质的媒体播放器。<a href=\"https://sspai.com/post/119012\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-18T04:15:53.551Z",
+      "fetchedAt": "2026-11-18T13:05:52.890Z",
       "items": [
+        {
+          "id": "026b5dceb161a56910e5a7ca626996b247dd2e2b",
+          "title": "这届高校学生，为何选择用鸿蒙创新？",
+          "link": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T10:45:36.000Z",
+          "author": "爱范儿",
+          "contentSnippet": "有想法就是入场券。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "有想法就是入场券。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "9f741fb8a87b45cab138803f040b226e6304b3f9",
+          "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+          "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T10:01:23.000Z",
+          "author": "张子豪",
+          "contentSnippet": "希望国模也快快跟上啊\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "希望国模也快快跟上啊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "c34aa61e8191887447688bc2ddc70310f2e579ca",
           "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
@@ -131,6 +151,16 @@
           "author": "陈世琛",
           "contentSnippet": "Rimac 已经拿到了大结果。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "Rimac 已经拿到了大结果。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "ce9c12cc69a8a68d71188a99670c355c2fd1d6f5",
+          "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+          "link": "https://www.ifanr.com/1690103?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T02:39:15.000Z",
+          "author": "山宗",
+          "contentSnippet": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
         },
         {
@@ -282,43 +312,13 @@
           "contentSnippet": "辞职三天，想回来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "辞职三天，想回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "4d9b3b3cfdb306033234be7dc85abb085c067f5c",
-          "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
-          "link": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T00:56:45.000Z",
-          "author": "山宗",
-          "contentSnippet": "黄仁勋的故事还没有结束\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "黄仁勋的故事还没有结束<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "a3403219f60b349fc42d97dae6c370687480bbfa",
-          "title": "早报｜黄仁勋考虑重返英伟达担任CEO/曝苹果智能眼镜明年6月发布/微软全球大宕机结束，持续超30小时",
-          "link": "https://www.ifanr.com/1689521?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-15T23:55:30.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 余承东：华为大折叠已成千万人主力机\r\n· 苹果 HomeView 发售，首批实测遇到语音和账户切换问题\r\n· 微软服务故障持续超 30 小时，官方宣布恢复\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 余承东：华为大折叠已成千万人主力机\r\n· 苹果 HomeView 发售，首批实测遇到语音和账户切换问题\r\n· 微软服务故障持续超 30 小时，官方宣布恢复<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "e00a16a6bf3cce92528c1f369aaa35c5b9d3b3b8",
-          "title": "六年磨一「球」，好听、好看、好贵｜HomePod mini 2 体验",
-          "link": "https://www.ifanr.com/1689473?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-15T10:00:17.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "小身材，大嗓门\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "小身材，大嗓门<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-18T04:15:52.356Z",
+      "fetchedAt": "2026-11-18T13:05:51.500Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
