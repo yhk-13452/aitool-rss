@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-18T21:24:42.141Z",
+  "generatedAt": "2026-11-19T03:22:28.603Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-18T21:24:42.037Z",
+      "fetchedAt": "2026-11-19T03:22:28.313Z",
       "items": [
+        {
+          "id": "4c4252f6e80f261a10a1eb2b63d630a08a9cb2be",
+          "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+          "link": "https://sspai.com/post/119239",
+          "pubDate": "2026-11-19T00:29:30.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。查看全文",
+          "content": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。<a href=\"https://sspai.com/post/119239\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "0d5647ba57feb748a5b266d5aaece07b785284ba",
           "title": "10 月音乐精选：音乐丰收季，必听这 7 张新专辑",
@@ -95,24 +105,44 @@
           "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
           "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119148\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "2a6099ad31bbbdd7a347556c98d40a9b2512ca90",
-          "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
-          "link": "https://sspai.com/post/118100",
-          "pubDate": "2026-11-16T07:37:51.000Z",
-          "author": "化学心情下2",
-          "contentSnippet": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文",
-          "content": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...<a href=\"https://sspai.com/post/118100\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-18T21:24:42.141Z",
+      "fetchedAt": "2026-11-19T03:22:28.603Z",
       "items": [
+        {
+          "id": "da888f1e5dabcc4cf16be8c8459fcccc68d7db19",
+          "title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
+          "link": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-19T02:59:25.000Z",
+          "author": "山宗",
+          "contentSnippet": "英伟达何去何从\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "英伟达何去何从<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "bfbe512d3dd644082403041ce9316b77a87f3e75",
+          "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
+          "link": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-19T00:36:04.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本\r\n· 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪\r\n· 英特尔再裁全球 IT 员工，继续推进组织精简\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本\r\n· 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪\r\n· 英特尔再裁全球 IT 员工，继续推进组织精简<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "09c93f71a1773811eb06f086fb4c95a2f8b53347",
+          "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
+          "link": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T23:56:47.000Z",
+          "author": "山宗",
+          "contentSnippet": "性能更强，还更便宜\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "性能更强，还更便宜<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "ebebfc114bc5e8fc2d6fe6a9a9c3f051f73e193a",
           "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
@@ -282,43 +312,13 @@
           "contentSnippet": "别让营销高于安全。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "别让营销高于安全。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "ce9b13c1feffd7f03f9e72881f7733663f305e07",
-          "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
-          "link": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T09:53:01.000Z",
-          "author": "张子豪",
-          "contentSnippet": "比 DeepSeek V4.1 Flash 性价比更高\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "比 DeepSeek V4.1 Flash 性价比更高<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "6b9603ecb7bd8c3914f320bd0f91f04ee8c1f3d6",
-          "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
-          "link": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T08:37:10.000Z",
-          "author": "制糖工厂",
-          "contentSnippet": "硬糖边边线，今日上线。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "硬糖边边线，今日上线。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "b355c40e789dd15eb9add36de4054e4a5e1fc21c",
-          "title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
-          "link": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T08:24:59.000Z",
-          "author": "山宗",
-          "contentSnippet": "真正认真对待软件的人，应该自己去制造硬件。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "真正认真对待软件的人，应该自己去制造硬件。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-18T21:24:41.130Z",
+      "fetchedAt": "2026-11-19T03:22:27.251Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
