@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-19T12:58:51.997Z",
+  "generatedAt": "2026-11-19T21:29:12.078Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-19T12:58:51.867Z",
+      "fetchedAt": "2026-11-19T21:29:11.591Z",
       "items": [
         {
           "id": "a30cefc1e3e6ed9f5ede9a59a60d461f123d128b",
@@ -111,8 +111,38 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-19T12:58:51.996Z",
+      "fetchedAt": "2026-11-19T21:29:12.078Z",
       "items": [
+        {
+          "id": "4f91548e35456988230149db948994278603af68",
+          "title": "比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！",
+          "link": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-19T15:01:13.000Z",
+          "author": "李华",
+          "contentSnippet": "推翻百年来的空间格局。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "推翻百年来的空间格局。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "5477d5c7783ab5f1413ea5d409a1043c3377433d",
+          "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+          "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-19T14:58:57.000Z",
+          "author": "张子豪",
+          "contentSnippet": "例如，为什么就你 A 社封号这么严格\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "例如，为什么就你 A 社封号这么严格<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "28251746fb77ead4c08f59cecc39bd24ceed7e66",
+          "title": "今年是阔屏的元年，阔屏是手机的今后十年",
+          "link": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-19T13:00:02.000Z",
+          "author": "彭海星",
+          "contentSnippet": "新中产、新比例、新潮流\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "新中产、新比例、新潮流<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "da888f1e5dabcc4cf16be8c8459fcccc68d7db19",
           "title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
@@ -282,43 +312,13 @@
           "contentSnippet": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元\r\n· 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用\r\n· 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元\r\n· 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用\r\n· 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "09eb98f8c1d990bbf806a1732c5e681f8a8d1e48",
-          "title": "影石这张「魔法相纸」，怎么治好了我的相册吃灰症？",
-          "link": "https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T12:00:01.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "纸面上流转的不再是魔法世界的头条新闻，而是我们生活里那些真正值得举杯的闪光时刻。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "纸面上流转的不再是魔法世界的头条新闻，而是我们生活里那些真正值得举杯的闪光时刻。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "4bc91d0c18574f0f4603c98fb20007cce3cdf53f",
-          "title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
-          "link": "https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T10:53:45.000Z",
-          "author": "方俊鸣",
-          "contentSnippet": "这不会是苹果真正想带给这个时代的答案\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "这不会是苹果真正想带给这个时代的答案<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "7a4ca692b24faed7b88d948182329249037f8332",
-          "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
-          "link": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-16T10:27:22.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "别让营销高于安全。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "别让营销高于安全。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-19T12:58:51.299Z",
+      "fetchedAt": "2026-11-19T21:29:10.677Z",
       "items": [
         {
           "id": "1c8a75846b8a6693b53298ef7a349bff5b961346",
