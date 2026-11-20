@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-20T03:09:35.125Z",
+  "generatedAt": "2026-11-20T11:30:22.005Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-20T03:09:35.125Z",
+      "fetchedAt": "2026-11-20T11:30:21.961Z",
       "items": [
+        {
+          "id": "bddd142045bb6715e6cb0bacf02b5dd6875bb79b",
+          "title": "本周看什么 | 最近值得一看的 10 部作品",
+          "link": "https://sspai.com/post/119337",
+          "pubDate": "2026-11-20T09:54:01.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文",
+          "content": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "c2b8311dd119669c55c7ac1528fa491c568fa45c",
+          "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+          "link": "https://sspai.com/post/119327",
+          "pubDate": "2026-11-20T07:34:26.000Z",
+          "author": "篝火营地",
+          "contentSnippet": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文",
+          "content": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...<a href=\"https://sspai.com/post/119327\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "6fcf1a0b13dc9fb21c26c7ff4631b017ebc72b7d",
+          "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+          "link": "https://sspai.com/post/118879",
+          "pubDate": "2026-11-20T02:47:52.000Z",
+          "author": "Nezuko",
+          "contentSnippet": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文",
+          "content": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。<a href=\"https://sspai.com/post/118879\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "32dbb6202d7204444da8acb93e4315bc7b807715",
           "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
@@ -75,44 +105,54 @@
           "contentSnippet": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
           "content": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...<a href=\"https://sspai.com/post/118985\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "ec58482db1f3a1803706594009606892c44efc45",
-          "title": "App+1｜NodLink：AirPods 变鼠标，动动脑就能操作电脑",
-          "link": "https://sspai.com/post/118732",
-          "pubDate": "2026-11-18T06:54:30.000Z",
-          "author": "Uinui",
-          "contentSnippet": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。查看全文",
-          "content": "转头移动光标，歪头点击，开口说指令。不用摄像头，也不用另外戴什么设备。<a href=\"https://sspai.com/post/118732\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "d5a9df89c421eaebcc3efc8f3e22a4fe2d1b9266",
-          "title": "跟着老板自驾去海南是种什么体验？明日公园 vlog 回顾",
-          "link": "https://sspai.com/post/119193",
-          "pubDate": "2026-11-18T03:00:00.000Z",
-          "author": "小小陀螺",
-          "contentSnippet": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……查看全文",
-          "content": "从深圳一路开车到广东最南端的徐闻，再和车分别乘坐渡轮，穿过地理课本里的琼州海峡。终于抵达海南后，老板却告诉我们这趟旅程真正的目的地，竟然是……<a href=\"https://sspai.com/post/119193\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "05e5333405db96205629b330c012661f67cfbd0d",
-          "title": "兼顾随身阅读与自主开发的 4.7 英寸墨水屏设备：小纸 Pico 现货上架少数派",
-          "link": "https://sspai.com/post/118975",
-          "pubDate": "2026-11-18T02:30:00.000Z",
-          "author": "什么陈",
-          "contentSnippet": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。查看全文",
-          "content": "想找一台可以随身带着读书的墨水屏设备，也想自己改改界面、不被系统「绑架」？近期思维重置团队上架的小纸 Pico 墨水屏开发板是一个值得留意的选择。<a href=\"https://sspai.com/post/118975\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-20T03:09:35.061Z",
+      "fetchedAt": "2026-11-20T11:30:22.005Z",
       "items": [
+        {
+          "id": "c3bab09eb8f4129f31bd446341fdab1f2c4780ca",
+          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+          "link": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-20T10:39:47.000Z",
+          "author": "李华",
+          "contentSnippet": "最好的智驾芯片，是让你彻底忘掉它。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "最好的智驾芯片，是让你彻底忘掉它。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "0507062b7412d7c24c654cab16a5d5192df38555",
+          "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+          "link": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-20T09:17:05.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "在手机里打开了一个关于 AI 的「平行宇宙」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "在手机里打开了一个关于 AI 的「平行宇宙」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "989b3c25d16d9c9b5618edcccf1c8af048d5d776",
+          "title": "给 Gemini 道歉，请自觉排队",
+          "link": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-20T09:03:13.000Z",
+          "author": "张子豪",
+          "contentSnippet": "Gemini 4 真的越来越好用了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "Gemini 4 真的越来越好用了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "4d22aa1f557a729f5d80b106f415d09b06b49e1a",
+          "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
+          "link": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-20T04:00:17.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "触屏不是她的全部\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "触屏不是她的全部<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "f9c56e986e8b3a4ab99310de1028cf241a515951",
           "title": "AI Agent 元年，苹果是最后一个入局的巨头",
@@ -204,6 +244,16 @@
           "image": ""
         },
         {
+          "id": "88a06ea827de1732ded0348626fdfb773effa19e",
+          "title": "奔驰新 E 级车机上手！响应速度超越新势力，唯独少了点「奔驰味」",
+          "link": "https://www.ifanr.com/1690546?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-18T14:30:52.000Z",
+          "author": "李华",
+          "contentSnippet": "对比奔驰过往的产品，无疑是一次大跨越。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "对比奔驰过往的产品，无疑是一次大跨越。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
           "id": "026b5dceb161a56910e5a7ca626996b247dd2e2b",
           "title": "这届高校学生，为何选择用鸿蒙创新？",
           "link": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -262,63 +312,13 @@
           "contentSnippet": "出走容易，回归难\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "出走容易，回归难<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "bd2fb702d580e60685ffbc58efa179b0785fc3b1",
-          "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
-          "link": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T00:32:49.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110%\r\n· TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏\r\n· macOS 27.3 收紧 App 文件访问权限\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110%\r\n· TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏\r\n· macOS 27.3 收紧 App 文件访问权限<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "0d9775f445c35088666670a02d076777d34b4b9a",
-          "title": "Mac 收紧权限，苹果开始防着 AI 了",
-          "link": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-17T10:00:27.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "AI 越自由，人越麻烦\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 越自由，人越麻烦<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "0e8f583b7924ae450b837101e05df24b101ceef3",
-          "title": "DeepSeek 不限额的用法，都在这里了 |  附指南",
-          "link": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-17T08:51:24.000Z",
-          "author": "张子豪",
-          "contentSnippet": "花钱接 API，导入历史记录\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "花钱接 API，导入历史记录<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "e95c4abceb93dae0efd3a0de802f2e4d91bca58f",
-          "title": "除了人脸解锁，iPhone Duo 2 还值得哪些升级？",
-          "link": "https://www.ifanr.com/1690009?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-17T04:00:26.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "那我缺的实体 SIM 卡这一块谁给我补啊\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "那我缺的实体 SIM 卡这一块谁给我补啊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "07d68d5961747cce19247e9edf30e2addb0468df",
-          "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
-          "link": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-17T03:22:08.000Z",
-          "author": "李华",
-          "contentSnippet": "一人犯错，全员受罚。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "一人犯错，全员受罚。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-20T03:09:34.155Z",
+      "fetchedAt": "2026-11-20T11:30:20.618Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
