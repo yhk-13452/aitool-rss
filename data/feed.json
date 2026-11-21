@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-20T20:10:23.222Z",
+  "generatedAt": "2026-11-21T01:29:04.843Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-20T20:10:23.222Z",
+      "fetchedAt": "2026-11-21T01:29:04.652Z",
       "items": [
         {
           "id": "bddd142045bb6715e6cb0bacf02b5dd6875bb79b",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-20T20:10:14.849Z",
+      "fetchedAt": "2026-11-21T01:29:04.842Z",
       "items": [
+        {
+          "id": "8a9821148f803a50403c65b20338b7a2d756d08e",
+          "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+          "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-21T00:25:08.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 三星任命手机和存储业务新负责人\r\n· 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro\r\n· ColorOS 17 上线跨品牌一碰传\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 三星任命手机和存储业务新负责人\r\n· 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro\r\n· ColorOS 17 上线跨品牌一碰传<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "c3bab09eb8f4129f31bd446341fdab1f2c4780ca",
           "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
@@ -302,23 +312,13 @@
           "contentSnippet": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "最聪明的模型，未必是最好用的模型；最好用的模型，也未必需要证明自己最聪明。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "17dcea3ed1de9a4a5ad5aa98060758bfba5b78f4",
-          "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
-          "link": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T00:39:56.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "出走容易，回归难\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "出走容易，回归难<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-20T20:10:13.968Z",
+      "fetchedAt": "2026-11-21T01:29:03.906Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
