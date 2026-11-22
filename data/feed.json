@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-21T23:11:32.110Z",
+  "generatedAt": "2026-11-22T03:07:52.597Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-21T23:11:31.962Z",
+      "fetchedAt": "2026-11-22T03:07:52.507Z",
       "items": [
+        {
+          "id": "4f8b996126a594cb2afec251f97d44b4ae553734",
+          "title": "从深圳到上海，少数派的共创故事还在继续",
+          "link": "https://sspai.com/post/119318",
+          "pubDate": "2026-11-22T01:05:44.000Z",
+          "author": "侧脸君",
+          "contentSnippet": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文",
+          "content": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...<a href=\"https://sspai.com/post/119318\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "4f619429a980a2f78017f0b94f49cd8beb0eb4e4",
           "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
@@ -95,24 +105,34 @@
           "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/119039\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "4c4252f6e80f261a10a1eb2b63d630a08a9cb2be",
-          "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
-          "link": "https://sspai.com/post/119239",
-          "pubDate": "2026-11-19T00:29:30.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。查看全文",
-          "content": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。<a href=\"https://sspai.com/post/119239\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-21T23:11:32.110Z",
+      "fetchedAt": "2026-11-22T03:07:52.596Z",
       "items": [
+        {
+          "id": "92750f33a13c31972e72235ea2b2e3854c34b8e3",
+          "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+          "link": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-22T01:35:14.000Z",
+          "author": "山宗",
+          "contentSnippet": "AI 恐怖如斯\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "AI 恐怖如斯<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "6bd3fc467bf42a2ee532500fc81fac9af553bbd9",
+          "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
+          "link": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-22T01:34:09.000Z",
+          "author": "彭海星",
+          "contentSnippet": "我都遵纪守法了，还能叫 GTA 吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "我都遵纪守法了，还能叫 GTA 吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "dff1faace97dd7d1056a736ad14f9d5d349102e1",
           "title": "美股一夜崩盘，AI 泡沫真要破了？",
@@ -292,33 +312,13 @@
           "contentSnippet": "有想法就是入场券。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "有想法就是入场券。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "9f741fb8a87b45cab138803f040b226e6304b3f9",
-          "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
-          "link": "https://www.ifanr.com/1690130?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T10:01:23.000Z",
-          "author": "张子豪",
-          "contentSnippet": "希望国模也快快跟上啊\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "希望国模也快快跟上啊<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "c34aa61e8191887447688bc2ddc70310f2e579ca",
-          "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
-          "link": "https://www.ifanr.com/1690033?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T04:00:43.000Z",
-          "author": "山宗",
-          "contentSnippet": "从 AI 出片，走向 AI 交片\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "从 AI 出片，走向 AI 交片<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-21T23:11:30.695Z",
+      "fetchedAt": "2026-11-22T03:07:51.645Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
