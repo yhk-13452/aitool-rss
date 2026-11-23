@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-23T07:45:11.865Z",
+  "generatedAt": "2026-11-23T20:10:30.410Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-23T07:45:11.736Z",
+      "fetchedAt": "2026-11-23T20:10:29.998Z",
       "items": [
+        {
+          "id": "06ad2306244bebc176689f6c39d7f12670985bd7",
+          "title": "派评 | 近期值得关注的 App",
+          "link": "https://sspai.com/post/119438",
+          "pubDate": "2026-11-23T10:08:29.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
+          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119438\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "6613ce1634bd6d6e6c639bcb36af56055000deff",
+          "title": "怪手机们要回来了吗？",
+          "link": "https://sspai.com/prime/story/weird-phones-are-returning",
+          "pubDate": "2026-11-23T10:00:30.000Z",
+          "author": "北鸮",
+          "contentSnippet": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
+          "content": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...<a href=\"https://sspai.com/prime/story/weird-phones-are-returning\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
+          "image": ""
+        },
+        {
+          "id": "24bcd9ac743e0ff9c44636f93016c7ccb306519f",
+          "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+          "link": "https://sspai.com/post/119023",
+          "pubDate": "2026-11-23T07:12:24.000Z",
+          "author": "ElijahLee",
+          "contentSnippet": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...查看全文",
+          "content": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...<a href=\"https://sspai.com/post/119023\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "2761aac0eda27d0b0b900d5f5b21684525e77c8d",
           "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
@@ -75,44 +105,64 @@
           "contentSnippet": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文",
           "content": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。<a href=\"https://sspai.com/post/118879\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "32dbb6202d7204444da8acb93e4315bc7b807715",
-          "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
-          "link": "https://sspai.com/post/119311",
-          "pubDate": "2026-11-20T00:34:31.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文",
-          "content": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。<a href=\"https://sspai.com/post/119311\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "a30cefc1e3e6ed9f5ede9a59a60d461f123d128b",
-          "title": "给 Apple 的 2026 年打分，请你一起参与",
-          "link": "https://sspai.com/post/119191",
-          "pubDate": "2026-11-19T10:25:05.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...查看全文",
-          "content": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...<a href=\"https://sspai.com/post/119191\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "e9c5e664cb2c6f88568e31eaa90f5f5c58f61829",
-          "title": "新玩意 256｜少数派的编辑们最近买了啥？",
-          "link": "https://sspai.com/post/119287",
-          "pubDate": "2026-11-19T09:16:00.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
-          "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/119287\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-23T07:45:11.864Z",
+      "fetchedAt": "2026-11-23T20:10:30.410Z",
       "items": [
+        {
+          "id": "ac4761874f75137ec301478c81f8957d716c9bf8",
+          "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
+          "link": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T14:50:12.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "皮衣战神回宫\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "皮衣战神回宫<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "58aac541b68be12a7c23e1e71af3f3c117dc7dff",
+          "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
+          "link": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T14:30:00.000Z",
+          "author": "山宗",
+          "contentSnippet": "黄仁勋回来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "黄仁勋回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "17b5a5092e9c50277fea00be0cfa791eae94cd76",
+          "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
+          "link": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T09:53:48.000Z",
+          "author": "姚桐",
+          "contentSnippet": "日本开始狂用 AI 了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "日本开始狂用 AI 了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "b56b2470497e136c9d5cfe05453fcd819abf0667",
+          "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
+          "link": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T08:55:14.000Z",
+          "author": "山宗",
+          "contentSnippet": "具身智能的「大结果」终于有了实感\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "具身智能的「大结果」终于有了实感<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "d750adaa62b94839f6541629e59bb7cb8e5d1a2d",
+          "title": "33.99 万起买 400V 与 8 秒零百前驱车，纯电雷克萨斯 ES 贵过头了",
+          "link": "https://www.ifanr.com/1691012?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T08:17:31.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "400V 撑不起 40 万元。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "400V 撑不起 40 万元。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "391380bfb4f5ff952378ac4bab1e0539ce593722",
           "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
@@ -224,6 +274,16 @@
           "image": ""
         },
         {
+          "id": "ee5c9f92f07af75f3ca607cff2b2d7bf1f248587",
+          "title": "31.98 万元起！享界 V8 上市，比智界 V9 低 7 万还多了纯电版",
+          "link": "https://www.ifanr.com/1691027?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-20T10:19:56.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "鸿蒙智行的第四款 MPV 来了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "鸿蒙智行的第四款 MPV 来了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
           "id": "0507062b7412d7c24c654cab16a5d5192df38555",
           "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
           "link": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -252,73 +312,13 @@
           "contentSnippet": "触屏不是她的全部\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "触屏不是她的全部<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "f9c56e986e8b3a4ab99310de1028cf241a515951",
-          "title": "AI Agent 元年，苹果是最后一个入局的巨头",
-          "link": "https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-20T01:17:16.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "苹果急了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "苹果急了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "da907b39ace25424bd1f6b8f98b735b523118a96",
-          "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
-          "link": "https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-20T00:29:44.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时\r\n· 网易 UU 远程将上线付费会员，基础远控继续免费\r\n· 腾讯大幅削减元宝投入，微信小微日活达 3000 万\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时\r\n· 网易 UU 远程将上线付费会员，基础远控继续免费\r\n· 腾讯大幅削减元宝投入，微信小微日活达 3000 万<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "4f91548e35456988230149db948994278603af68",
-          "title": "比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！",
-          "link": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-19T15:01:13.000Z",
-          "author": "李华",
-          "contentSnippet": "推翻百年来的空间格局。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "推翻百年来的空间格局。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "5477d5c7783ab5f1413ea5d409a1043c3377433d",
-          "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
-          "link": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-19T14:58:57.000Z",
-          "author": "张子豪",
-          "contentSnippet": "例如，为什么就你 A 社封号这么严格\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "例如，为什么就你 A 社封号这么严格<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "28251746fb77ead4c08f59cecc39bd24ceed7e66",
-          "title": "今年是阔屏的元年，阔屏是手机的今后十年",
-          "link": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-19T13:00:02.000Z",
-          "author": "彭海星",
-          "contentSnippet": "新中产、新比例、新潮流\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "新中产、新比例、新潮流<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "da888f1e5dabcc4cf16be8c8459fcccc68d7db19",
-          "title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
-          "link": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-19T02:59:25.000Z",
-          "author": "山宗",
-          "contentSnippet": "英伟达何去何从\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "英伟达何去何从<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-23T07:45:10.697Z",
+      "fetchedAt": "2026-11-23T20:10:29.278Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
