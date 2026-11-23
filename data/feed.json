@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-22T18:32:31.795Z",
+  "generatedAt": "2026-11-23T00:17:01.617Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-22T18:32:31.740Z",
+      "fetchedAt": "2026-11-23T00:17:01.304Z",
       "items": [
         {
           "id": "4f8b996126a594cb2afec251f97d44b4ae553734",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-22T18:32:31.794Z",
+      "fetchedAt": "2026-11-23T00:17:01.617Z",
       "items": [
+        {
+          "id": "7bf97bb5ef6df1033253e75ff42692634de10703",
+          "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+          "link": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-22T22:19:08.000Z",
+          "author": "彭海星",
+          "contentSnippet": "更多的新品，也不能消除苹果的 AI 焦虑\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "更多的新品，也不能消除苹果的 AI 焦虑<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "92750f33a13c31972e72235ea2b2e3854c34b8e3",
           "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
@@ -302,23 +312,13 @@
           "contentSnippet": "对比奔驰过往的产品，无疑是一次大跨越。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "对比奔驰过往的产品，无疑是一次大跨越。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "026b5dceb161a56910e5a7ca626996b247dd2e2b",
-          "title": "这届高校学生，为何选择用鸿蒙创新？",
-          "link": "https://www.ifanr.com/1690168?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T10:45:36.000Z",
-          "author": "爱范儿",
-          "contentSnippet": "有想法就是入场券。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "有想法就是入场券。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-22T18:32:30.911Z",
+      "fetchedAt": "2026-11-23T00:17:00.624Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
