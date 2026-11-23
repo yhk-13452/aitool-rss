@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-23T00:17:01.617Z",
+  "generatedAt": "2026-11-23T07:45:11.865Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-23T00:17:01.304Z",
+      "fetchedAt": "2026-11-23T07:45:11.736Z",
       "items": [
+        {
+          "id": "2761aac0eda27d0b0b900d5f5b21684525e77c8d",
+          "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+          "link": "https://sspai.com/post/118705",
+          "pubDate": "2026-11-23T06:00:53.000Z",
+          "author": "化学心情下2",
+          "contentSnippet": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。查看全文",
+          "content": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。<a href=\"https://sspai.com/post/118705\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "74f5d6da81c1379c550ea3ae45da0bf4c4fa02e3",
+          "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+          "link": "https://sspai.com/post/119418",
+          "pubDate": "2026-11-22T23:34:27.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "Anthropic 研究员宣称用 Claude 证明黎曼猜想\nOpenAI 公布反蒸馏举措\n黄仁勋据称将攻击下属作为管理方式\nGTA 6 首日销售额近 40 亿美元\n特斯拉升级 FSD，推出实景渲染功能\nAMD 股票被做空\n看看就行的简讯\n少数派的近期动态\n你可能错过的好文章\n查看全文",
+          "content": "<p>Anthropic 研究员宣称用 Claude 证明黎曼猜想</p><p>OpenAI 公布反蒸馏举措</p><p>黄仁勋据称将攻击下属作为管理方式</p><p>GTA 6 首日销售额近 40 亿美元</p><p>特斯拉升级 FSD，推出实景渲染功能</p><p>AMD 股票被做空</p><p>看看就行的简讯</p><p>少数派的近期动态</p><p>你可能错过的好文章</p><a href=\"https://sspai.com/post/119418\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "4f8b996126a594cb2afec251f97d44b4ae553734",
           "title": "从深圳到上海，少数派的共创故事还在继续",
@@ -85,34 +105,54 @@
           "contentSnippet": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文",
           "content": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...<a href=\"https://sspai.com/post/119287\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "46023def8c116b4ac09fc02c500f676077fedb9a",
-          "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
-          "link": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
-          "pubDate": "2026-11-19T07:34:11.000Z",
-          "author": "广陵止息",
-          "contentSnippet": "[......]\n查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "content": "<p>[......]</p><a href=\"https://sspai.com/prime/story/system-app-protection-override-macos-27-3\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-          "image": ""
-        },
-        {
-          "id": "673a0004d679b424c069a46dfc9e344fe8f5da32",
-          "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
-          "link": "https://sspai.com/post/119039",
-          "pubDate": "2026-11-19T02:58:08.000Z",
-          "author": "PJHubs",
-          "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-          "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/119039\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-23T00:17:01.617Z",
+      "fetchedAt": "2026-11-23T07:45:11.864Z",
       "items": [
+        {
+          "id": "391380bfb4f5ff952378ac4bab1e0539ce593722",
+          "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
+          "link": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T06:07:33.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "cdbf344a6958c9122bc5761dc340a46476337602",
+          "title": "XREAL AURA 体验：科幻电影的未来，这么近那么远",
+          "link": "https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T04:00:32.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "未来可期\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "未来可期<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "50849e5485c7db187438ca050caacd94b7c9515c",
+          "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+          "link": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T00:57:34.000Z",
+          "author": "马扶摇",
+          "contentSnippet": "面向 AI，面向世界，面向未来\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "面向 AI，面向世界，面向未来<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "86d9efa5b54752bb95931b0ed637b28aa49eac1d",
+          "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+          "link": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-23T00:25:24.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 曝小米汽车欧洲团队再添一名前小鹏高管\r\n· 神舟二十四号完成发射前最后一次全区合练\r\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 曝小米汽车欧洲团队再添一名前小鹏高管\r\n· 神舟二十四号完成发射前最后一次全区合练\r\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "7bf97bb5ef6df1033253e75ff42692634de10703",
           "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
@@ -272,53 +312,13 @@
           "contentSnippet": "英伟达何去何从\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "英伟达何去何从<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "bfbe512d3dd644082403041ce9316b77a87f3e75",
-          "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
-          "link": "https://www.ifanr.com/1690255?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-19T00:36:04.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本\r\n· 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪\r\n· 英特尔再裁全球 IT 员工，继续推进组织精简\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本\r\n· 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪\r\n· 英特尔再裁全球 IT 员工，继续推进组织精简<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "09c93f71a1773811eb06f086fb4c95a2f8b53347",
-          "title": "刚刚，Gemini 4 Neon 突袭发布，性价比一夜斩杀 Opus 5.5",
-          "link": "https://www.ifanr.com/1690235?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T23:56:47.000Z",
-          "author": "山宗",
-          "contentSnippet": "性能更强，还更便宜\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "性能更强，还更便宜<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "ebebfc114bc5e8fc2d6fe6a9a9c3f051f73e193a",
-          "title": "《GTA VI》首发体验：过去十年最好的游戏，也可能是未来十年最好的游戏",
-          "link": "https://www.ifanr.com/1690188?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T17:16:31.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "欢迎回到罪城\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "欢迎回到罪城<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "88a06ea827de1732ded0348626fdfb773effa19e",
-          "title": "奔驰新 E 级车机上手！响应速度超越新势力，唯独少了点「奔驰味」",
-          "link": "https://www.ifanr.com/1690546?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-18T14:30:52.000Z",
-          "author": "李华",
-          "contentSnippet": "对比奔驰过往的产品，无疑是一次大跨越。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "对比奔驰过往的产品，无疑是一次大跨越。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-23T00:17:00.624Z",
+      "fetchedAt": "2026-11-23T07:45:10.697Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
