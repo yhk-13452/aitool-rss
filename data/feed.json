@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-23T20:10:30.410Z",
+  "generatedAt": "2026-11-24T04:45:51.212Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-23T20:10:29.998Z",
+      "fetchedAt": "2026-11-24T04:45:51.211Z",
       "items": [
+        {
+          "id": "00758af3808ec06a00edeb81ec8611422026d773",
+          "title": "写在动荡之后：漫步巴黎的寻常一日",
+          "link": "https://sspai.com/post/119412",
+          "pubDate": "2026-11-24T03:03:10.000Z",
+          "author": "中天与大瓶子",
+          "contentSnippet": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」查看全文",
+          "content": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=\"https://sspai.com/post/119412\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "77e3ca4f9b18fa4b76ba2b42472b5bf57e3ce39a",
+          "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
+          "link": "https://sspai.com/post/119460",
+          "pubDate": "2026-11-24T00:37:31.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
+          "content": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119460\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "06ad2306244bebc176689f6c39d7f12670985bd7",
           "title": "派评 | 近期值得关注的 App",
@@ -85,34 +105,34 @@
           "contentSnippet": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文",
           "content": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "c2b8311dd119669c55c7ac1528fa491c568fa45c",
-          "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
-          "link": "https://sspai.com/post/119327",
-          "pubDate": "2026-11-20T07:34:26.000Z",
-          "author": "篝火营地",
-          "contentSnippet": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文",
-          "content": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...<a href=\"https://sspai.com/post/119327\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "6fcf1a0b13dc9fb21c26c7ff4631b017ebc72b7d",
-          "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
-          "link": "https://sspai.com/post/118879",
-          "pubDate": "2026-11-20T02:47:52.000Z",
-          "author": "Nezuko",
-          "contentSnippet": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文",
-          "content": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。<a href=\"https://sspai.com/post/118879\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-23T20:10:30.410Z",
+      "fetchedAt": "2026-11-24T04:45:50.481Z",
       "items": [
+        {
+          "id": "677774d30428d5a7f762fa38aef25e1b52138942",
+          "title": "刚刚，Claude 黎曼猜想证明的主导者回应一切",
+          "link": "https://www.ifanr.com/1691152?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T02:10:19.000Z",
+          "author": "山宗",
+          "contentSnippet": "这玩笑并不好笑\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "这玩笑并不好笑<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "4555efd463f54e4d8666c8f290d158b2ab5d2989",
+          "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+          "link": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T00:02:01.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒\r\n· 韩国国家资格考试恢复统一收手机，考生还穿上了围裙\r\n· 知乎参投基金间接入股 DeepSeek\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒\r\n· 韩国国家资格考试恢复统一收手机，考生还穿上了围裙\r\n· 知乎参投基金间接入股 DeepSeek<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "ac4761874f75137ec301478c81f8957d716c9bf8",
           "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
@@ -292,33 +312,13 @@
           "contentSnippet": "在手机里打开了一个关于 AI 的「平行宇宙」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "在手机里打开了一个关于 AI 的「平行宇宙」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "989b3c25d16d9c9b5618edcccf1c8af048d5d776",
-          "title": "给 Gemini 道歉，请自觉排队",
-          "link": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-20T09:03:13.000Z",
-          "author": "张子豪",
-          "contentSnippet": "Gemini 4 真的越来越好用了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "Gemini 4 真的越来越好用了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "4d22aa1f557a729f5d80b106f415d09b06b49e1a",
-          "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
-          "link": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-20T04:00:17.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "触屏不是她的全部\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "触屏不是她的全部<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-23T20:10:29.278Z",
+      "fetchedAt": "2026-11-24T04:45:50.269Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
