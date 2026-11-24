@@ -1,11 +1,31 @@
 {
-  "generatedAt": "2026-11-24T04:45:51.212Z",
+  "generatedAt": "2026-11-24T15:50:37.590Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-24T04:45:51.211Z",
+      "fetchedAt": "2026-11-24T15:50:37.536Z",
       "items": [
+        {
+          "id": "54903465b6bef073aff666bb2ee6ab12557e64d0",
+          "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
+          "link": "https://sspai.com/post/119492",
+          "pubDate": "2026-11-24T09:14:11.000Z",
+          "author": "Matrix机器人",
+          "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119492\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "213881a77179d680cef63e419dbe19e176a3bd8f",
+          "title": "[限时特惠] 从构思到完稿，让长文写作更有条理：妙笔",
+          "link": "https://sspai.com/post/119035",
+          "pubDate": "2026-11-24T07:38:42.000Z",
+          "author": "Vanilla",
+          "contentSnippet": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...查看全文",
+          "content": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=\"https://sspai.com/post/119035\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "00758af3808ec06a00edeb81ec8611422026d773",
           "title": "写在动荡之后：漫步巴黎的寻常一日",
@@ -85,34 +105,74 @@
           "contentSnippet": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文",
           "content": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...<a href=\"https://sspai.com/post/119318\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "4f619429a980a2f78017f0b94f49cd8beb0eb4e4",
-          "title": "这群在鸿蒙写应用的年轻人，只想做点「用得上」的",
-          "link": "https://sspai.com/post/119291",
-          "pubDate": "2026-11-21T04:00:00.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...查看全文",
-          "content": "上周末，今年正式被列入「全国普通高校学科竞赛排行榜」的2026鸿蒙高校创新赛在南京大学迎来全国总决赛颁奖典礼。华为董事、终端BGCEO何刚出席现场致辞并为获奖选手颁奖。他在现场表示，HarmonyOS ...<a href=\"https://sspai.com/post/119291\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "bddd142045bb6715e6cb0bacf02b5dd6875bb79b",
-          "title": "本周看什么 | 最近值得一看的 10 部作品",
-          "link": "https://sspai.com/post/119337",
-          "pubDate": "2026-11-20T09:54:01.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文",
-          "content": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...<a href=\"https://sspai.com/post/119337\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-24T04:45:50.481Z",
+      "fetchedAt": "2026-11-24T15:50:37.589Z",
       "items": [
+        {
+          "id": "d3a874298763b4993c29bcbab783917a19778014",
+          "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
+          "link": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T13:36:06.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "十年之后，比亚迪唐终于卸下了第三排的担子。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "十年之后，比亚迪唐终于卸下了第三排的担子。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "10fe40d6402403205666f97aa0741c4f86d33108",
+          "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
+          "link": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T11:04:40.000Z",
+          "author": "山宗",
+          "contentSnippet": "Personal Agent 的下半场，拼的是主动办事\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "Personal Agent 的下半场，拼的是主动办事<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "3a16148773347f905bb67017dad11acf2933b94e",
+          "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
+          "link": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T10:30:04.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "一亿台鸿蒙设备之后\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "一亿台鸿蒙设备之后<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "8bee6ff834c4e48c057aceec9d53d33c9c4ca3bf",
+          "title": "在一个长期相信考试可以改变命运的社会里，AI 已经开始动摇人们对成绩的信任",
+          "link": "https://www.ifanr.com/1691270?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T09:09:14.000Z",
+          "author": "姚桐",
+          "contentSnippet": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "AI 带来的技术平权，甚至把作弊的门槛也一并打了下来<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "4c42ff0a574e0073f4ea67fc3c3034c8e2c5a863",
+          "title": "「试用期」已到，苹果开始给 AI 收费了 | AG&I",
+          "link": "https://www.ifanr.com/1691186?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T05:55:23.000Z",
+          "author": "方俊鸣",
+          "contentSnippet": "两年之期已到\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "两年之期已到<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "8ac5a3288544ecabf75f334fd52f79d6d2ba5105",
+          "title": "iPhone 相机掌门人退休：他把「果味」做成标杆，也制造了争议",
+          "link": "https://www.ifanr.com/1691162?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-24T05:40:49.000Z",
+          "author": "方俊鸣",
+          "contentSnippet": "「果味」影像，迎来新的变量\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "「果味」影像，迎来新的变量<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "677774d30428d5a7f762fa38aef25e1b52138942",
           "title": "刚刚，Claude 黎曼猜想证明的主导者回应一切",
@@ -252,73 +312,13 @@
           "contentSnippet": "我都遵纪守法了，还能叫 GTA 吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "我都遵纪守法了，还能叫 GTA 吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "dff1faace97dd7d1056a736ad14f9d5d349102e1",
-          "title": "美股一夜崩盘，AI 泡沫真要破了？",
-          "link": "https://www.ifanr.com/1690789?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-21T03:30:42.000Z",
-          "author": "山宗",
-          "contentSnippet": "AI 泡沫要破了吗\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 泡沫要破了吗<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "398a4d99b07fb8206826846925417d4dcd3a16ca",
-          "title": "刚刚，曝黎曼猜想被证明，Claude 立大功",
-          "link": "https://www.ifanr.com/1690750?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-21T01:29:09.000Z",
-          "author": "山宗",
-          "contentSnippet": "AI 恐怖如斯\r\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 恐怖如斯\r\n<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "8a9821148f803a50403c65b20338b7a2d756d08e",
-          "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
-          "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-21T00:25:08.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 三星任命手机和存储业务新负责人\r\n· 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro\r\n· ColorOS 17 上线跨品牌一碰传\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 三星任命手机和存储业务新负责人\r\n· 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro\r\n· ColorOS 17 上线跨品牌一碰传<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "c3bab09eb8f4129f31bd446341fdab1f2c4780ca",
-          "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
-          "link": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-20T10:39:47.000Z",
-          "author": "李华",
-          "contentSnippet": "最好的智驾芯片，是让你彻底忘掉它。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "最好的智驾芯片，是让你彻底忘掉它。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "ee5c9f92f07af75f3ca607cff2b2d7bf1f248587",
-          "title": "31.98 万元起！享界 V8 上市，比智界 V9 低 7 万还多了纯电版",
-          "link": "https://www.ifanr.com/1691027?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-20T10:19:56.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "鸿蒙智行的第四款 MPV 来了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "鸿蒙智行的第四款 MPV 来了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "0507062b7412d7c24c654cab16a5d5192df38555",
-          "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
-          "link": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-20T09:17:05.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "在手机里打开了一个关于 AI 的「平行宇宙」\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "在手机里打开了一个关于 AI 的「平行宇宙」<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-24T04:45:50.269Z",
+      "fetchedAt": "2026-11-24T15:50:36.779Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
