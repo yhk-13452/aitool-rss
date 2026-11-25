@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-25T09:49:42.158Z",
+  "generatedAt": "2026-11-25T19:55:45.149Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-25T09:49:42.158Z",
+      "fetchedAt": "2026-11-25T19:55:44.604Z",
       "items": [
+        {
+          "id": "5aaaa86e33a33f7a586540a2aacc8dd1ef9e9e1e",
+          "title": "翻开 2027， 值得入手的新年日历推荐",
+          "link": "https://sspai.com/post/119264",
+          "pubDate": "2026-11-25T09:48:34.000Z",
+          "author": "ElijahLee",
+          "contentSnippet": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...查看全文",
+          "content": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...<a href=\"https://sspai.com/post/119264\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "5ddbde0e5503e1b8cbd5f1707fd9857bc0825dfe",
           "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
@@ -95,23 +105,13 @@
           "contentSnippet": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
           "content": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...<a href=\"https://sspai.com/prime/story/weird-phones-are-returning\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
           "image": ""
-        },
-        {
-          "id": "24bcd9ac743e0ff9c44636f93016c7ccb306519f",
-          "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
-          "link": "https://sspai.com/post/119023",
-          "pubDate": "2026-11-23T07:12:24.000Z",
-          "author": "ElijahLee",
-          "contentSnippet": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...查看全文",
-          "content": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...<a href=\"https://sspai.com/post/119023\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-25T09:49:41.928Z",
+      "fetchedAt": "2026-11-25T19:55:45.148Z",
       "items": [
         {
           "id": "8938f418c5ba935bdb7b4c63ceae20f0cf8ce34f",
@@ -318,7 +318,7 @@
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-25T09:49:41.488Z",
+      "fetchedAt": "2026-11-25T19:55:43.852Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
