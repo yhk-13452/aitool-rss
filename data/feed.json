@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-24T15:50:37.590Z",
+  "generatedAt": "2026-11-25T00:41:03.379Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-24T15:50:37.536Z",
+      "fetchedAt": "2026-11-25T00:41:03.013Z",
       "items": [
         {
           "id": "54903465b6bef073aff666bb2ee6ab12557e64d0",
@@ -111,8 +111,18 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-24T15:50:37.589Z",
+      "fetchedAt": "2026-11-25T00:41:03.378Z",
       "items": [
+        {
+          "id": "07335258f6eaa86864dbb09beb85c3b29f491beb",
+          "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
+          "link": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "pubDate": "2026-11-25T00:08:21.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\r\n· 神舟二十四号任务将开展一年期在轨驻留试验\r\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\r\n· 神舟二十四号任务将开展一年期在轨驻留试验\r\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "d3a874298763b4993c29bcbab783917a19778014",
           "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
@@ -302,23 +312,13 @@
           "contentSnippet": "AI 恐怖如斯\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "AI 恐怖如斯<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "6bd3fc467bf42a2ee532500fc81fac9af553bbd9",
-          "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
-          "link": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
-          "pubDate": "2026-11-22T01:34:09.000Z",
-          "author": "彭海星",
-          "contentSnippet": "我都遵纪守法了，还能叫 GTA 吗？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "我都遵纪守法了，还能叫 GTA 吗？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-24T15:50:36.779Z",
+      "fetchedAt": "2026-11-25T00:41:02.012Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
