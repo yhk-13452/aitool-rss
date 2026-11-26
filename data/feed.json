@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-25T19:55:45.149Z",
+  "generatedAt": "2026-11-26T02:49:37.941Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-25T19:55:44.604Z",
+      "fetchedAt": "2026-11-26T02:49:37.716Z",
       "items": [
+        {
+          "id": "46b6b85a46fbdd425c5b7884b6741713f1757538",
+          "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
+          "link": "https://sspai.com/post/119560",
+          "pubDate": "2026-11-26T00:08:07.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。查看全文",
+          "content": "阿里千问 Go 开放免费代打电话服务、Sand.ai 发布视频生成模型 MAGI-2 等。<a href=\"https://sspai.com/post/119560\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "5aaaa86e33a33f7a586540a2aacc8dd1ef9e9e1e",
           "title": "翻开 2027， 值得入手的新年日历推荐",
@@ -77,16 +87,6 @@
           "image": ""
         },
         {
-          "id": "77e3ca4f9b18fa4b76ba2b42472b5bf57e3ce39a",
-          "title": "派早报：黄仁勋重回英伟达，荣耀发布荣耀 700 系列新机等",
-          "link": "https://sspai.com/post/119460",
-          "pubDate": "2026-11-24T00:37:31.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文",
-          "content": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...<a href=\"https://sspai.com/post/119460\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
           "id": "06ad2306244bebc176689f6c39d7f12670985bd7",
           "title": "派评 | 近期值得关注的 App",
           "link": "https://sspai.com/post/119438",
@@ -111,8 +111,38 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-25T19:55:45.148Z",
+      "fetchedAt": "2026-11-26T02:49:37.941Z",
       "items": [
+        {
+          "id": "7eca583e02380519002f5f6e9d7c1abee163c3bd",
+          "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
+          "link": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T02:25:24.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "技术实力的外溢。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "技术实力的外溢。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "ae39210d32236ed28e624a7de92815ba6bb96cb5",
+          "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
+          "link": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T01:28:30.000Z",
+          "author": "张子豪",
+          "contentSnippet": "你用公司的 AI 省下的时间是公司的\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "你用公司的 AI 省下的时间是公司的<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "46bd57a5fbcff7b8fd08ee76a763500e2af8ede2",
+          "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
+          "link": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T00:02:57.000Z",
+          "author": "郑廷旭",
+          "contentSnippet": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6%\r\n· 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正\r\n· 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6%\r\n· 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正\r\n· 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "8938f418c5ba935bdb7b4c63ceae20f0cf8ce34f",
           "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
@@ -282,43 +312,13 @@
           "contentSnippet": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "cdbf344a6958c9122bc5761dc340a46476337602",
-          "title": "XREAL AURA 体验：科幻电影的未来，这么近那么远",
-          "link": "https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T04:00:32.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "未来可期\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "未来可期<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "50849e5485c7db187438ca050caacd94b7c9515c",
-          "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
-          "link": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T00:57:34.000Z",
-          "author": "马扶摇",
-          "contentSnippet": "面向 AI，面向世界，面向未来\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "面向 AI，面向世界，面向未来<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "86d9efa5b54752bb95931b0ed637b28aa49eac1d",
-          "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
-          "link": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T00:25:24.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 曝小米汽车欧洲团队再添一名前小鹏高管\r\n· 神舟二十四号完成发射前最后一次全区合练\r\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 曝小米汽车欧洲团队再添一名前小鹏高管\r\n· 神舟二十四号完成发射前最后一次全区合练\r\n· AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-25T19:55:43.852Z",
+      "fetchedAt": "2026-11-26T02:49:37.017Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
