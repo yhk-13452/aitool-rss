@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-11-26T02:49:37.941Z",
+  "generatedAt": "2026-11-26T12:24:39.072Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-26T02:49:37.716Z",
+      "fetchedAt": "2026-11-26T12:24:39.072Z",
       "items": [
+        {
+          "id": "ec18c15544985141649031b5c382a1725395152b",
+          "title": "App+1｜Agora：开源、易用、好用，给 Android 用户的 LLM 聊天工具",
+          "link": "https://sspai.com/post/116773",
+          "pubDate": "2026-11-26T09:30:00.000Z",
+          "author": "爱拼安小匠",
+          "contentSnippet": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。查看全文",
+          "content": "如果你在通过 API 调用你喜欢的大模型，希望它们能像 Kimi 等商业 AI 客户端那样用着顺手，那 Agora 就是为你而来的。相信我，Agora 不会让你失望。<a href=\"https://sspai.com/post/116773\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "b67cfcb4e211dd4354f4754639c64ff81109c8a0",
+          "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
+          "link": "https://sspai.com/post/119563",
+          "pubDate": "2026-11-26T07:00:00.000Z",
+          "author": "胡拉图说",
+          "contentSnippet": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文",
+          "content": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。<a href=\"https://sspai.com/post/119563\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
+        {
+          "id": "f973f65a01de8d9faa15cf26123da63bbf97860b",
+          "title": "我用AI做了一张两千年的中国历史地图",
+          "link": "https://sspai.com/post/117510",
+          "pubDate": "2026-11-26T03:13:53.000Z",
+          "author": "DeanChen",
+          "contentSnippet": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。查看全文",
+          "content": "希望这张地图，能陪更多人走一遍故纸堆里的万里江山。<a href=\"https://sspai.com/post/117510\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "46b6b85a46fbdd425c5b7884b6741713f1757538",
           "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
@@ -75,44 +105,64 @@
           "contentSnippet": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...查看全文",
           "content": "写一篇短文，我们可能只需要一个能让人打开即用的编辑器，比如说Apple用户最常用的系统备忘录，或者广为人知的桌面应用MicrosoftWord。但当文章的篇幅逐渐变长，一些原本不太起眼的事情也会变得麻 ...<a href=\"https://sspai.com/post/119035\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "00758af3808ec06a00edeb81ec8611422026d773",
-          "title": "写在动荡之后：漫步巴黎的寻常一日",
-          "link": "https://sspai.com/post/119412",
-          "pubDate": "2026-11-24T03:03:10.000Z",
-          "author": "中天与大瓶子",
-          "contentSnippet": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」查看全文",
-          "content": "巴黎市徽上的那艘船，依然留着它的格言：「任凭风浪，亦不沉没。」<a href=\"https://sspai.com/post/119412\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "06ad2306244bebc176689f6c39d7f12670985bd7",
-          "title": "派评 | 近期值得关注的 App",
-          "link": "https://sspai.com/post/119438",
-          "pubDate": "2026-11-23T10:08:29.000Z",
-          "author": "少数派编辑部",
-          "contentSnippet": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文",
-          "content": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀<a href=\"https://sspai.com/post/119438\" target=\"_blank\">查看全文</a>",
-          "image": ""
-        },
-        {
-          "id": "6613ce1634bd6d6e6c639bcb36af56055000deff",
-          "title": "怪手机们要回来了吗？",
-          "link": "https://sspai.com/prime/story/weird-phones-are-returning",
-          "pubDate": "2026-11-23T10:00:30.000Z",
-          "author": "北鸮",
-          "contentSnippet": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...查看全文\n本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-          "content": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...<a href=\"https://sspai.com/prime/story/weird-phones-are-returning\" target=\"_blank\">查看全文</a><p>本文为会员文章，出自<a href=\"https://sspai.com/prime/precog/single\" target=\"_blank\">《单篇文章》</a >，订阅后可阅读全文。</p >",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-26T02:49:37.941Z",
+      "fetchedAt": "2026-11-26T12:24:38.991Z",
       "items": [
+        {
+          "id": "3e686618216c7d61fb87cc16fcab76bf9262a329",
+          "title": "2026 年，国产模型还能追上 Opus 5.5 吗",
+          "link": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T10:02:35.000Z",
+          "author": "张子豪",
+          "contentSnippet": "这个九月就发布的模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "这个九月就发布的模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "6c9103d171d41b7141b0a0ca86aa28bb46331892",
+          "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
+          "link": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T04:28:11.000Z",
+          "author": "方俊鸣",
+          "contentSnippet": "有诚意、有新意\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "有诚意、有新意<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "e22bff1a61d8c792f60ad96348dc85987a7fee59",
+          "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
+          "link": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T04:04:24.000Z",
+          "author": "罗嘉阳",
+          "contentSnippet": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "d0abe6a3c527e36f456633a00233383dda7a2f04",
+          "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
+          "link": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T04:02:09.000Z",
+          "author": "梁梦麟",
+          "contentSnippet": "哈基米，浮出机面\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "哈基米，浮出机面<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "471a892e394953bfc76f62e6dea8645e9d8a72df",
+          "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
+          "link": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-26T03:48:29.000Z",
+          "author": "肖钦鹏",
+          "contentSnippet": "中国功夫，也能很酷\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "中国功夫，也能很酷<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "7eca583e02380519002f5f6e9d7c1abee163c3bd",
           "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
@@ -144,6 +194,16 @@
           "image": ""
         },
         {
+          "id": "3cd76daa9b272a5d60f2f32fb56add35a5ad5259",
+          "title": "蔚来发布 NOMI 4.0！0.6 秒极速响应，正式迈入「智能体」时代",
+          "link": "https://www.ifanr.com/1695482?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-25T10:47:45.000Z",
+          "author": "李华",
+          "contentSnippet": "当汽车成为物理 AI 的核心载体，一家车企该如何用 AI 重塑自己？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "当汽车成为物理 AI 的核心载体，一家车企该如何用 AI 重塑自己？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
           "id": "8938f418c5ba935bdb7b4c63ceae20f0cf8ce34f",
           "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
           "link": "https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign",
@@ -171,6 +231,16 @@
           "author": "郑廷旭",
           "contentSnippet": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\r\n· 神舟二十四号任务将开展一年期在轨驻留试验\r\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\r\n· 神舟二十四号任务将开展一年期在轨驻留试验\r\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "32d2a7ebbf090716a33f36807dcc261bbdc74606",
+          "title": "后排空间直逼迈巴赫！配置看齐六座旗舰，吉利银河 M8 预售价 19.98 万起",
+          "link": "https://www.ifanr.com/1695444?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-24T15:26:25.000Z",
+          "author": "李华",
+          "contentSnippet": "5 米 2 个车身，只放两排座椅。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "5 米 2 个车身，只放两排座椅。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
         },
         {
@@ -242,83 +312,13 @@
           "contentSnippet": "这玩笑并不好笑\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "这玩笑并不好笑<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "4555efd463f54e4d8666c8f290d158b2ab5d2989",
-          "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
-          "link": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-24T00:02:01.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒\r\n· 韩国国家资格考试恢复统一收手机，考生还穿上了围裙\r\n· 知乎参投基金间接入股 DeepSeek\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒\r\n· 韩国国家资格考试恢复统一收手机，考生还穿上了围裙\r\n· 知乎参投基金间接入股 DeepSeek<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "ac4761874f75137ec301478c81f8957d716c9bf8",
-          "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
-          "link": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T14:50:12.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "皮衣战神回宫\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "皮衣战神回宫<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "58aac541b68be12a7c23e1e71af3f3c117dc7dff",
-          "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
-          "link": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T14:30:00.000Z",
-          "author": "山宗",
-          "contentSnippet": "黄仁勋回来了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "黄仁勋回来了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "17b5a5092e9c50277fea00be0cfa791eae94cd76",
-          "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
-          "link": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T09:53:48.000Z",
-          "author": "姚桐",
-          "contentSnippet": "日本开始狂用 AI 了\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "日本开始狂用 AI 了<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "b56b2470497e136c9d5cfe05453fcd819abf0667",
-          "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
-          "link": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T08:55:14.000Z",
-          "author": "山宗",
-          "contentSnippet": "具身智能的「大结果」终于有了实感\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "具身智能的「大结果」终于有了实感<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "d750adaa62b94839f6541629e59bb7cb8e5d1a2d",
-          "title": "33.99 万起买 400V 与 8 秒零百前驱车，纯电雷克萨斯 ES 贵过头了",
-          "link": "https://www.ifanr.com/1691012?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T08:17:31.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "400V 撑不起 40 万元。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "400V 撑不起 40 万元。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "391380bfb4f5ff952378ac4bab1e0539ce593722",
-          "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
-          "link": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-23T06:07:33.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-26T02:49:37.017Z",
+      "fetchedAt": "2026-11-26T12:24:37.832Z",
       "items": [
         {
           "id": "a2ff682a38aacaa799b141dc5fdddcc91b3937e6",
