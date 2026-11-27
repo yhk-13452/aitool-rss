@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-27T05:01:15.610Z",
+  "generatedAt": "2026-11-27T15:01:14.264Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-27T05:01:15.503Z",
+      "fetchedAt": "2026-11-27T15:01:14.264Z",
       "items": [
+        {
+          "id": "4fe429773c7924a892ae0780576b4e8f86234f6f",
+          "title": "本周看什么 | 最近值得一看的 8 部作品",
+          "link": "https://sspai.com/post/119658",
+          "pubDate": "2026-11-27T08:32:46.000Z",
+          "author": "少数派编辑部",
+          "contentSnippet": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...查看全文",
+          "content": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...<a href=\"https://sspai.com/post/119658\" target=\"_blank\">查看全文</a>",
+          "image": ""
+        },
         {
           "id": "c17dfc79ecdea441c3123a286243e07205a7e435",
           "title": "「黑五」值得买：不容错过的 App 和服务优惠",
@@ -95,24 +105,164 @@
           "contentSnippet": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
           "content": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...<a href=\"https://sspai.com/post/118791\" target=\"_blank\">查看全文</a>",
           "image": ""
-        },
-        {
-          "id": "54903465b6bef073aff666bb2ee6ab12557e64d0",
-          "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
-          "link": "https://sspai.com/post/119492",
-          "pubDate": "2026-11-24T09:14:11.000Z",
-          "author": "Matrix机器人",
-          "contentSnippet": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-          "content": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...<a href=\"https://sspai.com/post/119492\" target=\"_blank\">查看全文</a>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-27T05:01:15.610Z",
+      "fetchedAt": "2026-11-27T15:01:14.194Z",
       "items": [
+        {
+          "id": "d96d2a4487dec17cae09cdf4ac121f72aafaeb29",
+          "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+          "link": "https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T12:20:17.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "十年前为中国造大空间，十年后用中国场景定义全球车。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "十年前为中国造大空间，十年后用中国场景定义全球车。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "99a6d0a8d55fe41eb731145978b084468eaa4846",
+          "title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+          "link": "https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T12:16:32.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "15 万级家用车车主，也在认真用高阶智驾了。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "15 万级家用车车主，也在认真用高阶智驾了。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "1411198ad9aa8a9ae715431104f64ca3cac38474",
+          "title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+          "link": "https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T12:13:40.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "穿西装的方盒子。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "穿西装的方盒子。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "5e61ab0b073aa61eb3cec937f1c287087fdc341d",
+          "title": "43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展",
+          "link": "https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T12:11:19.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "一个配置打天下。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "一个配置打天下。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "67afa547061d2ec06b3f224648fde931023b911f",
+          "title": "限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展",
+          "link": "https://www.ifanr.com/1695904?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T12:09:14.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "辅助驾驶上大分。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "辅助驾驶上大分。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "3829f3e9c1c01214cbd8a92d7f7d7d2bde516a77",
+          "title": "Agent 上车元年，支付宝造了一个行动座舱",
+          "link": "https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T10:01:35.000Z",
+          "author": "李超凡",
+          "contentSnippet": "智能座舱的下半场，正在从「对话智能」步入「行动智能」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "智能座舱的下半场，正在从「对话智能」步入「行动智能」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "475b221ac8e61e35ade7a0c8fbcf2f13684071be",
+          "title": "阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展",
+          "link": "https://www.ifanr.com/1695875?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T09:17:03.000Z",
+          "author": "刘学文",
+          "contentSnippet": "阿维塔的旗舰 SUV 虽迟但到。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "阿维塔的旗舰 SUV 虽迟但到。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "26002215c88f018f141d5c7dfa89ef9df2715d2a",
+          "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+          "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T09:06:19.000Z",
+          "author": "张子豪",
+          "contentSnippet": "这可能是我们见过最离谱的 AI 生成 PPT。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "这可能是我们见过最离谱的 AI 生成 PPT。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "0c18ed6844ff4a05636ae9c04ff6f8a8eed41487",
+          "title": "蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型丨广州车展",
+          "link": "https://www.ifanr.com/1695848?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T08:55:27.000Z",
+          "author": "刘学文",
+          "contentSnippet": "萤火虫渡过了最困难的时期。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "萤火虫渡过了最困难的时期。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "0af257490a6aa0d42ac33de34dfe4eff6fe1d925",
+          "title": "限时 25.49 万元起！奔驰纯电 GLC「大件夹抵食」",
+          "link": "https://www.ifanr.com/1695815?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T08:49:16.000Z",
+          "author": "李华",
+          "contentSnippet": "智能化，不再是新势力的独角戏。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "智能化，不再是新势力的独角戏。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "9444367bd2005b85f91d642d2bc45b7e5a712333",
+          "title": "广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底｜广州车展",
+          "link": "https://www.ifanr.com/1695800?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T08:31:22.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "不再有「小字免责」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "不再有「小字免责」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "93982e5e7c2846f37144ea67163d08dfaeb50e98",
+          "title": "10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展",
+          "link": "https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T08:21:35.000Z",
+          "author": "刘学文",
+          "contentSnippet": "零跑 Lafa5 不是零跑卖得最好的车，但一定是零跑最有趣的车。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "零跑 Lafa5 不是零跑卖得最好的车，但一定是零跑最有趣的车。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "9162531c03dda7053f40a2a7f31f723cd9f3e3ec",
+          "title": "30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相｜广州车展",
+          "link": "https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T08:01:41.000Z",
+          "author": "陈世琛",
+          "contentSnippet": "问界的拳头产品迎来换代。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "问界的拳头产品迎来换代。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "818797913720bfe9f4a17584f66ffb017e279f12",
+          "title": "30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展",
+          "link": "https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T07:29:45.000Z",
+          "author": "刘学文",
+          "contentSnippet": "大车就是要七座。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "大车就是要七座。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "156b61f1da15afa9a21c42f17643a27e28caddcc",
+          "title": "华为全新一代巨鲸电池平台：电池安全，不能只看新车出厂的那一天",
+          "link": "https://www.ifanr.com/1695738?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T07:06:54.000Z",
+          "author": "刘学文",
+          "contentSnippet": "安全是个警钟长鸣的事情。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "安全是个警钟长鸣的事情。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "ca217b3417a8d653302b0b11ad77175457a49222",
           "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
@@ -162,163 +312,13 @@
           "contentSnippet": "20 美元的会员费，养不起一个全天候工作的 AI\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "20 美元的会员费，养不起一个全天候工作的 AI<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "6c9103d171d41b7141b0a0ca86aa28bb46331892",
-          "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
-          "link": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T04:28:11.000Z",
-          "author": "方俊鸣",
-          "contentSnippet": "有诚意、有新意\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "有诚意、有新意<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "e22bff1a61d8c792f60ad96348dc85987a7fee59",
-          "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
-          "link": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T04:04:24.000Z",
-          "author": "罗嘉阳",
-          "contentSnippet": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "d0abe6a3c527e36f456633a00233383dda7a2f04",
-          "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
-          "link": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T04:02:09.000Z",
-          "author": "梁梦麟",
-          "contentSnippet": "哈基米，浮出机面\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "哈基米，浮出机面<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "471a892e394953bfc76f62e6dea8645e9d8a72df",
-          "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
-          "link": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T03:48:29.000Z",
-          "author": "肖钦鹏",
-          "contentSnippet": "中国功夫，也能很酷\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "中国功夫，也能很酷<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "7eca583e02380519002f5f6e9d7c1abee163c3bd",
-          "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
-          "link": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T02:25:24.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "技术实力的外溢。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "技术实力的外溢。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "ae39210d32236ed28e624a7de92815ba6bb96cb5",
-          "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
-          "link": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T01:28:30.000Z",
-          "author": "张子豪",
-          "contentSnippet": "你用公司的 AI 省下的时间是公司的\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "你用公司的 AI 省下的时间是公司的<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "46bd57a5fbcff7b8fd08ee76a763500e2af8ede2",
-          "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
-          "link": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T00:02:57.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6%\r\n· 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正\r\n· 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6%\r\n· 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正\r\n· 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "3cd76daa9b272a5d60f2f32fb56add35a5ad5259",
-          "title": "蔚来发布 NOMI 4.0！0.6 秒极速响应，正式迈入「智能体」时代",
-          "link": "https://www.ifanr.com/1695482?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-25T10:47:45.000Z",
-          "author": "李华",
-          "contentSnippet": "当汽车成为物理 AI 的核心载体，一家车企该如何用 AI 重塑自己？\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "当汽车成为物理 AI 的核心载体，一家车企该如何用 AI 重塑自己？<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "8938f418c5ba935bdb7b4c63ceae20f0cf8ce34f",
-          "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
-          "link": "https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-25T09:00:30.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "打印机开始卷手艺\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "打印机开始卷手艺<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "d58e24ac3cae81b6dd2224fc63b978e7fdc53952",
-          "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
-          "link": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-25T05:21:04.000Z",
-          "author": "张子豪",
-          "contentSnippet": "AI 视频「烧钱」终结者\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "AI 视频「烧钱」终结者<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "07335258f6eaa86864dbb09beb85c3b29f491beb",
-          "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
-          "link": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-25T00:08:21.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\r\n· 神舟二十四号任务将开展一年期在轨驻留试验\r\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S\r\n· 神舟二十四号任务将开展一年期在轨驻留试验\r\n· PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "32d2a7ebbf090716a33f36807dcc261bbdc74606",
-          "title": "后排空间直逼迈巴赫！配置看齐六座旗舰，吉利银河 M8 预售价 19.98 万起",
-          "link": "https://www.ifanr.com/1695444?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-24T15:26:25.000Z",
-          "author": "李华",
-          "contentSnippet": "5 米 2 个车身，只放两排座椅。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "5 米 2 个车身，只放两排座椅。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "d3a874298763b4993c29bcbab783917a19778014",
-          "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
-          "link": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-24T13:36:06.000Z",
-          "author": "陈世琛",
-          "contentSnippet": "十年之后，比亚迪唐终于卸下了第三排的担子。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "十年之后，比亚迪唐终于卸下了第三排的担子。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "10fe40d6402403205666f97aa0741c4f86d33108",
-          "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
-          "link": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-24T11:04:40.000Z",
-          "author": "山宗",
-          "contentSnippet": "Personal Agent 的下半场，拼的是主动办事\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "Personal Agent 的下半场，拼的是主动办事<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "3a16148773347f905bb67017dad11acf2933b94e",
-          "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
-          "link": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-24T10:30:04.000Z",
-          "author": "郑廷旭",
-          "contentSnippet": "一亿台鸿蒙设备之后\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "一亿台鸿蒙设备之后<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-27T05:01:14.797Z",
+      "fetchedAt": "2026-11-27T15:01:13.374Z",
       "items": [
         {
           "id": "10b93bba0282b2ab11f5bab9b30db4b3df11ce5c",
