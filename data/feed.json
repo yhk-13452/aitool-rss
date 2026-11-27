@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-27T15:01:14.264Z",
+  "generatedAt": "2026-11-27T23:25:47.372Z",
   "feeds": [
     {
       "id": "sspai",
       "title": "少数派",
-      "fetchedAt": "2026-11-27T15:01:14.264Z",
+      "fetchedAt": "2026-11-27T23:25:47.184Z",
       "items": [
         {
           "id": "4fe429773c7924a892ae0780576b4e8f86234f6f",
@@ -111,8 +111,28 @@
     {
       "id": "ifanr",
       "title": "爱范儿",
-      "fetchedAt": "2026-11-27T15:01:14.194Z",
+      "fetchedAt": "2026-11-27T23:25:47.372Z",
       "items": [
+        {
+          "id": "420cd2d1e800cc6fd40e9404cac93c9f801604e4",
+          "title": "24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展",
+          "link": "https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T16:41:37.000Z",
+          "author": "李华",
+          "contentSnippet": "新世代的宝马，依旧是「驾驶者之车」。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "新世代的宝马，依旧是「驾驶者之车」。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
+        {
+          "id": "e1f5e2817553d0b32336ac865f9cda63d9397403",
+          "title": "9.69 万元，奇瑞 QQ3 变身一辆可以开咖啡馆的「QQ 啡车」丨广州车展",
+          "link": "https://www.ifanr.com/1695964?utm_source=rss&utm_medium=rss&utm_campaign",
+          "pubDate": "2026-11-27T15:29:34.000Z",
+          "author": "刘学文",
+          "contentSnippet": "生活方式，可大可小。\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+          "content": "生活方式，可大可小。<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
+          "image": ""
+        },
         {
           "id": "d96d2a4487dec17cae09cdf4ac121f72aafaeb29",
           "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
@@ -292,33 +312,13 @@
           "contentSnippet": "· 腾讯《英雄联盟电竞经理》将于明年 1 月停运\r\n· 小米中国区总裁王晓雁将分管生态链与大家电\r\n· 华为引望发布星驰辅助驾驶，预计明年搭载到逾 10 款新车\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
           "content": "· 腾讯《英雄联盟电竞经理》将于明年 1 月停运\r\n· 小米中国区总裁王晓雁将分管生态链与大家电\r\n· 华为引望发布星驰辅助驾驶，预计明年搭载到逾 10 款新车<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
           "image": ""
-        },
-        {
-          "id": "3e686618216c7d61fb87cc16fcab76bf9262a329",
-          "title": "2026 年，国产模型还能追上 Opus 5.5 吗",
-          "link": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T10:02:35.000Z",
-          "author": "张子豪",
-          "contentSnippet": "这个九月就发布的模型\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "这个九月就发布的模型<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
-        },
-        {
-          "id": "92c05770d1395e972c43097f054c982b9169b8ad",
-          "title": "ChatGPT即将到来的大更新，为何让老用户集体破防",
-          "link": "https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign",
-          "pubDate": "2026-11-26T09:51:52.000Z",
-          "author": "山宗",
-          "contentSnippet": "20 美元的会员费，养不起一个全天候工作的 AI\n#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-          "content": "20 美元的会员费，养不起一个全天候工作的 AI<p>#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。</p>",
-          "image": ""
         }
       ]
     },
     {
       "id": "ruanyifeng",
       "title": "阮一峰的网络日志",
-      "fetchedAt": "2026-11-27T15:01:13.374Z",
+      "fetchedAt": "2026-11-27T23:25:46.356Z",
       "items": [
         {
           "id": "10b93bba0282b2ab11f5bab9b30db4b3df11ce5c",
